@@ -16,5 +16,7 @@
     "synopsis": ""
   },
   "status": "published",
-  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets"
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets",
+  "book_id": 840,
+  "book_url": "https://bubblin.io/book/the-iliad-by-homer"
 }
