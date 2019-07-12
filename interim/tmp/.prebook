@@ -37,7 +37,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "They were married; careful cultivation ripened the talents which nature had bestowed, and Melesigenes soon surpassed his schoolfellows in every attainment, and, when older, rivalled his preceptor in wisdom. Phemius died, leaving him sole heir to his property, and his mother soon followed. Melesigenes carried on his adopted father's school with great success, exciting the admiration not only of the inhabitants of Smyrna, but also of the strangers whom the trade carried on there, especially in the exportation of corn, attracted to that city. Among these visitors, one Mentes, from Leucadia, the modern Santa Maura, who evinced a knowledge and intelligence rarely found in those times, persuaded Melesigenes to close his school, and accompany him on his travels. He promised not only to pay his expenses, but to furnish him with a further stipend, urging, that, \"While he was yet young, it was fitting that he should see with his own eyes the countries and cities which might hereafter be the subjects of his discourses.\" Melesigenes consented, and set out with his patron, \"examining all the curiosities of the countries they visited, and informing himself of everything by interrogating those whom he met.\" We may also suppose, that he wrote memoirs of all that he deemed worthy of preservation"
+    "innerHtml": "They were married; careful cultivation ripened the talents which nature had bestowed, and Melesigenes soon surpassed his schoolfellows in every attainment, and, when older, rivalled his preceptor in wisdom. Phemius died, leaving him sole heir to his property, and his mother soon followed. Melesigenes carried on his adopted father's school with great success, exciting the admiration not only of the inhabitants of Smyrna, but also of the strangers whom the trade carried on there, especially in the exportation of corn, attracted to that city. Among these visitors, one Mentes, from Leucadia, the modern Santa Maura, who evinced a knowledge and intelligence rarely found in those times, persuaded Melesigenes to close his school, and accompany him on his travels. He promised not only to pay his expenses, but to furnish him with a further stipend, urging, that, \"While he was yet young, it was fitting that he should see with his own eyes the countries and cities which might hereafter be the subjects of his discourses.\" Melesigenes consented, and set out with his patron, \"examining all the curiosities of the countries they visited, and informing himself of everything by interrogating those whom he met.\" We may also suppose, that he wrote memoirs of all that he deemed worthy of preservation. Having set sail from Tyrrhenia and Iberia, they reached Ithaca. Here Melesigenes, who had already suffered in his eyes, became much worse, and Mentes, who was about to leave for Leucadia, left him to the medical superintendence of a friend of his, named Mentor, the son of Alcinor. Under his hospitable and intelligent host, Melesigenes rapidly became acquainted with the legends respecting Ulysses, which afterwards formed the subject of the Odyssey. The inhabitants of Ithaca assert, that it was here that Melesigenes became blind, but the Colophomans make their city the seat of that misfortune. He then returned to Smyrna, where he applied himself to the study of poetry."
   },
   {
     "tag": "p",
@@ -144,32 +144,8 @@
     "innerHtml": "\"We cannot but think the universal admiration of its unity by the better, the poetic age of Greece, almost conclusive testimony to its original composition. It was not till the age of the grammarians that its primitive integrity was called in question; nor is it injustice to assert, that the minute and analytical spirit of a grammarian is not the best qualification for the profound feeling, the comprehensive conception of an harmonious whole. The most exquisite anatomist may be no judge of the symmetry of the human frame: and we would take the opinion of Chantrey or Westmacott on the proportions and general beauty of a form, rather than that of Mr. Brodie or Sir Astley Cooper."
   },
   {
-    "tag": "p",
-    "innerHtml": "\"There is some truth, though some malicious exaggeration, in the lines of Pope.—"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"'The critic eye—that microscope of wit"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Sees hairs and pores, examines bit by bit,"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "How parts relate to parts, or they to whole"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "The body's harmony, the beaming soul,"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Are things which Kuster, Burmann, Wasse, shall see,"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "When man's whole frame is obvious to a flea.'\""
+    "tag": "pre",
+    "innerHtml": "\"There is some truth, though some malicious exaggeration, in the lines of Pope.— \n\n\"'The critic eye—that microscope of wit \nSees hairs and pores, examines bit by bit, \n\nHow parts relate to parts, or they to whole \nThe body's harmony, the beaming soul, \nAre things which Kuster, Burmann, Wasse, shall see, \nWhen man's whole frame is obvious to a flea.'\""
   },
   {
     "tag": "p",
@@ -181,7 +157,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Two French writers—Hedelin and Perrault—avowed a similar scepticism on the subject; but it is in the \"Scienza Nuova\" of Battista Vico, that we first meet with the germ of the theory, subsequently defended by Wolf with so much learning and acuteness. Indeed, it is with the Wolfian theory that we have chiefly to deal, and with the following bold hypothesis, which we will detail in the words of Grote —"
+    "innerHtml": "Two French writers—Hedelin and Perrault—avowed a similar scepticism on the subject; but it is in the \"Scienza Nuova\" of Battista Vico, that we first meet with the germ of the theory, subsequently defended by Wolf with so much learning and acuteness. Indeed, it is with the Wolfian theory that we have chiefly to deal, and with the following bold hypothesis, which we will detail in the words of Grote: —"
   },
   {
     "tag": "p",
@@ -205,7 +181,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "But even Peisistratus has not been suffered to remain in possession of the credit, and we cannot help feeling the force of the following observations—"
+    "innerHtml": "But even Peisistratus has not been suffered to remain in possession of the credit, and we cannot help feeling the force of the following observations:—"
   },
   {
     "tag": "p",
@@ -225,7 +201,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "\"Moreover,\" he continues, \"the whole tenor of the poems themselves confirms what is here remarked. There is nothing, either in the Iliad or Odyssey, which savours of modernism, applying that term to the age of Peisistratus—nothing which brings to our view the alterations brought about by two centuries, in the Greek language, the coined money, the habits of writing and reading, the despotisms and republican governments, the close military array, the improved construction of ships, the Amphiktyonic convocations, the mutual frequentation of religious festivals, the Oriental and Egyptian veins of religion, &c., familiar to the latter epoch. These alterations Onomakritus, and the other literary friends of Peisistratus, could hardly have failed to notice, even without design, had they then, for the first time, undertaken the task of piecing together many self existent epics into one large aggregate. Everything in the two great Homeric poems, both in substance and in language, belongs to an age two or three centuries earlier than Peisistratus. Indeed, even the interpolations (or those passages which, on the best grounds, are pronounced to be such) betray no trace of the sixth century before Christ, and may well have been heard by Archilochus and Kallinus—in some cases even by Arktinus and Hesiod—as genuine Homeric matter"
+    "innerHtml": "\"Moreover,\" he continues, \"the whole tenor of the poems themselves confirms what is here remarked. There is nothing, either in the Iliad or Odyssey, which savours of modernism, applying that term to the age of Peisistratus—nothing which brings to our view the alterations brought about by two centuries, in the Greek language, the coined money, the habits of writing and reading, the despotisms and republican governments, the close military array, the improved construction of ships, the Amphiktyonic convocations, the mutual frequentation of religious festivals, the Oriental and Egyptian veins of religion, &c., familiar to the latter epoch. These alterations Onomakritus, and the other literary friends of Peisistratus, could hardly have failed to notice, even without design, had they then, for the first time, undertaken the task of piecing together many self existent epics into one large aggregate. Everything in the two great Homeric poems, both in substance and in language, belongs to an age two or three centuries earlier than Peisistratus. Indeed, even the interpolations (or those passages which, on the best grounds, are pronounced to be such) betray no trace of the sixth century before Christ, and may well have been heard by Archilochus and Kallinus—in some cases even by Arktinus and Hesiod—as genuine Homeric matter. As far as the evidences on the case, as well internal as external, enable us to judge, we seem warranted in believing that the Iliad and Odyssey were recited substantially as they now stand (always allowing for paitial divergences of text and interpolations) in 776 B.C., our first trustworthy mark of Grecian time; and this ancient date, let it be added, as it is the best-authenticated fact, so it is also the most important attribute of the Homeric poems, considered in reference to Grecian history; for they thus afford us an insight into the anti-historical character of the Greeks, enabling us to trace the subsequent forward march of the nation, and to seize instructive contrasts between their former and their later condition.\""
   },
   {
     "tag": "p",
@@ -496,20 +472,8 @@
     "innerHtml": "What I have done is submitted to the public; from whose opinions I am prepared to learn; though I fear no judges so little as our best poets, who are most sensible of the weight of this task. As for the worst, whatever they shall please to say, they may give me some concern as they are unhappy men, but none as they are malignant writers. I was guided in this translation by judgments very different from theirs, and by persons for whom they can have no kindness, if an old observation be true, that the strongest antipathy in the world is that of fools to men of wit. Mr. Addison was the first whose advice determined me to undertake this task; who was pleased to write to me upon that occasion in such terms as I cannot repeat without vanity. I was obliged to Sir Richard Steele for a very early recommendation of my undertaking to the public. Dr. Swift promoted my interest with that warmth with which he always serves his friend. The humanity and frankness of Sir Samuel Garth are what I never knew wanting on any occasion. I must also acknowledge, with infinite pleasure, the many friendly offices, as well as sincere criticisms, of Mr. Congreve, who had led me the way in translating some parts of Homer. I must add the names of Mr. Rowe, and Dr. Parnell, though I shall take a further opportunity of doing justice to the last, whose good nature (to give it a great panegyric), is no less extensive than his learning. The favour of these gentlemen is not entirely undeserved by one who bears them so true an affection. But what can I say of the honour so many of the great have done me; while the first names of the age appear as my subscribers, and the most distinguished patrons and ornaments of learning as my chief encouragers? Among these it is a particular pleasure to me to find, that my highest obligations are to such who have done most honour to the name of poet: that his grace the Duke of Buckingham was not displeased I should undertake the author to whom he has given (in his excellent Essay), so complete a praise:"
   },
   {
-    "tag": "p",
-    "innerHtml": "\"Read Homer once, and you can read no more;"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "For all books else appear so mean, so poor,"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "Verse will seem prose: but still persist to read,"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "And Homer will be all the books you need.\""
+    "tag": "pre",
+    "innerHtml": "\"Read Homer once, and you can read no more; For all books else appear so mean, so poor, Verse will seem prose: but still persist to read, And Homer will be all the books you need.\""
   },
   {
     "tag": "p",
@@ -528,16 +492,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h2",
-    "innerHtml": "Book I. The Contention Of Achilles And Agamemnon."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "I. The Contention Of Achilles And Agamemnon."
   },
   {
     "tag": "p",
@@ -734,10 +690,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image01.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>HOMER INVOKING THE MUSE.</caption>"
   },
   {
     "tag": "p",
@@ -1329,10 +1281,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>MARS.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "At this, Pelides, frowning stern, replied:"
   },
   {
@@ -1638,10 +1586,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image03.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>MINERVA REPRESSING THE FURY OF ACHILLES.</caption>"
   },
   {
     "tag": "p",
@@ -2373,10 +2317,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>THE DEPARTURE OF BRISEIS FROM THE TENT OF ACHILLES. </caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "Patroclus now the unwilling beauty brought;"
   },
   {
@@ -2738,10 +2678,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image05.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THETIS CALLING BRIAREUS TO THE ASSISTANCE OF JUPITER.</caption>"
   },
   {
     "tag": "p",
@@ -3237,10 +3173,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>THETIS ENTREATING JUPITER TO HONOUR ACHILLES.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "Thus Thetis spoke; but Jove in silence held"
   },
   {
@@ -3541,10 +3473,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>VULCAN.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "The thunderer spoke, nor durst the queen reply;"
   },
   {
@@ -3732,28 +3660,16 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image08.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>JUPITER.</caption>"
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image09.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THE APOTHEOSIS OF HOMER.</caption>"
   },
   {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Ii. The Trial Of The Army, And Catalogue Of The Forces."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Ii. The Trial Of The Army, And Catalogue Of The Forces."
   },
   {
     "tag": "p",
@@ -3862,10 +3778,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image10.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>JUPITER SENDING THE EVIL DREAM TO AGAMEMNON.</caption>"
   },
   {
     "tag": "p",
@@ -6125,10 +6037,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>NEPTUNE.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "The hardy warriors whom Boeotia bred,"
   },
   {
@@ -8076,12 +7984,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Iii. The Duel Of Menelaus And Paris."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Iii. The Duel Of Menelaus And Paris."
   },
   {
     "tag": "p",
@@ -10017,10 +9921,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>VENUS, DISGUISED, INVITING HELEN TO THE CHAMBER OF PARIS.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "\"Haste, happy nymph! for thee thy Paris calls,"
   },
   {
@@ -10150,10 +10050,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image13.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>VENUS PRESENTING HELEN TO PARIS.</caption>"
   },
   {
     "tag": "p",
@@ -10417,27 +10313,15 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>VENUS.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "![Illustration: Map, titled \"Graeciae Antiquae\".](images/image15.png \"Map, titled \"Graeciae Antiquae\".\")"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>Map, titled \"Graeciae Antiquae\".</caption>"
   },
   {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Iv. The Breach Of The Truce, And The First Battle."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Iv. The Breach Of The Truce, And The First Battle."
   },
   {
     "tag": "p",
@@ -10586,10 +10470,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image16.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THE COUNCIL OF THE GODS.</caption>"
   },
   {
     "tag": "p",
@@ -13008,20 +12888,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image17.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>Map of the Plain of Troy.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book V. The Acts Of Diomed."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "V. The Acts Of Diomed."
   },
   {
     "tag": "p",
@@ -14893,10 +14765,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>VENUS, WOUNDED IN THE HAND, CONDUCTED BY IRIS TO MARS.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "Then she: \"This insult from no god I found,"
   },
   {
@@ -15010,10 +14878,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image19.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>OTUS AND EPHIALTES HOLDING MARS CAPTIVE.</caption>"
   },
   {
     "tag": "p",
@@ -17201,10 +17065,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption> DIOMED CASTING HIS SPEAR AT MARS.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "Just then gigantic Periphas lay slain,"
   },
   {
@@ -17544,20 +17404,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image20a.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>JUNO.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Vi. The Episodes Of Glaucus And Diomed, And Of Hector And Andromache."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Vi. The Episodes Of Glaucus And Diomed, And Of Hector And Andromache."
   },
   {
     "tag": "p",
@@ -19289,10 +19141,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>HECTOR CHIDING PARIS.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "He said, nor answer'd Priam's warlike son;"
   },
   {
@@ -19614,10 +19462,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image22.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THE MEETING OF HECTOR AND ANDROMACHE.</caption>"
   },
   {
     "tag": "p",
@@ -20304,24 +20148,16 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image23.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>BOWS AND BOW CASE.</caption>"
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image24.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>IRIS.</caption>"
   },
   {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Vii. The Single Combat Of Hector And Ajax."
+    "tag": "h3",
+    "innerHtml": "Vii. The Single Combat Of Hector And Ajax."
   },
   {
     "tag": "p",
@@ -21685,10 +21521,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>HECTOR AND AJAX SEPARATED BY THE HERALDS.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "\"Forbear, my sons! your further force to prove,"
   },
   {
@@ -22664,20 +22496,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image26.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>GREEK AMPHORA—WINE VESSELS.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Viii. The Second Battle, And The Distress Of The Greeks."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Viii. The Second Battle, And The Distress Of The Greeks."
   },
   {
     "tag": "p",
@@ -24641,10 +24465,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>JUNO AND MINERVA GOING TO ASSIST THE GREEKS.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "\"Thaumantia! mount the winds, and stop their car;"
   },
   {
@@ -24862,10 +24682,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image28.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THE HOURS TAKING THE HORSES FROM JUNO'S CAR.</caption>"
   },
   {
     "tag": "p",
@@ -25540,20 +25356,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image29.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>THE SHIELD OF ACHILLES.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Ix. The Embassy To Achilles."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Ix. The Embassy To Achilles."
   },
   {
     "tag": "p",
@@ -26425,10 +26233,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>PLUTO.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "The monarch thus. The reverend Nestor then:"
   },
   {
@@ -26478,10 +26282,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image33.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THE EMBASSY TO ACHILLES.</caption>"
   },
   {
     "tag": "p",
@@ -27805,10 +27605,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>GREEK GALLEY.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "The son of Peleus ceased: the chiefs around"
   },
   {
@@ -27834,10 +27630,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image31.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>PROSERPINE.</caption>"
   },
   {
     "tag": "p",
@@ -28948,20 +28740,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image34.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>ACHILLES.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book X. The Night-adventure Of Diomed And Ulysses."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "X. The Night-adventure Of Diomed And Ulysses."
   },
   {
     "tag": "p",
@@ -31469,10 +31253,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>DIOMED AND ULYSSES RETURNING WITH THE SPOILS OF RHESUS.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "Old Nestor first perceived the approaching sound,"
   },
   {
@@ -31705,7 +31485,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "BOOK XI. THE THIRD BATTLE, AND THE ACTS OF AGAMEMNON."
+    "innerHtml": "XI. THE THIRD BATTLE, AND THE ACTS OF AGAMEMNON."
   },
   {
     "tag": "p",
@@ -31794,10 +31574,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image36.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THE DESCENT OF DISCORD.</caption>"
   },
   {
     "tag": "p",
@@ -35672,20 +35448,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image37.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>HERCULES.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xii. The Battle At The Grecian Wall."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xii. The Battle At The Grecian Wall."
   },
   {
     "tag": "p",
@@ -36062,10 +35830,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image38.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>POLYDAMAS ADVISING HECTOR.</caption>"
   },
   {
     "tag": "p",
@@ -37952,20 +37716,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image39.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>GREEK ALTAR.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xiii. The Fourth Battle Continued, In Which Neptune Assists The Greeks: The Acts Of Idomeneus."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xiii. The Fourth Battle Continued, In Which Neptune Assists The Greeks: The Acts Of Idomeneus."
   },
   {
     "tag": "p",
@@ -38266,10 +38022,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image40.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>NEPTUNE RISING FROM THE SEA.</caption>"
   },
   {
     "tag": "p",
@@ -42232,20 +41984,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image41.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>GREEK EARRINGS.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xiv. Juno Deceives Jupiter By The Girdle Of Venus."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xiv. Juno Deceives Jupiter By The Girdle Of Venus."
   },
   {
     "tag": "p",
@@ -43521,10 +43265,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>SLEEP ESCAPING FROM THE WRATH OF JUPITER.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "Then swift as wind, o'er Lemnos' smoky isle"
   },
   {
@@ -44006,10 +43746,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image43.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>GREEK SHIELD.</caption>"
   },
   {
     "tag": "p",
@@ -44744,20 +44480,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image44.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>BACCHUS.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xv. The Fifth Battle At The Ships; And The Acts Of Ajax."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xv. The Fifth Battle At The Ships; And The Acts Of Ajax."
   },
   {
     "tag": "p",
@@ -48245,10 +47973,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>AJAX DEFENDING THE GREEK SHIPS.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "\"Haste, bring the flames! that toil of ten long years"
   },
   {
@@ -48412,16 +48136,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image46.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>CASTOR AND POLLUX.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xvi. The Sixth Battle, The Acts And Death Of Patroclus"
+    "tag": "h3",
+    "innerHtml": "Xvi. The Sixth Battle, The Acts And Death Of Patroclus"
   },
   {
     "tag": "p",
@@ -49446,10 +49166,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image48.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>DIANA.</caption>"
   },
   {
     "tag": "p",
@@ -51741,10 +51457,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>SLEEP AND DEATH CONVEYING THE BODY OF SARPEDON TO LYCIA.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "Apollo bows, and from mount Ida's height,"
   },
   {
@@ -52664,12 +52376,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xvii. The Seventh Battle, For The Body Of Patroclus.—the Acts Of Menelaus."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xvii. The Seventh Battle, For The Body Of Patroclus.—the Acts Of Menelaus."
   },
   {
     "tag": "p",
@@ -53974,10 +53682,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image51.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>FIGHT FOR THE BODY OF PATROCLUS.</caption>"
   },
   {
     "tag": "p",
@@ -56108,20 +55812,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image52.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>VULCAN FROM AN ANTIQUE GEM.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xviii. The Grief Of Achilles, And New Armour Made Him By Vulcan."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xviii. The Grief Of Achilles, And New Armour Made Him By Vulcan."
   },
   {
     "tag": "p",
@@ -56877,10 +56573,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>THETIS ORDERING THE NEREIDS TO DESCEND INTO THE SEA.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "And now the Greeks from furious Hector's force,"
   },
   {
@@ -57338,10 +57030,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image54.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>JUNO COMMANDING THE SUN TO SET.</caption>"
   },
   {
     "tag": "p",
@@ -57877,10 +57565,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>TRIPOD.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "So they. Meanwhile the silver-footed dame"
   },
   {
@@ -57986,10 +57670,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image56.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THETIS AND EURYNOME RECEIVING THE INFANT VULCAN.</caption>"
   },
   {
     "tag": "p",
@@ -58162,10 +57842,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image57.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>VULCAN AND CHARIS RECEIVING THETIS.</caption>"
   },
   {
     "tag": "p",
@@ -59028,12 +58704,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xix. The Reconciliation Of Achilles And Agamemnon."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xix. The Reconciliation Of Achilles And Agamemnon."
   },
   {
     "tag": "p",
@@ -59198,10 +58870,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image58.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THETIS BRINGING THE ARMOUR TO ACHILLES.</caption>"
   },
   {
     "tag": "p",
@@ -60940,20 +60608,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image59.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>HERCULES.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xx. The Battle Of The Gods, And The Acts Of Achilles."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xx. The Battle Of The Gods, And The Acts Of Achilles."
   },
   {
     "tag": "p",
@@ -61318,10 +60978,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image60.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THE GODS DESCENDING TO BATTLE.</caption>"
   },
   {
     "tag": "p",
@@ -63336,20 +62992,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image61.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>CENTAUR.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xxi. The Battle In The River Scamander."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xxi. The Battle In The River Scamander."
   },
   {
     "tag": "p",
@@ -64873,10 +64521,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>ACHILLES CONTENDING WITH THE RIVERS.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "He said; and on the chief descends amain,"
   },
   {
@@ -66268,12 +65912,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xxii. The Death Of Hector."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xxii. The Death Of Hector."
   },
   {
     "tag": "p",
@@ -68597,10 +68237,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>THE BATH.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "\"Ah follow me! (she cried) what plaintive noise"
   },
   {
@@ -68722,10 +68358,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image64.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>ANDROMACHE FAINTING ON THE WALL.</caption>"
   },
   {
     "tag": "p",
@@ -68956,12 +68588,8 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xxiii. Funeral Games In Honour Of Patroclus."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xxiii. Funeral Games In Honour Of Patroclus."
   },
   {
     "tag": "p",
@@ -69914,10 +69542,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image65.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THE FUNERAL PILE OF PATROCLUS.</caption>"
   },
   {
     "tag": "p",
@@ -73236,20 +72860,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image65a.png"
   },
   {
-    "tag": "p",
-    "innerHtml": "<caption>CERES.</caption>"
-  },
-  {
     "tag": "hr",
     "innerHtml": ""
   },
   {
-    "tag": "h2",
-    "innerHtml": "Book Xxiv. The Redemption Of The Body Of Hector."
-  },
-  {
-    "tag": "p",
-    "innerHtml": "ARGUMENT."
+    "tag": "h3",
+    "innerHtml": "Xxiv. The Redemption Of The Body Of Hector."
   },
   {
     "tag": "p",
@@ -73437,10 +73053,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>HECTOR'S BODY AT THE CAR OF ACHILLES.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "\"Unpitying powers! how oft each holy fane"
   },
   {
@@ -73546,10 +73158,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image67.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>THE JUDGMENT OF PARIS.</caption>"
   },
   {
     "tag": "p",
@@ -74054,10 +73662,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-iliad/master/assets/images/image68.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<caption>IRIS ADVISES PRIAM TO OBTAIN THE BODY OF HECTOR.</caption>"
   },
   {
     "tag": "p",
@@ -77241,10 +76845,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<caption>FUNERAL OF HECTOR.</caption>"
-  },
-  {
-    "tag": "p",
     "innerHtml": "He spoke, and, at his word, the Trojan train"
   },
   {
@@ -77360,7 +76960,7 @@
     "innerHtml": ""
   },
   {
-    "tag": "h2",
+    "tag": "h3",
     "innerHtml": "Concluding Note."
   },
   {

@@ -1,302 +1,553 @@
+### INTRODUCTION.
 
 
-* * *
-
-\[pg ix\]
-
-INTRODUCTION.
-=============
 
 Scepticism is as much the result of knowledge, as knowledge is of scepticism. To be content with what we at present know, is, for the most part, to shut our ears against conviction; since, from the very gradual character of our education, we must continually forget, and emancipate ourselves from, knowledge previously acquired; we must set aside old notions and embrace fresh ones; and, as we learn, we must be daily unlearning something which it has cost us no small labour and anxiety to acquire.
 
-And this difficulty attaches itself more closely to an age in which progress has gained a strong ascendency over prejudice, and in which persons and things are, day by day, finding their real level, in lieu of their conventional value. The same principles which have swept away traditional abuses, and which are making rapid havoc among the revenues of sinecurists, and stripping the thin, tawdry veil from attractive superstitions, are working as actively in literature as in society. The credulity of one writer, or the partiality of another, finds as powerful a touchstone and as wholesome a chastisement in the healthy scepticism of a temperate class of antagonists, as the dreams of conservatism, or the impostures of pluralist sinecures in the Church. History and tradition, whether of ancient or comparatively recent times, are subjected to very different handling from that which the indulgence or credulity of former ages could allow. Mere statements are jealously watched, and the motives of the writer form as important an ingredient in the analysis of his history, as the facts he records. Probability is a powerful and troublesome test; and it is by this troublesome standard that a large portion of historical evidence is sifted. Consistency is no less pertinacious and exacting in its demands. In brief, to write a history, we must know more than mere facts. Human nature, viewed under an induction of extended experience, is the best help to the criticism of human history. Historical characters can only be estimated by the standard which human experience, whether actual or traditionary, has furnished. To form correct views of individuals we must regard them as forming parts of a great whole—we must measure them by their relation to the mass of beings by whom they are surrounded, and, in contemplating the incidents in their\[pg x\] lives or condition which tradition has handed down to us, we must rather consider the general bearing of the whole narrative, than the respective probability of its details.
 
-It is unfortunate for us, that, of some of the greatest men, we know least, and talk most. Homer, Socrates, and Shakespere[1](#note_1) have, perhaps, contributed more to the intellectual enlightenment of mankind than any other three writers who could be named, and yet the history of all three has given rise to a boundless ocean of discussion, which has left us little save the option of choosing which theory or theories we will follow. The personality of Shakespere is, perhaps, the only thing in which critics will allow us to believe without controversy; but upon everything else, even down to the authorship of plays, there is more or less of doubt and uncertainty. Of Socrates we know as little as the contradictions of Plato and Xenophon will allow us to know. He was one of the dramatis personae in two dramas as unlike in principles as in style. He appears as the enunciator of opinions as different in their tone as those of the writers who have handed them down. When we have read Plato or Xenophon, we think we know something of Socrates; when we have fairly read and examined both, we feel convinced that we are something worse than ignorant.
+
+And this difficulty attaches itself more closely to an age in which progress has gained a strong ascendency over prejudice, and in which persons and things are, day by day, finding their real level, in lieu of their conventional value. The same principles which have swept away traditional abuses, and which are making rapid havoc among the revenues of sinecurists, and stripping the thin, tawdry veil from attractive superstitions, are working as actively in literature as in society. The credulity of one writer, or the partiality of another, finds as powerful a touchstone and as wholesome a chastisement in the healthy scepticism of a temperate class of antagonists, as the dreams of conservatism, or the impostures of pluralist sinecures in the Church. History and tradition, whether of ancient or comparatively recent times, are subjected to very different handling from that which the indulgence or credulity of former ages could allow. Mere statements are jealously watched, and the motives of the writer form as important an ingredient in the analysis of his history, as the facts he records. Probability is a powerful and troublesome test; and it is by this troublesome standard that a large portion of historical evidence is sifted. Consistency is no less pertinacious and exacting in its demands. In brief, to write a history, we must know more than mere facts. Human nature, viewed under an induction of extended experience, is the best help to the criticism of human history. Historical characters can only be estimated by the standard which human experience, whether actual or traditionary, has furnished. To form correct views of individuals we must regard them as forming parts of a great whole—we must measure them by their relation to the mass of beings by whom they are surrounded, and, in contemplating the incidents in their  lives or condition which tradition has handed down to us, we must rather consider the general bearing of the whole narrative, than the respective probability of its details.
+
+
+
+
+It is unfortunate for us, that, of some of the greatest men, we know least, and talk most. 
+, Socrates, and Shakespere  have, perhaps, contributed more to the intellectual enlightenment of mankind than any other three writers who could be named, and yet the history of all three has given rise to a boundless ocean of discussion, which has left us little save the option of choosing which theory or theories we will follow. The personality of Shakespere is, perhaps, the only thing in which critics will allow us to believe without controversy; but upon everything else, even down to the authorship of plays, there is more or less of doubt and uncertainty. Of Socrates we know as little as the contradictions of Plato and Xenophon will allow us to know. He was one of the dramatis personae in two dramas as unlike in principles as in style. He appears as the enunciator of opinions as different in their tone as those of the writers who have handed them down. When we have read Plato or Xenophon, we think we know something of Socrates; when we have fairly read and examined both, we feel convinced that we are something worse than ignorant.
+
+
 
 It has been an easy, and a popular expedient, of late years, to deny the personal or real existence of men and things whose life and condition were too much for our belief. This system—which has often comforted the religious sceptic, and substituted the consolations of Strauss for those of the New Testament—has been of incalculable value to the historical theorists of the last and present centuries. To question the existence of Alexander the Great, would be a more excusable act, than to believe in that of Romulus. To deny a fact related in Herodotus, because it is inconsistent with a theory developed from an Assyrian inscription which no two scholars read in the same way, is more pardonable, than to believe in the good-natured old king whom the elegant pen of Florian has idealized—Numa Pompilius.
 
-Scepticism has attained its culminating point with respect to Homer, and the state of our Homeric knowledge may be described as a free permission to believe any theory, provided we throw overboard\[pg xi\] all written tradition, concerning the author or authors of the Iliad and Odyssey. What few authorities exist on the subject, are summarily dismissed, although the arguments appear to run in a circle. "This cannot be true, because it is not true; and, that is not true, because it cannot be true." Such seems to be the style, in which testimony upon testimony, statement upon statement, is consigned to denial and oblivion.
+
+
+Scepticism has attained its culminating point with respect to Homer, and the state of our Homeric knowledge may be described as a free permission to believe any theory, provided we throw overboard  all written tradition, concerning the author or authors of and Odyssey. What few authorities exist on the subject, are summarily dismissed, although the arguments appear to run in a circle. "This cannot be true, because it is not true; and, that is not true, because it cannot be true." Such seems to be the style, in which testimony upon testimony, statement upon statement, is consigned to denial and oblivion.
+
+
 
 It is, however, unfortunate that the professed biographies of Homer are partly forgeries, partly freaks of ingenuity and imagination, in which truth is the requisite most wanting. Before taking a brief review of the Homeric theory in its present conditions, some notice must be taken of the treatise on the Life of Homer which has been attributed to Herodotus.
 
+
+
 According to this document, the city of Cumae in Æolia, was, at an early period, the seat of frequent immigrations from various parts of Greece. Among the immigrants was Menapolus, the son of Ithagenes. Although poor, he married, and the result of the union was a girl named Critheis. The girl was left an orphan at an early age, under the guardianship of Cleanax, of Argos. It is to the indiscretion of this maiden that we "are indebted for so much happiness." Homer was the first fruit of her juvenile frailty, and received the name of Melesigenes, from having been born near the river Meles, in Boeotia, whither Critheis had been transported in order to save her reputation.
+
+
 
 "At this time," continues our narrative, "there lived at Smyrna a man named Phemius, a teacher of literature and music, who, not being married, engaged Critheis to manage his household, and spin the flax he received as the price of his scholastic labours. So satisfactory was her performance of this task, and so modest her conduct, that he made proposals of marriage, declaring himself, as a further inducement, willing to adopt her son, who, he asserted, would become a clever man, if he were carefully brought up."
 
-They were married; careful cultivation ripened the talents which nature had bestowed, and Melesigenes soon surpassed his schoolfellows in every attainment, and, when older, rivalled his preceptor in wisdom. Phemius died, leaving him sole heir to his property, and his mother soon followed. Melesigenes carried on his adopted father's school with great success, exciting the admiration not only of the inhabitants of Smyrna, but also of the strangers whom the trade carried on there, especially in the exportation of corn, attracted to that city. Among these visitors, one Mentes, from Leucadia, the modern Santa Maura, who evinced a knowledge and intelligence rarely found in those times, persuaded Melesigenes to close his school, and accompany him on his travels. He promised not only to pay his expenses, but to furnish him with a further stipend, urging, that, "While he was yet young, it was fitting that he should see with his own eyes the countries and cities which might hereafter be the subjects of his discourses." Melesigenes consented, and set out with his patron, "examining all the curiosities of the countries they visited, and informing himself of everything by interrogating those whom he met." We may also suppose, that he\[pg xii\] wrote memoirs of all that he deemed worthy of preservation[2](#note_2) Having set sail from Tyrrhenia and Iberia, they reached Ithaca. Here Melesigenes, who had already suffered in his eyes, became much worse, and Mentes, who was about to leave for Leucadia, left him to the medical superintendence of a friend of his, named Mentor, the son of Alcinor. Under his hospitable and intelligent host, Melesigenes rapidly became acquainted with the legends respecting Ulysses, which afterwards formed the subject of the Odyssey. The inhabitants of Ithaca assert, that it was here that Melesigenes became blind, but the Colophomans make their city the seat of that misfortune. He then returned to Smyrna, where he applied himself to the study of poetry.[3](#note_3)
 
-But poverty soon drove him to Cumae. Having passed over the Hermaean plain, he arrived at Neon Teichos, the New Wall, a colony of Cumae. Here his misfortunes and poetical talent gained him the friendship of one Tychias, an armourer. "And up to my time," continued the author, "the inhabitants showed the place where he used to sit when giving a recitation of his verses, and they greatly honoured the spot. Here also a poplar grew, which they said had sprung up ever since Melesigenes arrived".[4](#note_4)
 
-But poverty still drove him on, and he went by way of Larissa, as being the most convenient road. Here, the Cumans say, he composed an epitaph on Gordius, king of Phrygia, which has however, and with greater probability, been attributed to Cleobulus of Lindus.[5](#note_5)
+They were married; careful cultivation ripened the talents which nature had bestowed, and Melesigenes soon surpassed his schoolfellows in every attainment, and, when older, rivalled his preceptor in wisdom. Phemius died, leaving him sole heir to his property, and his mother soon followed. Melesigenes carried on his adopted father's school with great success, exciting the admiration not only of the inhabitants of Smyrna, but also of the strangers whom the trade carried on there, especially in the exportation of corn, attracted to that city. Among these visitors, one Mentes, from Leucadia, the modern Santa Maura, who evinced a knowledge and intelligence rarely found in those times, persuaded Melesigenes to close his school, and accompany him on his travels. He promised not only to pay his expenses, but to furnish him with a further stipend, urging, that, "While he was yet young, it was fitting that he should see with his own eyes the countries and cities which might hereafter be the subjects of his discourses." Melesigenes consented, and set out with his patron, "examining all the curiosities of the countries they visited, and informing himself of everything by interrogating those whom he met." We may also suppose, that he  wrote memoirs of all that he deemed worthy of preservation. Having set sail from Tyrrhenia and Iberia, they reached Ithaca. Here Melesigenes, who had already suffered in his eyes, became much worse, and Mentes, who was about to leave for Leucadia, left him to the medical superintendence of a friend of his, named Mentor, the son of Alcinor. Under his hospitable and intelligent host, Melesigenes rapidly became acquainted with the legends respecting Ulysses, which afterwards formed the subject of the Odyssey. The inhabitants of Ithaca assert, that it was here that Melesigenes became blind, but the Colophomans make their city the seat of that misfortune. He then returned to Smyrna, where he
+applied himself to the study of poetry. 
 
-Arrived at Cumae, he frequented the converzationes[6](#note_6) of the old men, and delighted all by the charms of his poetry. Encouraged by this favourable reception, he declared that, if they would allow him a public maintenance, he would render their city most gloriously renowned.\[pg xiii\] They avowed their willingness to support him in the measure he proposed, and procured him an audience in the council. Having made the speech, with the purport of which our author has forgotten to acquaint us, he retired, and left them to debate respecting the answer to be given to his proposal.
 
-The greater part of the assembly seemed favourable to the poet's demand, but one man observed that "if they were to feed Homers, they would be encumbered with a multitude of useless people." "From this circumstance," says the writer, "Melesigenes acquired the name of Homer, for the Cumans call blind men Homers."[7](#note_7) With a love of economy, which shows how similar the world has always been in its treatment of literary men, the pension was denied, and the poet vented his disappointment in a wish that Cumoea might never produce a poet capable of giving it renown and glory.
 
-At Phocoea, Homer was destined to experience another literary distress. One Thestorides, who aimed at the reputation of poetical genius, kept Homer in his own house, and allowed him a pittance, on condition of the verses of the poet passing in his name. Having collected sufficient poetry to be profitable, Thestorides, like some would-be-literary publishers, neglected the man whose brains he had sucked, and left him. At his departure, Homer is said to have observed: "O Thestorides, of the many things hidden from the knowledge of man, nothing is more unintelligible than the human heart."[8](#note_8)
+But poverty soon drove him to Cumae. Having passed over the Hermaean plain, he arrived at Neon Teichos, the New Wall, a colony of Cumae. Here his misfortunes and poetical talent gained him the friendship of one Tychias, an armourer. "And up to my time," continued the author, "the inhabitants showed the place where he used to sit when giving a recitation of his verses, and they greatly honoured the spot. Here also a poplar grew, which they said had sprung up ever since Melesigenes arrived". 
+
+
+
+But poverty still drove him on, and he went by way of Larissa, as being the most convenient road. Here, the Cumans say, he composed an epitaph on Gordius, king of Phrygia, which has however, and with greater probability, been attributed to Cleobulus of Lindus. 
+
+
+
+Arrived at Cumae, he frequented the converzationes  of the old men, and delighted all by the charms of his poetry. Encouraged by this favourable reception, he declared that, if they would allow him a public maintenance, he would render their city most gloriously renowned.  They avowed their willingness to support him in the measure he proposed, and procured him an audience in the council. Having made the speech, with the purport of which our author has forgotten to acquaint us, he retired, and left them to debate respecting the answer to be given to his proposal.
+
+
+
+The greater part of the assembly seemed favourable to the poet's demand, but one man observed that "if they were to feed Homers, they would be encumbered with a multitude of useless people." "From this circumstance," says the writer, "Melesigenes acquired the name of Homer, for the Cumans call blind men Homers."  With a love of economy, which shows how similar the world has always been in its treatment of literary men, the pension was denied, and the poet vented his disappointment in a wish that Cumoea might never produce a poet capable of giving it renown and glory.
+
+
+
+At Phocoea, Homer was destined to experience another literary distress. One Thestorides, who aimed at the reputation of poetical genius, kept Homer in his own house, and allowed him a pittance, on condition of the verses of the poet passing in his name. Having collected sufficient poetry to be profitable, Thestorides, like some would-be-literary publishers, neglected the man whose brains he had sucked, and left him. At his departure, Homer is said to have observed: "O Thestorides, of the many things hidden from the knowledge of man, nothing is more unintelligible than the human heart." 
+
+
 
 Homer continued his career of difficulty and distress, until some Chian merchants, struck by the similarity of the verses they heard him recite, acquainted him with the fact that Thestorides was pursuing a profitable livelihood by the recital of the very same poems. This at once determined him to set out for Chios. No vessel happened then to be setting sail thither, but he found one ready to Start for Erythrae, a town of Ionia, which faces that island, and he prevailed upon the seamen to allow him to accompany them. Having embarked, he invoked a favourable wind, and prayed that he might be able to expose the imposture of Thestorides, who, by his breach of hospitality, had drawn down the wrath of Jove the Hospitable.
 
-At Erythrae, Homer fortunately met with a person who had known him in Phocoea, by whose assistance he at length, after some difficulty, reached the little hamlet of Pithys. Here he met with an adventure, which we will continue in the words of our author. "Having set out from Pithys, Homer went on, attracted by the cries of some goats that were pasturing. The dogs barked on his approach, and he cried out. Glaucus (for that was the name of the goat-herd) heard his voice, ran up quickly, called off his dogs, and drove them away from Homer. For or some time he stood wondering how a blind man should have\[pg xiv\] reached such a place alone, and what could be his design in coming. He then went up to him, and inquired who he was, and how he had come to desolate places and untrodden spots, and of what he stood in need. Homer, by recounting to him the whole history of his misfortunes, moved him with compassion; and he took him, and led him to his cot, and having lit a fire, bade him sup.[9](#note_9)
+
+
+At Erythrae, Homer fortunately met with a person who had known him in Phocoea, by whose assistance he at length, after some difficulty, reached the little hamlet of Pithys. Here he met with an adventure, which we will continue in the words of our author. "Having set out from Pithys, Homer went on, attracted by the cries of some goats that were pasturing. The dogs barked on his approach, and he cried out. Glaucus (for that was the name of the goat-herd) heard his voice, ran up quickly, called off his dogs, and drove them away from Homer. For or some time he stood wondering how a blind man should have  reached such a place alone, and what could be his design in coming. He then went up to him, and inquired who he was, and how he had come to desolate places and untrodden spots, and of what he stood in need. Homer, by recounting to him the whole history of his misfortunes, moved him with compassion; and he took him, and led him to his cot, and having lit a fire, bade him sup. 
+
+
 
 "The dogs, instead of eating, kept barking at the stranger, according to their usual habit. Whereupon Homer addressed Glaucus thus: O Glaucus, my friend, prythee attend to my behest. First give the dogs their supper at the doors of the hut: for so it is better, since, whilst they watch, nor thief nor wild beast will approach the fold.
 
-Glaucus was pleased with the advice, and marvelled at its author. Having finished supper, they banqueted[10](#note_10) afresh on conversation, Homer narrating his wanderings, and telling of the cities he had visited.
+
+
+Glaucus was pleased with the advice, and marvelled at its author. Having finished supper, they banqueted  afresh on conversation, Homer narrating his wanderings, and telling of the cities he had visited.
+
+
 
 At length they retired to rest; but on the following morning, Glaucus resolved to go to his master, and acquaint him with his meeting with Homer. Having left the goats in charge of a fellow-servant, he left Homer at home, promising to return quickly. Having arrived at Bolissus, a place near the farm, and finding his mate, he told him the whole story respecting Homer and his journey. He paid little attention to what he said, and blamed Glaucus for his stupidity in taking in and feeding maimed and enfeebled persons. However, he bade him bring the stranger to him.
 
-Glaucus told Homer what had taken place, and bade him follow him, assuring him that good fortune would be the result. Conversation soon showed that the stranger was a man of much cleverness and general knowledge, and the Chian persuaded him to remain, and to undertake the charge of his children.[11](#note_11)
 
-Besides the satisfaction of driving the impostor Thestorides from the island, Homer enjoyed considerable success as a teacher. In the town of Chios he established a school where he taught the precepts of poetry. "To this day," says Chandler,[12](#note_12) "the most curious remain is that which has been named, without reason, the School of Homer. It is on the coast, at some distance from the city, northward, and appears to have been an open temple of Cybele, formed on the top of a rock. The shape is oval, and in the centre is the image of the goddess, the\[pg xv\] head and an arm wanting. She is represented, as usual, sitting. The chair has a lion carved on each side, and on the back. The area is bounded by a low rim, or seat, and about five yards over. The whole is hewn out of the mountain, is rude, indistinct, and probably of the most remote antiquity."
+
+Glaucus told Homer what had taken place, and bade him follow him, assuring him that good fortune would be the result. Conversation soon showed that the stranger was a man of much cleverness and general knowledge, and the Chian persuaded him to remain, and to undertake the charge of his children. 
+
+
+
+Besides the satisfaction of driving the impostor Thestorides from the island, Homer enjoyed considerable success as a teacher. In the town of Chios he established a school where he taught the precepts of poetry. "To this day," says Chandler,  "the most curious remain is that which has been named, without reason, the School of Homer. It is on the coast, at some distance from the city, northward, and appears to have been an open temple of Cybele, formed on the top of a rock. The shape is oval, and in the centre is the image of the goddess, the  head and an arm wanting. She is represented, as usual, sitting. The chair has a lion carved on each side, and on the back. The area is bounded by a low rim, or seat, and about five yards over. The whole is hewn out of the mountain, is rude, indistinct, and probably of the most remote antiquity."
+
+
 
 So successful was this school, that Homer realised a considerable fortune. He married, and had two daughters, one of whom died single, the other married a Chian.
 
+
+
 The following passage betrays the same tendency to connect the personages of the poems with the history of the poet, which has already been mentioned:—
 
-"In his poetical compositions Homer displays great gratitude towards Mentor of Ithaca, in the Odyssey, whose name he has inserted in his poem as the companion of Ulysses,[13](#note_13) in return for the care taken of him when afflicted with blindness. He also testifies his gratitude to Phemius, who had given him both sustenance and instruction."
 
-His celebrity continued to increase, and many persons advised him to visit Greece, whither his reputation had now extended. Having, it is said, made some additions to his poems calculated to please the vanity of the Athenians, of whose city he had hitherto made no mention,[14](#note_14) he sent out for Samos. Here being recognized by a Samian, who had met with him in Chios, he was handsomely received, and invited to join in celebrating the Apaturian festival. He recited some verses, which gave great satisfaction, and by singing the Eiresione at the New Moon festivals, he earned a subsistence, visiting the houses of the rich, with whose children he was very popular.
 
-In the spring he sailed for Athens, and arrived at the island of Ios, now Ino, where he fell extremely ill, and died. It is said that his death arose from vexation, at not having been able to unravel an enigma proposed by some fishermen's children.[15](#note_15)
+"In his poetical compositions Homer displays great gratitude towards Mentor of Ithaca, in the Odyssey, whose name he has inserted in his poem as the companion of Ulysses,  in return for the care taken of him when afflicted with blindness. He also testifies his gratitude to Phemius, who had given him both sustenance and instruction."
+
+
+
+His celebrity continued to increase, and many persons advised him to visit Greece, whither his reputation had now extended. Having, it is said, made some additions to his poems calculated to please the vanity of the Athenians, of whose city he had hitherto made no mention,  he sent out for Samos. Here being recognized by a Samian, who had met with him in Chios, he was handsomely received, and invited to join in celebrating the Apaturian festival. He recited some verses, which gave great satisfaction, and by singing the Eiresione at the New Moon festivals, he earned a subsistence, visiting the houses of the rich, with whose children he was very popular.
+
+
+
+In the spring he sailed for Athens, and arrived at the island of Ios, now Ino, where he fell extremely ill, and died. It is said that his death arose from vexation, at not having been able to unravel an enigma proposed by some fishermen's children. 
+
+
 
 Such is, in brief, the substance of the earliest life of Homer we possess, and so broad are the evidences of its historical worthlessness, that it is scarcely necessary to point them out in detail. Let us now consider some of the opinions to which a persevering, patient, and learned—but by no means consistent—series of investigations has led. In doing so, I profess to bring forward statements, not to vouch for their reasonableness or probability.
 
+
+
 "Homer appeared. The history of this poet and his works is lost in doubtful obscurity, as is the history of many of the first minds who have done honour to humanity, because they rose amidst darkness. The majestic stream of his song, blessing and fertilizing, flows like the Nile, through many lands and nations; and, like the sources of the Nile, its fountains will ever remain concealed."
 
-\[pg xvi\]
+ 
+
+
 
 Such are the words in which one of the most judicious German critics has eloquently described the uncertainty in which the whole of the Homeric question is involved. With no less truth and feeling he proceeds:—
 
-"It seems here of chief importance to expect no more than the nature of things makes possible. If the period of tradition in history is the region of twilight, we should not expect in it perfect light. The creations of genius always seem like miracles, because they are, for the most part, created far out of the reach of observation. If we were in possession of all the historical testimonies, we never could wholly explain the origin of the Iliad and the Odyssey; for their origin, in all essential points, must have remained the secret of the poet." [16](#note_16)
 
-From this criticism, which shows as much insight into the depths of human nature as into the minute wire-drawings of scholastic investigation, let us pass on to the main question at issue. Was Homer an individual?[17](#note_17) or were the Iliad and Odyssey the result of an ingenious arrangement of fragments by earlier poets?
 
-Well has Landor remarked: "Some tell us there were twenty Homers; some deny that there was ever one. It were idle and foolish to shake the contents of a vase, in order to let them settle at last. We are perpetually labouring to destroy our delights, our composure, our devotion to superior power. Of all the animals on earth we least know what is good for us. My opinion is, that what is best for us is our admiration of good. No man living venerates Homer more than I do." [18](#note_18)
+"It seems here of chief importance to expect no more than the nature of things makes possible. If the period of tradition in history is the region of twilight, we should not expect in it perfect light. The creations of genius always seem like miracles, because they are, for the most part, created far out of the reach of observation. If we were in possession of all the historical testimonies, we never could wholly explain the origin of the Iliad and the Odyssey; for their origin, in all essential points, must have remained the secret of the poet."  
+
+
+
+From this criticism, which shows as much insight into the depths of human nature as into the minute wire-drawings of scholastic investigation, let us pass on to the main question at issue. Was Homer an individual?  or were the Iliad and Odyssey the result of an ingenious arrangement of fragments by earlier poets?
+
+
+
+Well has Landor remarked: "Some tell us there were twenty Homers; some deny that there was ever one. It were idle and foolish to shake the contents of a vase, in order to let them settle at last. We are perpetually labouring to destroy our delights, our composure, our devotion to superior power. Of all the animals on earth we least know what is good for us. My opinion is, that what is best for us is our admiration of good. No man living venerates Homer more than I do."  
+
+
 
 But, greatly as we admire the generous enthusiasm which rests contented with the poetry on which its best impulses had been nurtured and fostered, without seeking to destroy the vividness of first impressions by minute analysis—our editorial office compels us to give some attention to the doubts and difficulties with which the Homeric question is beset, and to entreat our reader, for a brief period, to prefer his judgment to his imagination, and to condescend to dry details.
 
+
+
 Before, however, entering into particulars respecting the question of this unity of the Homeric poems, (at least of the Iliad,) I must express my sympathy with the sentiments expressed in the following remarks:—
+
+
 
 "We cannot but think the universal admiration of its unity by the better, the poetic age of Greece, almost conclusive testimony to its original composition. It was not till the age of the grammarians that its primitive integrity was called in question; nor is it injustice to assert, that the minute and analytical spirit of a grammarian is not the best qualification for the profound feeling, the comprehensive conception of an harmonious whole. The most exquisite anatomist may be no judge of the symmetry of the human frame: and we would take the opinion of Chantrey or Westmacott on the proportions and general beauty of a form, rather than that of Mr. Brodie or Sir Astley Cooper.
 
-\[pg xvii\]
+ 
 
 "There is some truth, though some malicious exaggeration, in the lines of Pope.—
 
+
+
 "'The critic eye—that microscope of wit
+
 
 Sees hairs and pores, examines bit by bit,
 
+
+
 How parts relate to parts, or they to whole
+
 
 The body's harmony, the beaming soul,
 
+
 Are things which Kuster, Burmann, Wasse, shall see,
 
-When man's whole frame is obvious to a flea.'"[19](#note_19)
 
-Long was the time which elapsed before any one dreamt of questioning the unity of the authorship of the Homeric poems. The grave and cautious Thucydides quoted without hesitation the Hymn to Apollo,[20](#note_20) the authenticity of which has been already disclaimed by modern critics. Longinus, in an oft quoted passage, merely expressed an opinion touching the comparative inferiority of the Odyssey to the Iliad,[21](#note_21) and, among a mass of ancient authors, whose very names[22](#note_22) it would be tedious to detail, no suspicion of the personal non-existence of Homer ever arose. So far, the voice of antiquity seems to be in favour of our early ideas on the subject; let us now see what are the discoveries to which more modern investigations lay claim.
+When man's whole frame is obvious to a flea.'" 
 
-At the end of the seventeenth century, doubts had begun to awaken on the subject, and we find Bentley remarking that "Homer wrote a sequel of songs and rhapsodies, to be sung by himself, for small comings and good cheer, at festivals and other days of merriment. These loose songs were not collected together, in the form of an epic poem, till about Peisistratus' time, about five hundred years after."[23](#note_23)
 
-Two French writers—Hedelin and Perrault—avowed a similar scepticism on the subject; but it is in the "Scienza Nuova" of Battista Vico, that we first meet with the germ of the theory, subsequently defended by Wolf with so much learning and acuteness. Indeed, it is with the Wolfian theory that we have chiefly to deal, and with the following bold hypothesis, which we will detail in the words of Grote[24](#note_24)—
+Long was the time which elapsed before any one dreamt of questioning the unity of the authorship of the Homeric poems. The grave and cautious Thucydides quoted without hesitation the Hymn to Apollo,  it would be tedious to detail, no suspicion of the personal non-existence of Homer ever arose. So far, the voice of antiquity seems to be in favour of our early ideas on the subject; let us now see what are the discoveries to which more modern investigations lay claim.
 
-"Half a century ago, the acute and valuable Prolegomena of F. A. Wolf, turning to account the Venetian Scholia, which had then been\[pg xviii\] recently published, first opened philosophical discussion as to the history of the Homeric text. A considerable part of that dissertation (though by no means the whole) is employed in vindicating the position, previously announced by Bentley, amongst others, that the separate constituent portions of the Iliad and Odyssey had not been cemented together into any compact body and unchangeable order, until the days of Peisistratus, in the sixth century before Christ. As a step towards that conclusion, Wolf maintained that no written copies of either poem could be shown to have existed during the earlier times, to which their composition is referred; and that without writing, neither the perfect symmetry of so complicated a work could have been originally conceived by any poet, nor, if realized by him, transmitted with assurance to posterity. The absence of easy and convenient writing, such as must be indispensably supposed for long manuscripts, among the early Greeks, was thus one of the points in Wolf's case against the primitive integrity of the Iliad and Odyssey. By Nitzsch, and other leading opponents of Wolf, the connection of the one with the other seems to have been accepted as he originally put it; and it has been considered incumbent on those who defended the ancient aggregate character of the Iliad and Odyssey, to maintain that they were written poems from the beginning.
+
+
+At the end of the seventeenth century, doubts had begun to awaken on the subject, and we find Bentley remarking that "Homer wrote a sequel of songs and rhapsodies, to be sung by himself, for small comings and good cheer, at festivals and other days of merriment. These loose songs were not collected together, in the form of an epic poem, till about Peisistratus' time, about five hundred years after." 
+
+
+
+Two French writers—Hedelin and Perrault—avowed a similar scepticism on the subject; but it is in the "Scienza Nuova" of Battista Vico, that we first meet with the germ of the theory, subsequently defended by Wolf with so much learning and acuteness. Indeed, it is with the Wolfian theory that we have chiefly to deal, and with the following bold hypothesis, which we will detail in the words of Grote: —
+
+
+
+"Half a century ago, the acute and valuable Prolegomena of F. A. Wolf, turning to account the Venetian Scholia, which had then been  recently published, first opened philosophical discussion as to the history of the Homeric text. A considerable part of that dissertation (though by no means the whole) is employed in vindicating the position, previously announced by Bentley, amongst others, that the separate constituent portions of the Iliad and Odyssey had not been cemented together into any compact body and unchangeable order, until the days of Peisistratus, in the sixth century before Christ. As a step towards that conclusion, Wolf maintained that no written copies of either poem could be shown to have existed during the earlier times, to which their composition is referred; and that without writing, neither the perfect symmetry of so complicated a work could have been originally conceived by any poet, nor, if realized by him, transmitted with assurance to posterity. The absence of easy and convenient writing, such as must be indispensably supposed for long manuscripts, among the early Greeks, was thus one of the points in Wolf's case against the primitive integrity of the Iliad and Odyssey. By Nitzsch, and other leading opponents of Wolf, the connection of the one with the other seems to have been accepted as he originally put it; and it has been considered incumbent on those who defended the ancient aggregate character of the Iliad and Odyssey, to maintain that they were written poems from the beginning.
+
+
 
 "To me it appears, that the architectonic functions ascribed by Wolf to Peisistratus and his associates, in reference to the Homeric poems, are nowise admissible. But much would undoubtedly be gained towards that view of the question, if it could be shown, that, in order to controvert it, we were driven to the necessity of admitting long written poems, in the ninth century before the Christian aera. Few things, in my opinion, can be more improbable; and Mr. Payne Knight, opposed as he is to the Wolfian hypothesis, admits this no less than Wolf himself. The traces of writing in Greece, even in the seventh century before the Christian aera, are exceedingly trifling. We have no remaining inscription earlier than the fortieth Olympiad, and the early inscriptions are rude and unskilfully executed; nor can we even assure ourselves whether Archilochus, Simonides of Amorgus, Kallinus, Tyrtaeus, Xanthus, and the other early elegiac and lyric poets, committed their compositions to writing, or at what time the practice of doing so became familiar. The first positive ground which authorizes us to presume the existence of a manuscript of Homer, is in the famous ordinance of Solon, with regard to the rhapsodies at the Panathenaea: but for what length of time previously manuscripts had existed, we are unable to say.
 
-"Those who maintain the Homeric poems to have been written from the beginning, rest their case, not upon positive proofs, nor yet upon the existing habits of society with regard to poetry—for they admit generally that the Iliad and Odyssey were not read, but recited and heard,—but upon the supposed necessity that there must have been manuscripts to ensure the preservation of the poems—the unassisted memory of reciters being neither sufficient nor trustworthy. But here we only escape a smaller difficulty by running into a greater; for the existence of trained bards, gifted with extraordinary memory,\[pg xix\] [25](#note_25) is far less astonishing than that of long manuscripts, in an age essentially non-reading and non-writing, and when even suitable instruments and materials for the process are not obvious. Moreover, there is a strong positive reason for believing that the bard was under no necessity of refreshing his memory by consulting a manuscript; for if such had been the fact, blindness would have been a disqualification for the profession, which we know that it was not, as well from the example of Demodokus, in the Odyssey, as from that of the blind bard of Chios, in the Hymn to the Delian Apollo, whom Thucydides, as well as the general tenor of Grecian legend, identifies with Homer himself. The author of that hymn, be he who he may, could never have described a blind man as attaining the utmost perfection in his art, if he had been conscious that the memory of the bard was only maintained by constant reference to the manuscript in his chest."
+
+
+"Those who maintain the Homeric poems to have been written from the beginning, rest their case, not upon positive proofs, nor yet upon the existing habits of society with regard to poetry—for they admit generally that the Iliad and Odyssey were not read, but recited and heard,—but upon the supposed necessity that there must have been manuscripts to ensure the preservation of the poems—the unassisted memory of reciters being neither sufficient nor trustworthy. But here we only escape a smaller difficulty by running into a greater; for the existence of trained bards, gifted with extraordinary memory,    is far less astonishing than that of long manuscripts, in an age essentially non-reading and non-writing, and when even suitable instruments and materials for the process are not obvious. Moreover, there is a strong positive reason for believing that the bard was under no necessity of refreshing his memory by consulting a manuscript; for if such had been the fact, blindness would have been a disqualification for the profession, which we know that it was not, as well from the example of Demodokus, in the Odyssey, as from that of the blind bard of Chios, in the Hymn to the Delian Apollo, whom Thucydides, as well as the general tenor of Grecian legend, identifies with Homer himself. The author of that hymn, be he who he may, could never have described a blind man as attaining the utmost perfection in his art, if he had been conscious that the memory of the bard was only maintained by constant reference to the manuscript in his chest."
+
+
 
 The loss of the digamma, that crux of critics, that quicksand upon which even the acumen of Bentley was shipwrecked, seems to prove beyond a doubt, that the pronunciation of the Greek language had undergone a considerable change. Now it is certainly difficult to suppose that the Homeric poems could have suffered by this change, had written copies been preserved. If Chaucer's poetry, for instance, had not been written, it could only have come down to us in a softened form, more like the effeminate version of Dryden, than the rough, quaint, noble original.
 
-"At what period," continues Grote, "these poems, or indeed any other Greek poems, first began to be written, must be matter of conjecture, though there is ground for assurance that it was before the time of Solon. If, in the absence of evidence, we may venture upon\[pg xx\] naming any more determinate period, the question a once suggests itself, What were the purposes which, in that state of society, a manuscript at its first commencement must have been intended to answer? For whom was a written Iliad necessary? Not for the rhapsodes; for with them it was not only planted in the memory, but also interwoven with the feelings, and conceived in conjunction with all those flexions and intonations of voice, pauses, and other oral artifices which were required for emphatic delivery, and which the naked manuscript could never reproduce. Not for the general public—they were accustomed to receive it with its rhapsodic delivery, and with its accompaniments of a solemn and crowded festival. The only persons for whom the written Iliad would be suitable would be a select few; studious and curious men; a class of readers capable of analyzing the complicated emotions which they had experienced as hearers in the crowd, and who would, on perusing the written words, realize in their imaginations a sensible portion of the impression communicated by the reciter. Incredible as the statement may seem in an age like the present, there is in all early societies, and there was in early Greece, a time when no such reading class existed. If we could discover at what time such a class first began to be formed, we should be able to make a guess at the time when the old epic poems were first committed to writing. Now the period which may with the greatest probability be fixed upon as having first witnessed the formation even of the narrowest reading class in Greece, is the middle of the seventh century before the Christian aera (B.C. 660 to B.C. 630), the age of Terpander, Kallinus, Archilochus, Simonides of Amorgus, &c. I ground this supposition on the change then operated in the character and tendencies of Grecian poetry and music—the elegiac and the iambic measures having been introduced as rivals to the primitive hexameter, and poetical compositions having been transferred from the epical past to the affairs of present and real life. Such a change was important at a time when poetry was the only known mode of publication (to use a modern phrase not altogether suitable, yet the nearest approaching to the sense). It argued a new way of looking at the old epical treasures of the people as well as a thirst for new poetical effect; and the men who stood forward in it, may well be considered as desirous to study, and competent to criticize, from their own individual point of view, the written words of the Homeric rhapsodies, just as we are told that Kallinus both noticed and eulogized the Thebais as the production of Homer. There seems, therefore, ground for conjecturing that (for the use of this newly-formed and important, but very narrow class), manuscripts of the Homeric poems and other old epics,—the Thebais and the Cypria, as well as the Iliad and the Odyssey,—began to be compiled towards the middle of the seventh century (B.C. 1); and the opening of Egypt to Grecian commerce, which took place about the same period, would furnish increased facilities for obtaining the requisite papyrus to write upon. A reading class, when once formed, would doubtless slowly increase, and the number of manuscripts along with it; so that before the time of Solon, fifty years afterwards, both readers and manuscripts, though still comparatively few, might have attained a\[pg xxi\] certain recognized authority, and formed a tribunal of reference against the carelessness of individual rhapsodes."[26](#note_26)
+
+
+"At what period," continues Grote, "these poems, or indeed any other Greek poems, first began to be written, must be matter of conjecture, though there is ground for assurance that it was before the time of Solon. If, in the absence of evidence, we may venture upon  naming any more determinate period, the question a once suggests itself, What were the purposes which, in that state of society, a manuscript at its first commencement must have been intended to answer? For whom was a written Iliad necessary? Not for the rhapsodes; for with them it was not only planted in the memory, but also interwoven with the feelings, and conceived in conjunction with all those flexions and intonations of voice, pauses, and other oral artifices which were required for emphatic delivery, and which the naked manuscript could never reproduce. Not for the general public—they were accustomed to receive it with its rhapsodic delivery, and with its accompaniments of a solemn and crowded festival. The only persons for whom the written Iliad would be suitable would be a select few; studious and curious men; a class of readers capable of analyzing the complicated emotions which they had experienced as hearers in the crowd, and who would, on perusing the written words, realize in their imaginations a sensible portion of the impression communicated by the reciter. Incredible as the statement may seem in an age like the present, there is in all early societies, and there was in early Greece, a time when no such reading class existed. If we could discover at what time such a class first began to be formed, we should be able to make a guess at the time when the old epic poems were first committed to writing. Now the period which may with the greatest probability be fixed upon as having first witnessed the formation even of the narrowest reading class in Greece, is the middle of the seventh century before the Christian aera (B.C. 660 to B.C. 630), the age of Terpander, Kallinus, Archilochus, Simonides of Amorgus, &c. I ground this supposition on the change then operated in the character and tendencies of Grecian poetry and music—the elegiac and the iambic measures having been introduced as rivals to the primitive hexameter, and poetical compositions having been transferred from the epical past to the affairs of present and real life. Such a change was important at a time when poetry was the only known mode of publication (to use a modern phrase not altogether suitable, yet the nearest approaching to the sense). It argued a new way of looking at the old epical treasures of the people as well as a thirst for new poetical effect; and the men who stood forward in it, may well be considered as desirous to study, and competent to criticize, from their own individual point of view, the written words of the Homeric rhapsodies, just as we are told that Kallinus both noticed and eulogized the Thebais as the production of Homer. There seems, therefore, ground for conjecturing that (for the use of this newly-formed and important, but very narrow class), manuscripts of the Homeric poems and other old epics,—the Thebais and the Cypria, as well as the Iliad and the Odyssey,—began to be compiled towards the middle of the seventh century (B.C. 1); and the opening of Egypt to Grecian commerce, which took place about the same period, would furnish increased facilities for obtaining the requisite papyrus to write upon. A reading class, when once formed, would doubtless slowly increase, and the number of manuscripts along with it; so that before the time of Solon, fifty years afterwards, both readers and manuscripts, though still comparatively few, might have attained a  certain recognized authority, and formed a tribunal of reference against the carelessness of individual rhapsodes." 
+
+
 
 But even Peisistratus has not been suffered to remain in possession of the credit, and we cannot help feeling the force of the following observations—
 
+
+
 "There are several incidental circumstances which, in our opinion, throw some suspicion over the whole history of the Peisistratid compilation, at least over the theory, that the Iliad was cast into its present stately and harmonious form by the directions of the Athenian ruler. If the great poets, who flourished at the bright period of Grecian song, of which, alas! we have inherited little more than the fame, and the faint echo, if Stesichorus, Anacreon, and Simonides were employed in the noble task of compiling the Iliad and Odyssey, so much must have been done to arrange, to connect, to harmonize, that it is almost incredible, that stronger marks of Athenian manufacture should not remain. Whatever occasional anomalies may be detected, anomalies which no doubt arise out of our own ignorance of the language of the Homeric age, however the irregular use of the digamma may have perplexed our Bentleys, to whom the name of Helen is said to have caused as much disquiet and distress as the fair one herself among the heroes of her age, however Mr. Knight may have failed in reducing the Homeric language to its primitive form; however, finally, the Attic dialect may not have assumed all its more marked and distinguishing characteristics—still it is difficult to suppose that the language, particularly in the joinings and transitions, and connecting parts, should not more clearly betray the incongruity between the more ancient and modern forms of expression. It is not quite in character with such a period to imitate an antique style, in order to piece out an imperfect poem in the character of the original, as Sir Walter Scott has done in his continuation of Sir Tristram.
 
-"If, however, not even such faint and indistinct traces of Athenian compilation are discoverable in the language of the poems, the total absence of Athenian national feeling is perhaps no less worthy of observation. In later, and it may fairly be suspected in earlier times, the Athenians were more than ordinarily jealous of the fame of their ancestors. But, amid all the traditions of the glories of early Greece embodied in the Iliad, the Athenians play a most subordinate and insignificant part. Even the few passages which relate to their ancestors, Mr. Knight suspects to be interpolations. It is possible, indeed, that in its leading outline, the Iliad may be true to historic fact, that in the great maritime expedition of western Greece against the rival and half-kindred empire of the Laomedontiadae, the chieftain of Thessaly, from his valour and the number of his forces, may have been the most important ally of the Peloponnesian sovereign; the preeminent value of the ancient poetry on the Trojan war may thus have forced the national feeling of the Athenians to yield to their taste. The songs which spoke of their own great ancestor were, no doubt, of far inferior sublimity and popularity, or, at first sight, a Theseid would have been much more likely to have emanated from an Athenian synod of compilers of\[pg xxii\] ancient song, than an Achilleid or an Olysseid. Could France have given birth to a Tasso, Tancred would have been the hero of the Jerusalem. If, however, the Homeric ballads, as they are sometimes called, which related the wrath of Achilles, with all its direful consequences, were so far superior to the rest of the poetic cycle, as to admit no rivalry,—it is still surprising, that throughout the whole poem the callida junctura should never betray the workmanship of an Athenian hand, and that the national spirit of a race, who have at a later period not inaptly been compared to our self admiring neighbours, the French, should submit with lofty self denial to the almost total exclusion of their own ancestors—or, at least, to the questionable dignity of only having produced a leader tolerably skilled in the military tactics of his age."[27](#note_27)
 
-To return to the Wolfian theory. While it is to be confessed, that Wolf's objections to the primitive integrity of the Iliad and Odyssey have never been wholly got over, we cannot help discovering that they have failed to enlighten us as to any substantial point, and that the difficulties with which the whole subject is beset, are rather augmented than otherwise, if we admit his hypothesis. Nor is Lachmann's[28](#note_28) modification of his theory any better. He divides the first twenty-two books of the Iliad into sixteen different songs, and treats as ridiculous the belief that their amalgamation into one regular poem belongs to a period earlier than the age of Peisistratus. This, as Grote observes, "explains the gaps and contradictions in the narrative, but it explains nothing else." Moreover, we find no contradictions warranting this belief, and the so-called sixteen poets concur in getting rid of the following leading men in the first battle after the secession of Achilles: Elphenor, chief of the Euboeans; Tlepolemus, of the Rhodians; Pandarus, of the Lycians; Odius, of the Halizonians; Pirous and Acamas, of the Thracians. None of these heroes again make their appearance, and we can but agree with Colonel Mure, that "it seems strange that any number of independent poets should have so harmoniously dispensed with the services of all six in the sequel." The discrepancy, by which Pylaemenes, who is represented as dead in the fifth book, weeps at his son's funeral in the thirteenth, can only be regarded as the result of an interpolation.
 
-Grote, although not very distinct in stating his own opinions on the subject, has done much to clearly show the incongruity of the Wolfian theory, and of Lachmann's modifications with the character of Peisistratus. But he has also shown, and we think with equal success, that the two questions relative to the primitive unity of these poems, or, supposing that impossible, the unison of these parts by Peisistratus, and not before his time, are essentially distinct. In short, "a man may believe the Iliad to have been put together out of pre-existing songs, without recognising the age of Peisistratus as the period of its first compilation." The friends or literary employes of Peisistratus must have found an Iliad that was already ancient, and the silence of the Alexandrine critics respecting the Peisistratic "recension," goes far\[pg xxiii\] to prove, that, among the numerous manuscripts they examined, this was either wanting, or thought unworthy of attention.
+"If, however, not even such faint and indistinct traces of Athenian compilation are discoverable in the language of the poems, the total absence of Athenian national feeling is perhaps no less worthy of observation. In later, and it may fairly be suspected in earlier times, the Athenians were more than ordinarily jealous of the fame of their ancestors. But, amid all the traditions of the glories of early Greece embodied in the Iliad, the Athenians play a most subordinate and insignificant part. Even the few passages which relate to their ancestors, Mr. Knight suspects to be interpolations. It is possible, indeed, that in its leading outline, the Iliad may be true to historic fact, that in the great maritime expedition of western Greece against the rival and half-kindred empire of the Laomedontiadae, the chieftain of Thessaly, from his valour and the number of his forces, may have been the most important ally of the Peloponnesian sovereign; the preeminent value of the ancient poetry on the Trojan war may thus have forced the national feeling of the Athenians to yield to their taste. The songs which spoke of their own great ancestor were, no doubt, of far inferior sublimity and popularity, or, at first sight, a Theseid would have been much more likely to have emanated from an Athenian synod of compilers of  ancient song, than an Achilleid or an Olysseid. Could France have given birth to a Tasso, Tancred would have been the hero of the Jerusalem. If, however, the Homeric ballads, as they are sometimes called, which related the wrath of Achilles, with all its direful consequences, were so far superior to the rest of the poetic cycle, as to admit no rivalry,—it is still surprising, that throughout the whole poem the callida junctura should never betray the workmanship of an Athenian hand, and that the national spirit of a race, who have at a later period not inaptly been compared to our self admiring neighbours, the French, should submit with lofty self denial to the almost total exclusion of their own ancestors—or, at least, to the questionable dignity of only having produced a leader tolerably skilled in the military tactics of his age." 
 
-"Moreover," he continues, "the whole tenor of the poems themselves confirms what is here remarked. There is nothing, either in the Iliad or Odyssey, which savours of modernism, applying that term to the age of Peisistratus—nothing which brings to our view the alterations brought about by two centuries, in the Greek language, the coined money, the habits of writing and reading, the despotisms and republican governments, the close military array, the improved construction of ships, the Amphiktyonic convocations, the mutual frequentation of religious festivals, the Oriental and Egyptian veins of religion, &c., familiar to the latter epoch. These alterations Onomakritus, and the other literary friends of Peisistratus, could hardly have failed to notice, even without design, had they then, for the first time, undertaken the task of piecing together many self existent epics into one large aggregate. Everything in the two great Homeric poems, both in substance and in language, belongs to an age two or three centuries earlier than Peisistratus. Indeed, even the interpolations (or those passages which, on the best grounds, are pronounced to be such) betray no trace of the sixth century before Christ, and may well have been heard by Archilochus and Kallinus—in some cases even by Arktinus and Hesiod—as genuine Homeric matter[29](#note_29) As far as the evidences on the case, as well internal as external, enable us to judge, we seem warranted in believing that the Iliad and Odyssey were recited substantially as they now stand (always allowing for paitial divergences of text and interpolations) in 776 B.C., our first trustworthy mark of Grecian time; and this ancient date, let it be added, as it is the best-authenticated fact, so it is also the most important attribute of the Homeric poems, considered in reference to Grecian history; for they thus afford us an insight into the anti-historical character of the Greeks, enabling us to trace the subsequent forward march of the nation, and to seize instructive contrasts between their former and their later condition."[30](#note_30)
 
-On the whole, I am inclined to believe, that the labours of Peisistratus were wholly of an editorial character, although, I must confess, that I can lay down nothing respecting the extent of his labours. At the same time, so far from believing that the composition or primary arrangement of these poems, in their present form, was the work of Peisistratus, I am rather persuaded that the fine taste and elegant mind of that Athenian[31](#note_31) would lead him to preserve an ancient and traditional order of the poems, rather than to patch and re-construct them according to a fanciful hypothesis. I will not repeat the many discussions respecting whether the poems were written or not, or whether the art of writing was known in the time of their reputed author. Suffice it to say, that the more we read, the less satisfied we are upon either subject.
 
-\[pg xxiv\]
+To return to the Wolfian theory. While it is to be confessed, that Wolf's objections to the primitive integrity of the Iliad and Odyssey have never been wholly got over, we cannot help discovering that they have failed to enlighten us as to any substantial point, and that the difficulties with which the whole subject is beset, are rather augmented than otherwise, if we admit his hypothesis. Nor is Lachmann's  modification of his theory any better. He divides the first twenty-two books of the Iliad into sixteen different songs, and treats as ridiculous the belief that their amalgamation into one regular poem belongs to a period earlier than the age of Peisistratus. This, as Grote observes, "explains the gaps and contradictions in the narrative, but it explains nothing else." Moreover, we find no contradictions warranting this belief, and the so-called sixteen poets concur in getting rid of the following leading men in the first battle after the secession of Achilles: Elphenor, chief of the Euboeans; Tlepolemus, of the Rhodians; Pandarus, of the Lycians; Odius, of the Halizonians; Pirous and Acamas, of the Thracians. None of these heroes again make their appearance, and we can but agree with Colonel Mure, that "it seems strange that any number of independent poets should have so harmoniously dispensed with the services of all six in the sequel." The discrepancy, by which Pylaemenes, who is represented as dead in the fifth book, weeps at his son's funeral in the thirteenth, can only be regarded as the result of an interpolation.
+
+
+
+Grote, although not very distinct in stating his own opinions on the subject, has done much to clearly show the incongruity of the Wolfian theory, and of Lachmann's modifications with the character of Peisistratus. But he has also shown, and we think with equal success, that the two questions relative to the primitive unity of these poems, or, supposing that impossible, the unison of these parts by Peisistratus, and not before his time, are essentially distinct. In short, "a man may believe the Iliad to have been put together out of pre-existing songs, without recognising the age of Peisistratus as the period of its first compilation." The friends or literary employes of Peisistratus must have found an Iliad that was already ancient, and the silence of the Alexandrine critics respecting the Peisistratic "recension," goes far  to prove, that, among the numerous manuscripts they examined, this was either wanting, or thought unworthy of attention.
+
+
+
+"Moreover," he continues, "the whole tenor of the poems themselves confirms what is here remarked. There is nothing, either in the Iliad or Odyssey, which savours of modernism, applying that term to the age of Peisistratus—nothing which brings to our view the alterations brought about by two centuries, in the Greek language, the coined money, the habits of writing and reading, the despotisms and republican governments, the close military array, the improved construction of ships, the Amphiktyonic convocations, the mutual frequentation of religious festivals, the Oriental and Egyptian veins of religion, &c., familiar to the latter epoch. These alterations Onomakritus, and the other literary friends of Peisistratus, could hardly have failed to notice, even without design, had they then, for the first time, undertaken the task of piecing together many self existent epics into one large aggregate. Everything in the two great Homeric poems, both in substance and in language, belongs to an age two or three centuries earlier than Peisistratus. Indeed, even the interpolations (or those passages which, on the best grounds, are pronounced to be such) betray no trace of the sixth century before Christ, and may well have been heard by Archilochus and Kallinus—in some cases even by Arktinus and Hesiod—as genuine Homeric matter. As far as the evidences on the case, as well internal as external, enable us to judge, we seem warranted in believing that the Iliad and Odyssey were recited substantially as they now stand (always allowing for paitial divergences of text and interpolations) in 776 B.C., our first trustworthy mark of Grecian time; and this ancient date, let it be added, as it is the best-authenticated fact, so it is also the most important attribute of the Homeric poems, considered in reference to Grecian history; for they thus afford us an insight into the anti-historical character of the Greeks, enabling us to trace the subsequent forward march of the nation, and to seize instructive contrasts between their former and their later condition."
+
+
+
+On the whole, I am inclined to believe, that the labours of Peisistratus were wholly of an editorial character, although, I must confess, that I can lay down nothing respecting the extent of his labours. At the same time, so far from believing that the composition or primary arrangement of these poems, in their present form, was the work of Peisistratus, I am rather persuaded that the fine taste and elegant mind of that Athenian  would lead him to preserve an ancient and traditional order of the poems, rather than to patch and re-construct them according to a fanciful hypothesis. I will not repeat the many discussions respecting whether the poems were written or not, or whether the art of writing was known in the time of their reputed author. Suffice it to say, that the more we read, the less satisfied we are upon either subject.
+
+ 
 
 I cannot, however, help thinking, that the story which attributes the preservation of these poems to Lycurgus, is little else than a version of the same story as that of Peisistratus, while its historical probability must be measured by that of many others relating to the Spartan Confucius.
 
+
+
 I will conclude this sketch of the Homeric theories, with an attempt, made by an ingenious friend, to unite them into something like consistency. It is as follows:—
+
+
 
 "No doubt the common soldiers of that age had, like the common sailors of some fifty years ago, some one qualified to 'discourse in excellent music' among them. Many of these, like those of the negroes in the United States, were extemporaneous, and allusive to events passing around them. But what was passing around them? The grand events of a spirit-stirring war; occurrences likely to impress themselves, as the mystical legends of former times had done, upon their memory; besides which, a retentive memory was deemed a virtue of the first water, and was cultivated accordingly in those ancient times. Ballads at first, and down to the beginning of the war with Troy, were merely recitations, with an intonation. Then followed a species of recitative, probably with an intoned burden. Tune next followed, as it aided the memory considerably.
 
+
+
 "It was at this period, about four hundred years after the war, that a poet flourished of the name of Melesigenes, or Moeonides, but most probably the former. He saw that these ballads might be made of great utility to his purpose of writing a poem on the social position of Hellas, and, as a collection, he published these lays, connecting them by a tale of his own. This poem now exists, under the title of the 'Odyssea.' The author, however, did not affix his own name to the poem, which, in fact, was, great part of it, remodelled from the archaic dialect of Crete, in which tongue the ballads were found by him. He therefore called it the poem of Homeros, or the Collector; but this is rather a proof of his modesty and talent, than of his mere drudging arrangement of other people's ideas; for, as Grote has finely observed, arguing for the unity of authorship, 'a great poet might have re-cast pre-existing separate songs into one comprehensive whole; but no mere arrangers or compilers would be competent to do so.'
 
-"While employed on the wild legend of Odysseus, he met with a ballad, recording the quarrel of Achilles and Agamemnon. His noble mind seized the hint that there presented itself, and the Achilleis[32](#note_32) grew under his hand. Unity of design, however, caused him to publish the poem under the same pseudonyme as his former work: and the disjointed lays of the ancient bards were joined together, like those relating to the Cid, into a chronicle history, named the Iliad. Melesigenes knew that the poem was destined to be a lasting one, and so it has proved; but, first, the poems were destined to undergo many vicissitudes and corruptions, by the people who took to singing them in the streets, assemblies, and agoras. However, Solon first, and then\[pg xxv\] Peisistratus, and afterwards Aristoteles and others, revised the poems, and restored the works of Melesigenes Homeros to their original integrity in a great measure."[33](#note_33)
+
+
+"While employed on the wild legend of Odysseus, he met with a ballad, recording the quarrel of Achilles and Agamemnon. His noble mind seized the hint that there presented itself, and the Achilleis 
+
+
 
 Having thus given some general notion of the strange theories which have developed themselves respecting this most interesting subject, I must still express my conviction as to the unity of the authorship of the Homeric poems. To deny that many corruptions and interpolations disfigure them, and that the intrusive hand of the poetasters may here and there have inflicted a wound more serious than the negligence of the copyist, would be an absurd and captious assumption, but it is to a higher criticism that we must appeal, if we would either understand or enjoy these poems. In maintaining the authenticity and personality of their one author, be he Homer or Melesigenes, quocunque nomine vocari eum jus fasque sit, I feel conscious that, while the whole weight of historical evidence is against the hypothesis which would assign these great works to a plurality of authors, the most powerful internal evidence, and that which springs from the deepest and most immediate impulse of the soul, also speaks eloquently to the contrary.
 
+
+
 The minutiae of verbal criticism I am far from seeking to despise. Indeed, considering the character of some of my own books, such an attempt would be gross inconsistency. But, while I appreciate its importance in a philological view, I am inclined to set little store on its aesthetic value, especially in poetry. Three parts of the emendations made upon poets are mere alterations, some of which, had they been suggested to the author by his Maecenas or Africanus, he would probably have adopted. Moreover, those who are most exact in laying down rules of verbal criticism and interpretation, are often least competent to carry out their own precepts. Grammarians are not poets by profession, but may be so per accidens. I do not at this moment remember two emendations on Homer, calculated to substantially improve the poetry of a passage, although a mass of remarks, from Herodotus down to Loewe, have given us the history of a thousand minute points, without which our Greek knowledge would be gloomy and jejune.
 
-But it is not on words only that grammarians, mere grammarians, will exercise their elaborate and often tiresome ingenuity. Binding down an heroic or dramatic poet to the block upon which they have previously dissected his words and sentences, they proceed to use the axe and the pruning knife by wholesale, and inconsistent in everything but their wish to make out a case of unlawful affiliation, they cut out book after book, passage after passage, till the author is reduced to a collection of fragments, or till those, who fancied they possessed the works of some great man, find that they have been put off with a vile counterfeit got up at second hand. If we compare the theories of Knight, Wolf, Lachmann, and others, we shall feel better satisfied of the utter uncertainty of criticism than of the apocryphal position of Homer. One rejects what another considers the turning-point of his\[pg xxvi\] theory. One cuts a supposed knot by expunging what another would explain by omitting something else.
 
-Nor is this morbid species of sagacity by any means to be looked upon as a literary novelty. Justus Lipsius, a scholar of no ordinary skill, seems to revel in the imaginary discovery, that the tragedies attributed to Seneca are by four different authors.[34](#note_34) Now, I will venture to assert, that these tragedies are so uniform, not only in their borrowed phraseology—a phraseology with which writers like Boethius and Saxo Grammaticus were more charmed than ourselves—in their freedom from real poetry, and last, but not least, in an ultra-refined and consistent abandonment of good taste, that few writers of the present day would question the capabilities of the same gentleman, be he Seneca or not, to produce not only these, but a great many more equally bad. With equal sagacity, Father Hardouin astonished the world with the startling announcement that the Æneid of Virgil, and the satires of Horace, were literary deceptions. Now, without wishing to say one word of disrespect against the industry and learning—nay, the refined acuteness—which scholars, like Wolf, have bestowed upon this subject, I must express my fears, that many of our modern Homeric theories will become matter for the surprise and entertainment, rather than the instruction, of posterity. Nor can I help thinking, that the literary history of more recent times will account for many points of difficulty in the transmission of the Iliad and Odyssey to a period so remote from that of their first creation.
+
+But it is not on words only that grammarians, mere grammarians, will exercise their elaborate and often tiresome ingenuity. Binding down an heroic or dramatic poet to the block upon which they have previously dissected his words and sentences, they proceed to use the axe and the pruning knife by wholesale, and inconsistent in everything but their wish to make out a case of unlawful affiliation, they cut out book after book, passage after passage, till the author is reduced to a collection of fragments, or till those, who fancied they possessed the works of some great man, find that they have been put off with a vile counterfeit got up at second hand. If we compare the theories of Knight, Wolf, Lachmann, and others, we shall feel better satisfied of the utter uncertainty of criticism than of the apocryphal position of Homer. One rejects what another considers the turning-point of his  theory. One cuts a supposed knot by expunging what another would explain by omitting something else.
+
+
+
+Nor is this morbid species of sagacity by any means to be looked upon as a literary novelty. Justus Lipsius, a scholar of no ordinary skill, seems to revel in the imaginary discovery, that the tragedies attributed to Seneca are by four different authors.  Now, I will venture to assert, that these tragedies are so uniform, not only in their borrowed phraseology—a phraseology with which writers like Boethius and Saxo Grammaticus were more charmed than ourselves—in their freedom from real poetry, and last, but not least, in an ultra-refined and consistent abandonment of good taste, that few writers of the present day would question the capabilities of the same gentleman, be he Seneca or not, to produce not only these, but a great many more equally bad. With equal sagacity, Father Hardouin astonished the world with the startling announcement that the Æneid of Virgil, and the satires of Horace, were literary deceptions. Now, without wishing to say one word of disrespect against the industry and learning—nay, the refined acuteness—which scholars, like Wolf, have bestowed upon this subject, I must express my fears, that many of our modern Homeric theories will become matter for the surprise and entertainment, rather than the instruction, of posterity. Nor can I help thinking, that the literary history of more recent times will account for many points of difficulty in the transmission of the Iliad and Odyssey to a period so remote from that of their first creation.
+
+
 
 I have already expressed my belief that the labours of Peisistratus were of a purely editorial character; and there seems no more reason why corrupt and imperfect editions of Homer may not have been abroad in his day, than that the poems of Valerius Flaccus and Tibullus should have given so much trouble to Poggio, Scaliger, and others. But, after all, the main fault in all the Homeric theories is, that they demand too great a sacrifice of those feelings to which poetry most powerfully appeals, and which are its most fitting judges. The ingenuity which has sought to rob us of the name and existence of Homer, does too much violence to that inward emotion, which makes our whole soul yearn with love and admiration for the blind bard of Chios. To believe the author of the Iliad a mere compiler, is to degrade the powers of human invention; to elevate analytical judgment at the expense of the most ennobling impulses of the soul; and to forget the ocean in the contemplation of a polypus. There is a catholicity, so to speak, in the very name of Homer. Our faith in the author of the Iliad may be a mistaken one, but as yet nobody has taught us a better.
 
-While, however, I look upon the belief in Homer as one that has nature herself for its mainspring; while I can join with old Ennius in believing in Homer as the ghost, who, like some patron saint, hovers round the bed of the poet, and even bestows rare gifts from that wealth of imagination which a host of imitators could not exhaust,—still I am far from wishing to deny that the author of these great poems found a rich fund of tradition, a well-stocked mythical storehouse from whence\[pg xxvii\] he might derive both subject and embellishment. But it is one thing to use existing romances in the embellishment of a poem, another to patch up the poem itself from such materials. What consistency of style and execution can be hoped for from such an attempt? or, rather, what bad taste and tedium will not be the infallible result?
+
+
+While, however, I look upon the belief in Homer as one that has nature herself for its mainspring; while I can join with old Ennius in believing in Homer as the ghost, who, like some patron saint, hovers round the bed of the poet, and even bestows rare gifts from that wealth of imagination which a host of imitators could not exhaust,—still I am far from wishing to deny that the author of these great poems found a rich fund of tradition, a well-stocked mythical storehouse from whence  he might derive both subject and embellishment. But it is one thing to use existing romances in the embellishment of a poem, another to patch up the poem itself from such materials. What consistency of style and execution can be hoped for from such an attempt? or, rather, what bad taste and tedium will not be the infallible result?
+
+
 
 A blending of popular legends, and a free use of the songs of other bards, are features perfectly consistent with poetical originality. In fact, the most original writer is still drawing upon outward impressions—nay, even his own thoughts are a kind of secondary agents which support and feed the impulses of imagination. But unless there be some grand pervading principle—some invisible, yet most distinctly stamped archetypus of the great whole, a poem like the Iliad can never come to the birth. Traditions the most picturesque, episodes the most pathetic, local associations teeming with the thoughts of gods and great men, may crowd in one mighty vision, or reveal themselves in more substantial forms to the mind of the poet; but, except the power to create a grand whole, to which these shall be but as details and embellishments, be present, we shall have nought but a scrap-book, a parterre filled with flowers and weeds strangling each other in their wild redundancy: we shall have a cento of rags and tatters, which will require little acuteness to detect.
 
+
+
 Sensible as I am of the difficulty of disproving a negative, and aware as I must be of the weighty grounds there are for opposing my belief, it still seems to me that the Homeric question is one that is reserved for a higher criticism than it has often obtained. We are not by nature intended to know all things; still less, to compass the powers by which the greatest blessings of life have been placed at our disposal. Were faith no virtue, then we might indeed wonder why God willed our ignorance on any matter. But we are too well taught the contrary lesson; and it seems as though our faith should be especially tried touching the men and the events which have wrought most influence upon the condition of humanity. And there is a kind of sacredness attached to the memory of the great and the good, which seems to bid us repulse the scepticism which would allegorize their existence into a pleasing apologue, and measure the giants of intellect by an homeopathic dynameter.
+
+
 
 Long and habitual reading of Homer appears to familiarize our thoughts even to his incongruities; or rather, if we read in a right spirit and with a heartfelt appreciation, we are too much dazzled, too deeply wrapped in admiration of the whole, to dwell upon the minute spots which mere analysis can discover. In reading an heroic poem we must transform ourselves into heroes of the time being, we in imagination must fight over the same battles, woo the same loves, burn with the same sense of injury, as an Achilles or a Hector. And if we can but attain this degree of enthusiasm (and less enthusiasm will scarcely suffice for the reading of Homer), we shall feel that the poems of Homer are not only the work of one writer, but of the greatest writer that ever touched the hearts of men by the power of song.
 
-And it was this supposed unity of authorship which gave these poems their powerful influence over the minds of the men of old.\[pg xxviii\] Heeren, who is evidently little disposed in favour of modern theories, finely observes:—
 
-"It was Homer who formed the character of the Greek nation. No poet has ever, as a poet, exercised a similar influence over his countrymen. Prophets, lawgivers, and sages have formed the character of other nations; it was reserved to a poet to form that of the Greeks. This is a feature in their character which was not wholly erased even in the period of their degeneracy. When lawgivers and sages appeared in Greece, the work of the poet had already been accomplished; and they paid homage to his superior genius. He held up before his nation the mirror, in which they were to behold the world of gods and heroes no less than of feeble mortals, and to behold them reflected with purity and truth. His poems are founded on the first feeling of human nature; on the love of children, wife, and country; on that passion which outweighs all others, the love of glory. His songs were poured forth from a breast which sympathized with all the feelings of man; and therefore they enter, and will continue to enter, every breast which cherishes the same sympathies. If it is granted to his immortal spirit, from another heaven than any of which he dreamed on earth, to look down on his race, to see the nations from the fields of Asia to the forests of Hercynia, performing pilgrimages to the fountain which his magic wand caused to flow; if it is permitted to him to view the vast assemblage of grand, of elevated, of glorious productions, which had been called into being by means of his songs; wherever his immortal spirit may reside, this alone would suffice to complete his happiness."[35](#note_35)
 
-Can we contemplate that ancient monument, on which the "Apotheosis of Homer"[36](#note_36) is depictured, and not feel how much of pleasing association, how much that appeals most forcibly and most distinctly to our minds, is lost by the admittance of any theory but our old tradition? The more we read, and the more we think—think as becomes the readers of Homer,—the more rooted becomes the conviction that the Father of Poetry gave us this rich inheritance, whole and entire. Whatever were the means of its preservation, let us rather be thankful for the treasury of taste and eloquence thus laid open to our use, than seek to make it a mere centre around which to drive a series of theories, whose wildness is only equalled by their inconsistency with each other.
+And it was this supposed unity of authorship which gave these poems their powerful influence over the minds of the men of old.  Heeren, who is evidently little disposed in favour of modern theories, finely observes:—
 
-As the hymns, and some other poems usually ascribed to Homer, are not included in Pope's translation, I will content myself with a brief account of the Battle of the Frogs and Mice, from the pen of a writer who has done it full justice[37](#note_37):—
 
-"This poem," says Coleridge, "is a short mock-heroic of ancient date. The text varies in different editions, and is obviously disturbed and corrupt to a great degree; it is commonly said to have been a juvenile essay of Homer's genius; others have attributed it to the same Pigrees,\[pg xxix\]mentioned above, and whose reputation for humour seems to have invited the appropriation of any piece of ancient wit, the author of which was uncertain; so little did the Greeks, before the age of the Ptolemies, know or care about that department of criticism employed in determining the genuineness of ancient writings. As to this little poem being a youthful prolusion of Homer, it seems sufficient to say that from the beginning to the end it is a plain and palpable parody, not only of the general spirit, but of the numerous passages of the Iliad itself; and even, if no such intention to parody were discernible in it, the objection would still remain, that to suppose a work of mere burlesque to be the primary effort of poetry in a simple age, seems to reverse that order in the development of national taste, which the history of every other people in Europe, and of many in Asia, has almost ascertained to be a law of the human mind; it is in a state of society much more refined and permanent than that described in the Iliad, that any popularity would attend such a ridicule of war and the gods as is contained in this poem; and the fact of there having existed three other poems of the same kind attributed, for aught we can see, with as much reason to Homer, is a strong inducement to believe that none of them were of the Homeric age. Knight infers from the usage of the word deltos, "writing tablet," instead of diphthera, "skin," which, according to Herod. 5, 58, was the material employed by the Asiatic Greeks for that purpose, that this poem was another offspring of Attic ingenuity; and generally that the familiar mention of the cock (v. 191) is a strong argument against so ancient a date for its composition."
+
+"It was Homer who formed the character of the Greek nation. No poet has ever, as a poet, exercised a similar influence over his countrymen. Prophets, lawgivers, and sages have formed the character of other nations; it was reserved to a poet to form that of the Greeks. This is a feature in their character which was not wholly erased even in the period of their degeneracy. When lawgivers and sages appeared in Greece, the work of the poet had already been accomplished; and they paid homage to his superior genius. He held up before his nation the mirror, in which they were to behold the world of gods and heroes no less than of feeble mortals, and to behold them reflected with purity and truth. His poems are founded on the first feeling of human nature; on the love of children, wife, and country; on that passion which outweighs all others, the love of glory. His songs were poured forth from a breast which sympathized with all the feelings of man; and therefore they enter, and will continue to enter, every breast which cherishes the same sympathies. If it is granted to his immortal spirit, from another heaven than any of which he dreamed on earth, to look down on his race, to see the nations from the fields of Asia to the forests of Hercynia, performing pilgrimages to the fountain which his magic wand caused to flow; if it is permitted to him to view the vast assemblage of grand, of elevated, of glorious productions, which had been called into being by means of his songs; wherever his immortal spirit may reside, this alone would suffice to complete his happiness." 
+
+
+
+Can we contemplate that ancient monument, on which the "Apotheosis of Homer"  is depictured, and not feel how much of pleasing association, how much that appeals most forcibly and most distinctly to our minds, is lost by the admittance of any theory but our old tradition? The more we read, and the more we think—think as becomes the readers of Homer,—the more rooted becomes the conviction that the Father of Poetry gave us this rich inheritance, whole and entire. Whatever were the means of its preservation, let us rather be thankful for the treasury of taste and eloquence thus laid open to our use, than seek to make it a mere centre around which to drive a series of theories, whose wildness is only equalled by their inconsistency with each other.
+
+
+
+As the hymns, and some other poems usually ascribed to Homer, are not included in Pope's translation, I will content myself with a brief account of the Battle of the Frogs and Mice, from the pen of a writer who has done it full justice :—
+
+
+
+"This poem," says Coleridge, "is a short mock-heroic of ancient date. The text varies in different editions, and is obviously disturbed and corrupt to a great degree; it is commonly said to have been a juvenile essay of Homer's genius; others have attributed it to the same Pigrees, mentioned above, and whose reputation for humour seems to have invited the appropriation of any piece of ancient wit, the author of which was uncertain; so little did the Greeks, before the age of the Ptolemies, know or care about that department of criticism employed in determining the genuineness of ancient writings. As to this little poem being a youthful prolusion of Homer, it seems sufficient to say that from the beginning to the end it is a plain and palpable parody, not only of the general spirit, but of the numerous passages of the Iliad itself; and even, if no such intention to parody were discernible in it, the objection would still remain, that to suppose a work of mere burlesque to be the primary effort of poetry in a simple age, seems to reverse that order in the development of national taste, which the history of every other people in Europe, and of many in Asia, has almost ascertained to be a law of the human mind; it is in a state of society much more refined and permanent than that described in the Iliad, that any popularity would attend such a ridicule of war and the gods as is contained in this poem; and the fact of there having existed three other poems of the same kind attributed, for aught we can see, with as much reason to Homer, is a strong inducement to believe that none of them were of the Homeric age. Knight infers from the usage of the word deltos, "writing tablet," instead of diphthera, "skin," which, according to Herod. 5, 58, was the material employed by the Asiatic Greeks for that purpose, that this poem was another offspring of Attic ingenuity; and generally that the familiar mention of the cock (v. 191) is a strong argument against so ancient a date for its composition."
+
+
 
 Having thus given a brief account of the poems comprised in Pope's design, I will now proceed to make a few remarks on his translation, and on my own purpose in the present edition.
 
+
+
 Pope was not a Grecian. His whole education had been irregular, and his earliest acquaintance with the poet was through the version of Ogilby. It is not too much to say that his whole work bears the impress of a disposition to be satisfied with the general sense, rather than to dive deeply into the minute and delicate features of language. Hence his whole work is to be looked upon rather as an elegant paraphrase than a translation. There are, to be sure, certain conventional anecdotes, which prove that Pope consulted various friends, whose classical attainments were sounder than his own, during the undertaking; but it is probable that these examinations were the result rather of the contradictory versions already existing, than of a desire to make a perfect transcript of the original. And in those days, what is called literal translation was less cultivated than at present. If something like the general sense could be decorated with the easy gracefulness of a practised poet; if the charms of metrical cadence and a pleasing fluency could be made consistent with a fair interpretation of the poet's meaning, his words were less jealously sought for, and those who could read so good a poem as Pope's Iliad had fair reason to be satisfied.
 
-It would be absurd, therefore, to test Pope's translation by our own advancing knowledge of the original text. We must be content to\[pg xxx\] look at it as a most delightful work in itself,—a work which is as much a part of English literature as Homer himself is of Greek. We must not be torn from our kindly associations with the old Iliad, that once was our most cherished companion, or our most looked-for prize, merely because Buttmann, Loewe, and Liddell have made us so much more accurate as to amphikupellon being an adjective, and not a substantive. Far be it from us to defend the faults of Pope, especially when we think of Chapman's fine, bold, rough old English;—far be it from, us to hold up his translation as what a translation of Homer might be. But we can still dismiss Pope's Iliad to the hands of our readers, with the consciousness that they must have read a very great number of books before they have read its fellow.
+
+
+It would be absurd, therefore, to test Pope's translation by our own advancing knowledge of the original text. We must be content to  look at it as a most delightful work in itself,—a work which is as much a part of English literature as Homer himself is of Greek. We must not be torn from our kindly associations with the old Iliad, that once was our most cherished companion, or our most looked-for prize, merely because Buttmann, Loewe, and Liddell have made us so much more accurate as to amphikupellon being an adjective, and not a substantive. Far be it from us to defend the faults of Pope, especially when we think of Chapman's fine, bold, rough old English;—far be it from, us to hold up his translation as what a translation of Homer might be. But we can still dismiss Pope's Iliad to the hands of our readers, with the consciousness that they must have read a very great number of books before they have read its fellow.
+
+
 
 As to the Notes accompanying the present volume, they are drawn up without pretension, and mainly with the view of helping the general reader. Having some little time since translated all the works of Homer for another publisher, I might have brought a large amount of accumulated matter, sometimes of a critical character, to bear upon the text. But Pope's version was no field for such a display; and my purpose was to touch briefly on antiquarian or mythological allusions, to notice occasionally some departures from the original, and to give a few parallel passages from our English Homer, Milton. In the latter task I cannot pretend to novelty, but I trust that my other annotations, while utterly disclaiming high scholastic views, will be found to convey as much as is wanted; at least, as far as the necessary limits of these volumes could be expected to admit. To write a commentary on Homer is not my present aim; but if I have made Pope's translation a little more entertaining and instructive to a mass of miscellaneous readers, I shall consider my wishes satisfactorily accomplished.
 
+
+
 THEODORE ALOIS BUCKLEY.
+
 
 Christ Church.
 
-* * *
 
-\[pg xxxi\]
 
-POPE'S PREFACE TO THE ILIAD OF HOMER
-====================================
+---
+
+ 
+
+### POPE'S PREFACE TO THE ILIAD OF HOMER
+
+
 
 Homer is universally allowed to have had the greatest invention of any writer whatever. The praise of judgment Virgil has justly contested with him, and others may have their pretensions as to particular excellences; but his invention remains yet unrivalled. Nor is it a wonder if he has ever been acknowledged the greatest of poets, who most excelled in that which is the very foundation of poetry. It is the invention that, in different degrees, distinguishes all great geniuses: the utmost stretch of human study, learning, and industry, which masters everything besides, can never attain to this. It furnishes art with all her materials, and without it judgment itself can at best but "steal wisely:" for art is only like a prudent steward that lives on managing the riches of nature. Whatever praises may be given to works of judgment, there is not even a single beauty in them to which the invention must not contribute: as in the most regular gardens, art can only reduce beauties of nature to more regularity, and such a figure, which the common eye may better take in, and is, therefore, more entertained with. And, perhaps, the reason why common critics are inclined to prefer a judicious and methodical genius to a great and fruitful one, is, because they find it easier for themselves to pursue their observations through a uniform and bounded walk of art, than to comprehend the vast and various extent of nature.
 
+
+
 Our author's work is a wild paradise, where, if we cannot see all the beauties so distinctly as in an ordered garden, it is only because the number of them is infinitely greater. It is like a copious nursery, which contains the seeds and first productions of every kind, out of which those who followed him have but selected some particular plants, each according to his fancy, to cultivate and beautify. If some things are too luxuriant it is owing to the richness of the soil; and if others are not arrived to perfection or maturity, it is only because they are overrun and oppressed by those of a stronger nature.
 
-It is to the strength of this amazing invention we are to attribute that unequalled fire and rapture which is so forcible in Homer, that no man of a true poetical spirit is master of himself while he reads him. What he writes is of the most animated nature imaginable; every thing moves, every thing lives, and is put in action. If a council be called, or a battle fought, you are not coldly informed of what was said\[pg xxxii\] or done as from a third person; the reader is hurried out of himself by the force of the poet's imagination, and turns in one place to a hearer, in another to a spectator. The course of his verses resembles that of the army he describes,
+
+
+It is to the strength of this amazing invention we are to attribute that unequalled fire and rapture which is so forcible in Homer, that no man of a true poetical spirit is master of himself while he reads him. What he writes is of the most animated nature imaginable; every thing moves, every thing lives, and is put in action. If a council be called, or a battle fought, you are not coldly informed of what was said  or done as from a third person; the reader is hurried out of himself by the force of the poet's imagination, and turns in one place to a hearer, in another to a spectator. The course of his verses resembles that of the army he describes,
+
+
 
 Hoid' ar' isan hosei te puri chthon pasa nemoito.
 
+
+
 "They pour along like a fire that sweeps the whole earth before it." It is, however, remarkable, that his fancy, which is everywhere vigorous, is not discovered immediately at the beginning of his poem in its fullest splendour: it grows in the progress both upon himself and others, and becomes on fire, like a chariot-wheel, by its own rapidity. Exact disposition, just thought, correct elocution, polished numbers, may have been found in a thousand; but this poetic fire, this "vivida vis animi," in a very few. Even in works where all those are imperfect or neglected, this can overpower criticism, and make us admire even while we disapprove. Nay, where this appears, though attended with absurdities, it brightens all the rubbish about it, till we see nothing but its own splendour. This fire is discerned in Virgil, but discerned as through a glass, reflected from Homer, more shining than fierce, but everywhere equal and constant: in Lucan and Statius it bursts out in sudden, short, and interrupted flashes: In Milton it glows like a furnace kept up to an uncommon ardour by the force of art: in Shakspeare it strikes before we are aware, like an accidental fire from heaven: but in Homer, and in him only, it burns everywhere clearly and everywhere irresistibly.
+
+
 
 I shall here endeavour to show how this vast invention exerts itself in a manner superior to that of any poet through all the main constituent parts of his work: as it is the great and peculiar characteristic which distinguishes him from all other authors.
 
+
+
 This strong and ruling faculty was like a powerful star, which, in the violence of its course, drew all things within its vortex. It seemed not enough to have taken in the whole circle of arts, and the whole compass of nature, to supply his maxims and reflections; all the inward passions and affections of mankind, to furnish his characters: and all the outward forms and images of things for his descriptions: but wanting yet an ampler sphere to expatiate in, he opened a new and boundless walk for his imagination, and created a world for himself in the invention of fable. That which Aristotle calls "the soul of poetry," was first breathed into it by Homer, I shall begin with considering him in his part, as it is naturally the first; and I speak of it both as it means the design of a poem, and as it is taken for fiction.
 
-Fable may be divided into the probable, the allegorical, and the marvellous. The probable fable is the recital of such actions as, though they did not happen, yet might, in the common course of nature; or of such as, though they did, became fables by the additional episodes and manner of telling them. Of this sort is the main story of an epic poem, "The return of Ulysses, the settlement of the Trojans in Italy," or the like. That of the Iliad is the "anger of Achilles," the most short and single subject that ever was chosen by any poet. Yet this he has supplied with a vaster variety of incidents\[pg xxxiii\] and events, and crowded with a greater number of councils, speeches, battles, and episodes of all kinds, than are to be found even in those poems whose schemes are of the utmost latitude and irregularity. The action is hurried on with the most vehement spirit, and its whole duration employs not so much as fifty days. Virgil, for want of so warm a genius, aided himself by taking in a more extensive subject, as well as a greater length of time, and contracting the design of both Homer's poems into one, which is yet but a fourth part as large as his. The other epic poets have used the same practice, but generally carried it so far as to superinduce a multiplicity of fables, destroy the unity of action, and lose their readers in an unreasonable length of time. Nor is it only in the main design that they have been unable to add to his invention, but they have followed him in every episode and part of story. If he has given a regular catalogue of an army, they all draw up their forces in the same order. If he has funeral games for Patroclus, Virgil has the same for Anchises, and Statius (rather than omit them) destroys the unity of his actions for those of Archemorus. If Ulysses visit the shades, the Æneas of Virgil and Scipio of Silius are sent after him. If he be detained from his return by the allurements of Calypso, so is Æneas by Dido, and Rinaldo by Armida. If Achilles be absent from the army on the score of a quarrel through half the poem, Rinaldo must absent himself just as long on the like account. If he gives his hero a suit of celestial armour, Virgil and Tasso make the same present to theirs. Virgil has not only observed this close imitation of Homer, but, where he had not led the way, supplied the want from other Greek authors. Thus the story of Sinon, and the taking of Troy, was copied (says Macrobius) almost word for word from Pisander, as the loves of Dido and Æneas are taken from those of Medea and Jason in Apollonius, and several others in the same manner.
+
+
+Fable may be divided into the probable, the allegorical, and the marvellous. The probable fable is the recital of such actions as, though they did not happen, yet might, in the common course of nature; or of such as, though they did, became fables by the additional episodes and manner of telling them. Of this sort is the main story of an epic poem, "The return of Ulysses, the settlement of the Trojans in Italy," or the like. That of the Iliad is the "anger of Achilles," the most short and single subject that ever was chosen by any poet. Yet this he has supplied with a vaster variety of incidents  and events, and crowded with a greater number of councils, speeches, battles, and episodes of all kinds, than are to be found even in those poems whose schemes are of the utmost latitude and irregularity. The action is hurried on with the most vehement spirit, and its whole duration employs not so much as fifty days. Virgil, for want of so warm a genius, aided himself by taking in a more extensive subject, as well as a greater length of time, and contracting the design of both Homer's poems into one, which is yet but a fourth part as large as his. The other epic poets have used the same practice, but generally carried it so far as to superinduce a multiplicity of fables, destroy the unity of action, and lose their readers in an unreasonable length of time. Nor is it only in the main design that they have been unable to add to his invention, but they have followed him in every episode and part of story. If he has given a regular catalogue of an army, they all draw up their forces in the same order. If he has funeral games for Patroclus, Virgil has the same for Anchises, and Statius (rather than omit them) destroys the unity of his actions for those of Archemorus. If Ulysses visit the shades, the Æneas of Virgil and Scipio of Silius are sent after him. If he be detained from his return by the allurements of Calypso, so is Æneas by Dido, and Rinaldo by Armida. If Achilles be absent from the army on the score of a quarrel through half the poem, Rinaldo must absent himself just as long on the like account. If he gives his hero a suit of celestial armour, Virgil and Tasso make the same present to theirs. Virgil has not only observed this close imitation of Homer, but, where he had not led the way, supplied the want from other Greek authors. Thus the story of Sinon, and the taking of Troy, was copied (says Macrobius) almost word for word from Pisander, as the loves of Dido and Æneas are taken from those of Medea and Jason in Apollonius, and several others in the same manner.
+
+
 
 To proceed to the allegorical fable—If we reflect upon those innumerable knowledges, those secrets of nature and physical philosophy which Homer is generally supposed to have wrapped up in his allegories, what a new and ample scene of wonder may this consideration afford us! How fertile will that imagination appear, which as able to clothe all the properties of elements, the qualifications of the mind, the virtues and vices, in forms and persons, and to introduce them into actions agreeable to the nature of the things they shadowed! This is a field in which no succeeding poets could dispute with Homer, and whatever commendations have been allowed them on this head, are by no means for their invention in having enlarged his circle, but for their judgment in having contracted it. For when the mode of learning changed in the following ages, and science was delivered in a plainer manner, it then became as reasonable in the more modern poets to lay it aside, as it was in Homer to make use of it. And perhaps it was no unhappy circumstance for Virgil, that there was not in his time that demand upon him of so great an invention as might be capable of furnishing all those allegorical parts of a poem.
 
-The marvellous fable includes whatever is supernatural, and especially the machines of the gods. If Homer was not the first who introduced the deities (as Herodotus imagines) into the religion of\[pg xxxiv\] Greece, he seems the first who brought them into a system of machinery for poetry, and such a one as makes its greatest importance and dignity: for we find those authors who have been offended at the literal notion of the gods, constantly laying their accusation against Homer as the chief support of it. But whatever cause there might be to blame his machines in a philosophical or religious view, they are so perfect in the poetic, that mankind have been ever since contented to follow them: none have been able to enlarge the sphere of poetry beyond the limits he has set: every attempt of this nature has proved unsuccessful; and after all the various changes of times and religions, his gods continue to this day the gods of poetry.
+
+
+The marvellous fable includes whatever is supernatural, and especially the machines of the gods. If Homer was not the first who introduced the deities (as Herodotus imagines) into the religion of  Greece, he seems the first who brought them into a system of machinery for poetry, and such a one as makes its greatest importance and dignity: for we find those authors who have been offended at the literal notion of the gods, constantly laying their accusation against Homer as the chief support of it. But whatever cause there might be to blame his machines in a philosophical or religious view, they are so perfect in the poetic, that mankind have been ever since contented to follow them: none have been able to enlarge the sphere of poetry beyond the limits he has set: every attempt of this nature has proved unsuccessful; and after all the various changes of times and religions, his gods continue to this day the gods of poetry.
+
+
 
 We come now to the characters of his persons; and here we shall find no author has ever drawn so many, with so visible and surprising a variety, or given us such lively and affecting impressions of them. Every one has something so singularly his own, that no painter could have distinguished them more by their features, than the poet has by their manners. Nothing can be more exact than the distinctions he has observed in the different degrees of virtues and vices. The single quality of courage is wonderfully diversified in the several characters of the Iliad. That of Achilles is furious and intractable; that of Diomede forward, yet listening to advice, and subject to command; that of Ajax is heavy and self-confiding; of Hector, active and vigilant: the courage of Agamemnon is inspirited by love of empire and ambition; that of Menelaus mixed with softness and tenderness for his people: we find in Idomeneus a plain direct soldier; in Sarpedon a gallant and generous one. Nor is this judicious and astonishing diversity to be found only in the principal quality which constitutes the main of each character, but even in the under parts of it, to which he takes care to give a tincture of that principal one. For example: the main characters of Ulysses and Nestor consist in wisdom; and they are distinct in this, that the wisdom of one is artificial and various, of the other natural, open, and regular. But they have, besides, characters of courage; and this quality also takes a different turn in each from the difference of his prudence; for one in the war depends still upon caution, the other upon experience. It would be endless to produce instances of these kinds. The characters of Virgil are far from striking us in this open manner; they lie, in a great degree, hidden and undistinguished; and, where they are marked most evidently affect us not in proportion to those of Homer. His characters of valour are much alike; even that of Turnus seems no way peculiar, but, as it is, in a superior degree; and we see nothing that differences the courage of Mnestheus from that of Sergestus, Cloanthus, or the rest, In like manner it may be remarked of Statius's heroes, that an air of impetuosity runs through them all; the same horrid and savage courage appears in his Capaneus, Tydeus, Hippomedon, &c. They have a parity of character, which makes them seem brothers of one family. I believe when the reader is led into this tract of reflection, if he will pursue it through the epic and tragic writers, he will be convinced how infinitely superior, in this point, the invention of Homer was to that of all others.
 
-\[pg xxxv\]
+ 
 
 The speeches are to be considered as they flow from the characters; being perfect or defective as they agree or disagree with the manners, of those who utter them. As there is more variety of characters in the Iliad, so there is of speeches, than in any other poem. "Everything in it has manner" (as Aristotle expresses it), that is, everything is acted or spoken. It is hardly credible, in a work of such length, how small a number of lines are employed in narration. In Virgil the dramatic part is less in proportion to the narrative, and the speeches often consist of general reflections or thoughts, which might be equally just in any person's mouth upon the same occasion. As many of his persons have no apparent characters, so many of his speeches escape being applied and judged by the rule of propriety. We oftener think of the author himself when we read Virgil, than when we are engaged in Homer, all which are the effects of a colder invention, that interests us less in the action described. Homer makes us hearers, and Virgil leaves us readers.
 
+
+
 If, in the next place, we take a view of the sentiments, the same presiding faculty is eminent in the sublimity and spirit of his thoughts. Longinus has given his opinion, that it was in this part Homer principally excelled. What were alone sufficient to prove the grandeur and excellence of his sentiments in general, is, that they have so remarkable a parity with those of the Scripture. Duport, in his Gnomologia Homerica, has collected innumerable instances of this sort. And it is with justice an excellent modern writer allows, that if Virgil has not so many thoughts that are low and vulgar, he has not so many that are sublime and noble; and that the Roman author seldom rises into very astonishing sentiments where he is not fired by the Iliad.
+
+
 
 If we observe his descriptions, images, and similes, we shall find the invention still predominant. To what else can we ascribe that vast comprehension of images of every sort, where we see each circumstance of art, and individual of nature, summoned together by the extent and fecundity of his imagination to which all things, in their various views presented themselves in an instant, and had their impressions taken off to perfection at a heat? Nay, he not only gives us the full prospects of things, but several unexpected peculiarities and side views, unobserved by any painter but Homer. Nothing is so surprising as the descriptions of his battles, which take up no less than half the Iliad, and are supplied with so vast a variety of incidents, that no one bears a likeness to another; such different kinds of deaths, that no two heroes are wounded in the same manner, and such a profusion of noble ideas, that every battle rises above the last in greatness, horror, and confusion. It is certain there is not near that number of images and descriptions in any epic poet, though every one has assisted himself with a great quantity out of him; and it is evident of Virgil especially, that he has scarce any comparisons which are not drawn from his master.
 
-If we descend from hence to the expression, we see the bright imagination of Homer shining out in the most enlivened forms of it. We acknowledge him the father of poetical diction; the first who taught that "language of the gods" to men. His expression is like\[pg xxxvi\] the colouring of some great masters, which discovers itself to be laid on boldly, and executed with rapidity. It is, indeed, the strongest and most glowing imaginable, and touched with the greatest spirit. Aristotle had reason to say, he was the only poet who had found out "living words;" there are in him more daring figures and metaphors than in any good author whatever. An arrow is "impatient" to be on the wing, a weapon "thirsts" to drink the blood of an enemy, and the like, yet his expression is never too big for the sense, but justly great in proportion to it. It is the sentiment that swells and fills out the diction, which rises with it, and forms itself about it, for in the same degree that a thought is warmer, an expression will be brighter, as that is more strong, this will become more perspicuous; like glass in the furnace, which grows to a greater magnitude, and refines to a greater clearness, only as the breath within is more powerful, and the heat more intense.
+
+
+If we descend from hence to the expression, we see the bright imagination of Homer shining out in the most enlivened forms of it. We acknowledge him the father of poetical diction; the first who taught that "language of the gods" to men. His expression is like  the colouring of some great masters, which discovers itself to be laid on boldly, and executed with rapidity. It is, indeed, the strongest and most glowing imaginable, and touched with the greatest spirit. Aristotle had reason to say, he was the only poet who had found out "living words;" there are in him more daring figures and metaphors than in any good author whatever. An arrow is "impatient" to be on the wing, a weapon "thirsts" to drink the blood of an enemy, and the like, yet his expression is never too big for the sense, but justly great in proportion to it. It is the sentiment that swells and fills out the diction, which rises with it, and forms itself about it, for in the same degree that a thought is warmer, an expression will be brighter, as that is more strong, this will become more perspicuous; like glass in the furnace, which grows to a greater magnitude, and refines to a greater clearness, only as the breath within is more powerful, and the heat more intense.
+
+
 
 To throw his language more out of prose, Homer seems to have affected the compound epithets. This was a sort of composition peculiarly proper to poetry, not only as it heightened the diction, but as it assisted and filled the numbers with greater sound and pomp, and likewise conduced in some measure to thicken the images. On this last consideration I cannot but attribute these also to the fruitfulness of his invention, since (as he has managed them) they are a sort of supernumerary pictures of the persons or things to which they were joined. We see the motion of Hector's plumes in the epithet Korythaiolos, the landscape of Mount Neritus in that of Einosiphyllos, and so of others, which particular images could not have been insisted upon so long as to express them in a description (though but of a single line) without diverting the reader too much from the principal action or figure. As a metaphor is a short simile, one of these epithets is a short description.
 
-Lastly, if we consider his versification, we shall be sensible what a share of praise is due to his invention in that also. He was not satisfied with his language as he found it settled in any one part of Greece, but searched through its different dialects with this particular view, to beautify and perfect his numbers he considered these as they had a greater mixture of vowels or consonants, and accordingly employed them as the verse required either a greater smoothness or strength. What he most affected was the Ionic, which has a peculiar sweetness, from its never using contractions, and from its custom of resolving the diphthongs into two syllables, so as to make the words open themselves with a more spreading and sonorous fluency. With this he mingled the Attic contractions, the broader Doric, and the feebler Æolic, which often rejects its aspirate, or takes off its accent, and completed this variety by altering some letters with the licence of poetry. Thus his measures, instead of being fetters to his sense, were always in readiness to run along with the warmth of his rapture, and even to give a further representation of his notions, in the correspondence of their sounds to what they signified. Out of all these he has derived that harmony which makes us confess he had not only the richest head, but the finest ear in the world. This is so great a truth, that whoever will but\[pg xxxvii\] consult the tune of his verses, even without understanding them (with the same sort of diligence as we daily see practised in the case of Italian operas), will find more sweetness, variety, and majesty of sound, than in any other language of poetry. The beauty of his numbers is allowed by the critics to be copied but faintly by Virgil himself, though they are so just as to ascribe it to the nature of the Latin tongue: indeed the Greek has some advantages both from the natural sound of its words, and the turn and cadence of its verse, which agree with the genius of no other language. Virgil was very sensible of this, and used the utmost diligence in working up a more intractable language to whatsoever graces it was capable of, and, in particular, never failed to bring the sound of his line to a beautiful agreement with its sense. If the Grecian poet has not been so frequently celebrated on this account as the Roman, the only reason is, that fewer critics have understood one language than the other. Dionysius of Halicarnassus has pointed out many of our author's beauties in this kind, in his treatise of the Composition of Words. It suffices at present to observe of his numbers, that they flow with so much ease, as to make one imagine Homer had no other care than to transcribe as fast as the Muses dictated, and, at the same time, with so much force and inspiriting vigour, that they awaken and raise us like the sound of a trumpet. They roll along as a plentiful river, always in motion, and always full; while we are borne away by a tide of verse, the most rapid, and yet the most smooth imaginable.
 
-Thus on whatever side we contemplate Homer, what principally strikes us is his invention. It is that which forms the character of each part of his work; and accordingly we find it to have made his fable more extensive and copious than any other, his manners more lively and strongly marked, his speeches more affecting and transported, his sentiments more warm and sublime, his images and descriptions more full and animated, his expression more raised and daring, and his numbers more rapid and various. I hope, in what has been said of Virgil, with regard to any of these heads, I have no way derogated from his character. Nothing is more absurd or endless, than the common method of comparing eminent writers by an opposition of particular passages in them, and forming a judgment from thence of their merit upon the whole. We ought to have a certain knowledge of the principal character and distinguishing excellence of each: it is in that we are to consider him, and in proportion to his degree in that we are to admire him. No author or man ever excelled all the world in more than one faculty; and as Homer has done this in invention, Virgil has in judgment. Not that we are to think that Homer wanted judgment, because Virgil had it in a more eminent degree; or that Virgil wanted invention, because Homer possessed a larger share of it; each of these great authors had more of both than perhaps any man besides, and are only said to have less in comparison with one another. Homer was the greater genius, Virgil the better artist. In one we most admire the man, in the other the work. Homer hurries and transports us with a commanding impetuosity; Virgil leads us with an attractive majesty; Homer scatters with a generous profusion;\[pg xxxviii\] Virgil bestows with a careful magnificence; Homer, like the Nile, pours out his riches with a boundless overflow; Virgil, like a river in its banks, with a gentle and constant stream. When we behold their battles, methinks the two poets resemble the heroes they celebrate. Homer, boundless and resistless as Achilles, bears all before him, and shines more and more as the tumult increases; Virgil, calmly daring, like Æneas, appears undisturbed in the midst of the action; disposes all about him, and conquers with tranquillity. And when we look upon their machines, Homer seems like his own Jupiter in his terrors, shaking Olympus, scattering the lightnings, and firing the heavens: Virgil, like the same power in his benevolence, counselling with the gods, laying plans for empires, and regularly ordering his whole creation.
+
+Lastly, if we consider his versification, we shall be sensible what a share of praise is due to his invention in that also. He was not satisfied with his language as he found it settled in any one part of Greece, but searched through its different dialects with this particular view, to beautify and perfect his numbers he considered these as they had a greater mixture of vowels or consonants, and accordingly employed them as the verse required either a greater smoothness or strength. What he most affected was the Ionic, which has a peculiar sweetness, from its never using contractions, and from its custom of resolving the diphthongs into two syllables, so as to make the words open themselves with a more spreading and sonorous fluency. With this he mingled the Attic contractions, the broader Doric, and the feebler Æolic, which often rejects its aspirate, or takes off its accent, and completed this variety by altering some letters with the licence of poetry. Thus his measures, instead of being fetters to his sense, were always in readiness to run along with the warmth of his rapture, and even to give a further representation of his notions, in the correspondence of their sounds to what they signified. Out of all these he has derived that harmony which makes us confess he had not only the richest head, but the finest ear in the world. This is so great a truth, that whoever will but  consult the tune of his verses, even without understanding them (with the same sort of diligence as we daily see practised in the case of Italian operas), will find more sweetness, variety, and majesty of sound, than in any other language of poetry. The beauty of his numbers is allowed by the critics to be copied but faintly by Virgil himself, though they are so just as to ascribe it to the nature of the Latin tongue: indeed the Greek has some advantages both from the natural sound of its words, and the turn and cadence of its verse, which agree with the genius of no other language. Virgil was very sensible of this, and used the utmost diligence in working up a more intractable language to whatsoever graces it was capable of, and, in particular, never failed to bring the sound of his line to a beautiful agreement with its sense. If the Grecian poet has not been so frequently celebrated on this account as the Roman, the only reason is, that fewer critics have understood one language than the other. Dionysius of Halicarnassus has pointed out many of our author's beauties in this kind, in his treatise of the Composition of Words. It suffices at present to observe of his numbers, that they flow with so much ease, as to make one imagine Homer had no other care than to transcribe as fast as the Muses dictated, and, at the same time, with so much force and inspiriting vigour, that they awaken and raise us like the sound of a trumpet. They roll along as a plentiful river, always in motion, and always full; while we are borne away by a tide of verse, the most rapid, and yet the most smooth imaginable.
+
+
+
+Thus on whatever side we contemplate Homer, what principally strikes us is his invention. It is that which forms the character of each part of his work; and accordingly we find it to have made his fable more extensive and copious than any other, his manners more lively and strongly marked, his speeches more affecting and transported, his sentiments more warm and sublime, his images and descriptions more full and animated, his expression more raised and daring, and his numbers more rapid and various. I hope, in what has been said of Virgil, with regard to any of these heads, I have no way derogated from his character. Nothing is more absurd or endless, than the common method of comparing eminent writers by an opposition of particular passages in them, and forming a judgment from thence of their merit upon the whole. We ought to have a certain knowledge of the principal character and distinguishing excellence of each: it is in that we are to consider him, and in proportion to his degree in that we are to admire him. No author or man ever excelled all the world in more than one faculty; and as Homer has done this in invention, Virgil has in judgment. Not that we are to think that Homer wanted judgment, because Virgil had it in a more eminent degree; or that Virgil wanted invention, because Homer possessed a larger share of it; each of these great authors had more of both than perhaps any man besides, and are only said to have less in comparison with one another. Homer was the greater genius, Virgil the better artist. In one we most admire the man, in the other the work. Homer hurries and transports us with a commanding impetuosity; Virgil leads us with an attractive majesty; Homer scatters with a generous profusion;  Virgil bestows with a careful magnificence; Homer, like the Nile, pours out his riches with a boundless overflow; Virgil, like a river in its banks, with a gentle and constant stream. When we behold their battles, methinks the two poets resemble the heroes they celebrate. Homer, boundless and resistless as Achilles, bears all before him, and shines more and more as the tumult increases; Virgil, calmly daring, like Æneas, appears undisturbed in the midst of the action; disposes all about him, and conquers with tranquillity. And when we look upon their machines, Homer seems like his own Jupiter in his terrors, shaking Olympus, scattering the lightnings, and firing the heavens: Virgil, like the same power in his benevolence, counselling with the gods, laying plans for empires, and regularly ordering his whole creation.
+
+
 
 But after all, it is with great parts, as with great virtues, they naturally border on some imperfection; and it is often hard to distinguish exactly where the virtue ends, or the fault begins. As prudence may sometimes sink to suspicion, so may a great judgment decline to coldness; and as magnanimity may run up to profusion or extravagance, so may a great invention to redundancy or wildness. If we look upon Homer in this view, we shall perceive the chief objections against him to proceed from so noble a cause as the excess of this faculty.
 
+
+
 Among these we may reckon some of his marvellous fictions, upon which so much criticism has been spent, as surpassing all the bounds of probability. Perhaps it may be with great and superior souls, as with gigantic bodies, which, exerting themselves with unusual strength, exceed what is commonly thought the due proportion of parts, to become miracles in the whole; and, like the old heroes of that make, commit something near extravagance, amidst a series of glorious and inimitable performances. Thus Homer has his "speaking horses;" and Virgil his "myrtles distilling blood;" where the latter has not so much as contrived the easy intervention of a deity to save the probability.
+
+
 
 It is owing to the same vast invention, that his similes have been thought too exuberant and full of circumstances. The force of this faculty is seen in nothing more, than in its inability to confine itself to that single circumstance upon which the comparison is grounded: it runs out into embellishments of additional images, which, however, are so managed as not to overpower the main one. His similes are like pictures, where the principal figure has not only its proportion given agreeable to the original, but is also set off with occasional ornaments and prospects. The same will account for his manner of heaping a number of comparisons together in one breath, when his fancy suggested to him at once so many various and correspondent images. The reader will easily extend this observation to more objections of the same kind.
 
-If there are others which seem rather to charge him with a defect or narrowness of genius, than an excess of it, those seeming defects will be found upon examination to proceed wholly from the nature of the times he lived in. Such are his grosser representations of the gods; and the vicious and imperfect manners of his heroes; but I must here\[pg xxxix\] speak a word of the latter, as it is a point generally carried into extremes, both by the censurers and defenders of Homer. It must be a strange partiality to antiquity, to think with Madame Dacier,[38](#note_38) "that those times and manners are so much the more excellent, as they are more contrary to ours." Who can be so prejudiced in their favour as to magnify the felicity of those ages, when a spirit of revenge and cruelty, joined with the practice of rapine and robbery, reigned through the world: when no mercy was shown but for the sake of lucre; when the greatest princes were put to the sword, and their wives and daughters made slaves and concubines? On the other side, I would not be so delicate as those modern critics, who are shocked at the servile offices and mean employments in which we sometimes see the heroes of Homer engaged. There is a pleasure in taking a view of that simplicity, in opposition to the luxury of succeeding ages: in beholding monarchs without their guards; princes tending their flocks, and princesses drawing water from the springs. When we read Homer, we ought to reflect that we are reading the most ancient author in the heathen world; and those who consider him in this light, will double their pleasure in the perusal of him. Let them think they are growing acquainted with nations and people that are now no more; that they are stepping almost three thousand years back into the remotest antiquity, and entertaining themselves with a clear and surprising vision of things nowhere else to be found, the only true mirror of that ancient world. By this means alone their greatest obstacles will vanish; and what usually creates their dislike, will become a satisfaction.
 
-This consideration may further serve to answer for the constant use of the same epithets to his gods and heroes; such as the "far-darting Phoebus," the "blue-eyed Pallas," the "swift-footed Achilles," &c., which some have censured as impertinent, and tediously repeated. Those of the gods depended upon the powers and offices then believed to belong to them; and had contracted a weight and veneration from the rites and solemn devotions in which they were used: they were a sort of attributes with which it was a matter of religion to salute them on all occasions, and which it was an irreverence to omit. As for the epithets of great men, Mons. Boileau is of opinion, that they were in the nature of surnames, and repeated as such; for the Greeks having no names derived from their fathers, were obliged to add some other distinction of each person; either naming his parents expressly, or his place of birth, profession, or the like: as Alexander the son of Philip, Herodotus of Halicarnassus, Diogenes the Cynic, &c. Homer, therefore, complying with the custom of his country, used such distinctive additions as better agreed with poetry. And, indeed, we have something parallel to these in modern times, such as the names of Harold Harefoot, Edmund Ironside, Edward Longshanks, Edward the Black Prince, &c. If yet this be thought to account better for the propriety than for the repetition, I shall add a further conjecture. Hesiod, dividing the world into its different ages, has placed a fourth age, between the brazen and the iron one, of "heroes distinct from other\[pg xl\] men; a divine race who fought at Thebes and Troy, are called demi-gods, and live by the care of Jupiter in the islands of the blessed." Now among the divine honours which were paid them, they might have this also in common with the gods, not to be mentioned without the solemnity of an epithet, and such as might be acceptable to them by celebrating their families, actions or qualities.
 
-What other cavils have been raised against Homer, are such as hardly deserve a reply, but will yet be taken notice of as they occur in the course of the work. Many have been occasioned by an injudicious endeavour to exalt Virgil; which is much the same, as if one should think to raise the superstructure by undermining the foundation: one would imagine, by the whole course of their parallels, that these critics never so much as heard of Homer's having written first; a consideration which whoever compares these two poets ought to have always in his eye. Some accuse him for the same things which they overlook or praise in the other; as when they prefer the fable and moral of the Æneis to those of the Iliad, for the same reasons which might set the Odyssey above the Æneis; as that the hero is a wiser man, and the action of the one more beneficial to his country than that of the other; or else they blame him for not doing what he never designed; as because Achilles is not as good and perfect a prince as Æneas, when the very moral of his poem required a contrary character: it is thus that Rapin judges in his comparison of Homer and Virgil. Others select those particular passages of Homer which are not so laboured as some that Virgil drew out of them: this is the whole management of Scaliger in his Poetics. Others quarrel with what they take for low and mean expressions, sometimes through a false delicacy and refinement, oftener from an ignorance of the graces of the original, and then triumph in the awkwardness of their own translations: this is the conduct of Perrault in his Parallels. Lastly, there are others, who, pretending to a fairer proceeding, distinguish between the personal merit of Homer, and that of his work; but when they come to assign the causes of the great reputation of the Iliad, they found it upon the ignorance of his times, and the prejudice of those that followed: and in pursuance of this principle, they make those accidents (such as the contention of the cities, &c.) to be the causes of his fame, which were in reality the consequences of his merit. The same might as well be said of Virgil, or any great author whose general character will infallibly raise many casual additions to their reputation. This is the method of Mons. de la Mott; who yet confesses upon the whole that in whatever age Homer had lived, he must have been the greatest poet of his nation, and that he may be said in his sense to be the master even of those who surpassed him.[39](#note_39)
+If there are others which seem rather to charge him with a defect or narrowness of genius, than an excess of it, those seeming defects will be found upon examination to proceed wholly from the nature of the times he lived in. Such are his grosser representations of the gods; and the vicious and imperfect manners of his heroes; but I must here  speak a word of the latter, as it is a point generally carried into extremes, both by the censurers and defenders of Homer. It must be a strange partiality to antiquity, to think with Madame Dacier,  "that those times and manners are so much the more excellent, as they are more contrary to ours." Who can be so prejudiced in their favour as to magnify the felicity of those ages, when a spirit of revenge and cruelty, joined with the practice of rapine and robbery, reigned through the world: when no mercy was shown but for the sake of lucre; when the greatest princes were put to the sword, and their wives and daughters made slaves and concubines? On the other side, I would not be so delicate as those modern critics, who are shocked at the servile offices and mean employments in which we sometimes see the heroes of Homer engaged. There is a pleasure in taking a view of that simplicity, in opposition to the luxury of succeeding ages: in beholding monarchs without their guards; princes tending their flocks, and princesses drawing water from the springs. When we read Homer, we ought to reflect that we are reading the most ancient author in the heathen world; and those who consider him in this light, will double their pleasure in the perusal of him. Let them think they are growing acquainted with nations and people that are now no more; that they are stepping almost three thousand years back into the remotest antiquity, and entertaining themselves with a clear and surprising vision of things nowhere else to be found, the only true mirror of that ancient world. By this means alone their greatest obstacles will vanish; and what usually creates their dislike, will become a satisfaction.
 
-In all these objections we see nothing that contradicts his title to the honour of the chief invention: and as long as this (which is indeed the characteristic of poetry itself) remains unequalled by his followers, he still continues superior to them. A cooler judgment may commit fewer faults, and be more approved in the eyes of one sort of critics: but that warmth of fancy will carry the loudest and most\[pg xli\] universal applauses which holds the heart of a reader under the strongest enchantment. Homer not only appears the inventor of poetry, but excels all the inventors of other arts, in this, that he has swallowed up the honour of those who succeeded him. What he has done admitted no increase, it only left room for contraction or regulation. He showed all the stretch of fancy at once; and if he has failed in some of his flights, it was but because he attempted everything. A work of this kind seems like a mighty tree, which rises from the most vigorous seed, is improved with industry, flourishes, and produces the finest fruit: nature and art conspire to raise it; pleasure and profit join to make it valuable: and they who find the justest faults, have only said that a few branches which run luxuriant through a richness of nature, might be lopped into form to give it a more regular appearance.
+
+
+This consideration may further serve to answer for the constant use of the same epithets to his gods and heroes; such as the "far-darting Phoebus," the "blue-eyed Pallas," the "swift-footed Achilles," &c., which some have censured as impertinent, and tediously repeated. Those of the gods depended upon the powers and offices then believed to belong to them; and had contracted a weight and veneration from the rites and solemn devotions in which they were used: they were a sort of attributes with which it was a matter of religion to salute them on all occasions, and which it was an irreverence to omit. As for the epithets of great men, Mons. Boileau is of opinion, that they were in the nature of surnames, and repeated as such; for the Greeks having no names derived from their fathers, were obliged to add some other distinction of each person; either naming his parents expressly, or his place of birth, profession, or the like: as Alexander the son of Philip, Herodotus of Halicarnassus, Diogenes the Cynic, &c. Homer, therefore, complying with the custom of his country, used such distinctive additions as better agreed with poetry. And, indeed, we have something parallel to these in modern times, such as the names of Harold Harefoot, Edmund Ironside, Edward Longshanks, Edward the Black Prince, &c. If yet this be thought to account better for the propriety than for the repetition, I shall add a further conjecture. Hesiod, dividing the world into its different ages, has placed a fourth age, between the brazen and the iron one, of "heroes distinct from other  men; a divine race who fought at Thebes and Troy, are called demi-gods, and live by the care of Jupiter in the islands of the blessed." Now among the divine honours which were paid them, they might have this also in common with the gods, not to be mentioned without the solemnity of an epithet, and such as might be acceptable to them by celebrating their families, actions or qualities.
+
+
+
+What other cavils have been raised against Homer, are such as hardly deserve a reply, but will yet be taken notice of as they occur in the course of the work. Many have been occasioned by an injudicious endeavour to exalt Virgil; which is much the same, as if one should think to raise the superstructure by undermining the foundation: one would imagine, by the whole course of their parallels, that these critics never so much as heard of Homer's having written first; a consideration which whoever compares these two poets ought to have always in his eye. Some accuse him for the same things which they overlook or praise in the other; as when they prefer the fable and moral of the Æneis to those of the Iliad, for the same reasons which might set the Odyssey above the Æneis; as that the hero is a wiser man, and the action of the one more beneficial to his country than that of the other; or else they blame him for not doing what he never designed; as because Achilles is not as good and perfect a prince as Æneas, when the very moral of his poem required a contrary character: it is thus that Rapin judges in his comparison of Homer and Virgil. Others select those particular passages of Homer which are not so laboured as some that Virgil drew out of them: this is the whole management of Scaliger in his Poetics. Others quarrel with what they take for low and mean expressions, sometimes through a false delicacy and refinement, oftener from an ignorance of the graces of the original, and then triumph in the awkwardness of their own translations: this is the conduct of Perrault in his Parallels. Lastly, there are others, who, pretending to a fairer proceeding, distinguish between the personal merit of Homer, and that of his work; but when they come to assign the causes of the great reputation of the Iliad, they found it upon the ignorance of his times, and the prejudice of those that followed: and in pursuance of this principle, they make those accidents (such as the contention of the cities, &c.) to be the causes of his fame, which were in reality the consequences of his merit. The same might as well be said of Virgil, or any great author whose general character will infallibly raise many casual additions to their reputation. This is the method of Mons. de la Mott; who yet confesses upon the whole that in whatever age Homer had lived, he must have been the greatest poet of his nation, and that he may be said in his sense to be the master even of those who surpassed him. 
+
+
+
+In all these objections we see nothing that contradicts his title to the honour of the chief invention: and as long as this (which is indeed the characteristic of poetry itself) remains unequalled by his followers, he still continues superior to them. A cooler judgment may commit fewer faults, and be more approved in the eyes of one sort of critics: but that warmth of fancy will carry the loudest and most  universal applauses which holds the heart of a reader under the strongest enchantment. Homer not only appears the inventor of poetry, but excels all the inventors of other arts, in this, that he has swallowed up the honour of those who succeeded him. What he has done admitted no increase, it only left room for contraction or regulation. He showed all the stretch of fancy at once; and if he has failed in some of his flights, it was but because he attempted everything. A work of this kind seems like a mighty tree, which rises from the most vigorous seed, is improved with industry, flourishes, and produces the finest fruit: nature and art conspire to raise it; pleasure and profit join to make it valuable: and they who find the justest faults, have only said that a few branches which run luxuriant through a richness of nature, might be lopped into form to give it a more regular appearance.
+
+
 
 Having now spoken of the beauties and defects of the original, it remains to treat of the translation, with the same view to the chief characteristic. As far as that is seen in the main parts of the poem, such as the fable, manners, and sentiments, no translator can prejudice it but by wilful omissions or contractions. As it also breaks out in every particular image, description, and simile, whoever lessens or too much softens those, takes off from this chief character. It is the first grand duty of an interpreter to give his author entire and unmaimed; and for the rest, the diction and versification only are his proper province, since these must be his own, but the others he is to take as he finds them.
 
-It should then be considered what methods may afford some equivalent in our language for the graces of these in the Greek. It is certain no literal translation can be just to an excellent original in a superior language: but it is a great mistake to imagine (as many have done) that a rash paraphrase can make amends for this general defect; which is no less in danger to lose the spirit of an ancient, by deviating into the modern manners of expression. If there be sometimes a darkness, there is often a light in antiquity, which nothing better preserves than a version almost literal. I know no liberties one ought to take, but those which are necessary to transfusing the spirit of the original, and supporting the poetical style of the translation: and I will venture to say, there have not been more men misled in former times by a servile, dull adherence to the letter, than have been deluded in ours by a chimerical, insolent hope of raising and improving their author. It is not to be doubted, that the fire of the poem is what a translator should principally regard, as it is most likely to expire in his managing: however, it is his safest way to be content with preserving this to his utmost in the whole, without endeavouring to be more than he finds his author is, in any particular place. It is a great secret in writing, to know when to be plain, and when poetical and figurative; and it is what Homer will teach us, if we will but follow modestly in his footsteps. Where his diction is bold and lofty, let us raise ours as high as we can; but where his is plain and humble, we ought not to be deterred from imitating him by the fear of incurring the censure of a mere English critic. Nothing that belongs to Homer\[pg xlii\] seems to have been more commonly mistaken than the just pitch of his style: some of his translators having swelled into fustian in a proud confidence of the sublime; others sunk into flatness, in a cold and timorous notion of simplicity. Methinks I see these different followers of Homer, some sweating and straining after him by violent leaps and bounds (the certain signs of false mettle), others slowly and servilely creeping in his train, while the poet himself is all the time proceeding with an unaffected and equal majesty before them. However, of the two extremes one could sooner pardon frenzy than frigidity; no author is to be envied for such commendations, as he may gain by that character of style, which his friends must agree together to call simplicity, and the rest of the world will call dulness. There is a graceful and dignified simplicity, as well as a bold and sordid one; which differ as much from each other as the air of a plain man from that of a sloven: it is one thing to be tricked up, and another not to be dressed at all. Simplicity is the mean between ostentation and rusticity.
+
+
+It should then be considered what methods may afford some equivalent in our language for the graces of these in the Greek. It is certain no literal translation can be just to an excellent original in a superior language: but it is a great mistake to imagine (as many have done) that a rash paraphrase can make amends for this general defect; which is no less in danger to lose the spirit of an ancient, by deviating into the modern manners of expression. If there be sometimes a darkness, there is often a light in antiquity, which nothing better preserves than a version almost literal. I know no liberties one ought to take, but those which are necessary to transfusing the spirit of the original, and supporting the poetical style of the translation: and I will venture to say, there have not been more men misled in former times by a servile, dull adherence to the letter, than have been deluded in ours by a chimerical, insolent hope of raising and improving their author. It is not to be doubted, that the fire of the poem is what a translator should principally regard, as it is most likely to expire in his managing: however, it is his safest way to be content with preserving this to his utmost in the whole, without endeavouring to be more than he finds his author is, in any particular place. It is a great secret in writing, to know when to be plain, and when poetical and figurative; and it is what Homer will teach us, if we will but follow modestly in his footsteps. Where his diction is bold and lofty, let us raise ours as high as we can; but where his is plain and humble, we ought not to be deterred from imitating him by the fear of incurring the censure of a mere English critic. Nothing that belongs to Homer  seems to have been more commonly mistaken than the just pitch of his style: some of his translators having swelled into fustian in a proud confidence of the sublime; others sunk into flatness, in a cold and timorous notion of simplicity. Methinks I see these different followers of Homer, some sweating and straining after him by violent leaps and bounds (the certain signs of false mettle), others slowly and servilely creeping in his train, while the poet himself is all the time proceeding with an unaffected and equal majesty before them. However, of the two extremes one could sooner pardon frenzy than frigidity; no author is to be envied for such commendations, as he may gain by that character of style, which his friends must agree together to call simplicity, and the rest of the world will call dulness. There is a graceful and dignified simplicity, as well as a bold and sordid one; which differ as much from each other as the air of a plain man from that of a sloven: it is one thing to be tricked up, and another not to be dressed at all. Simplicity is the mean between ostentation and rusticity.
+
+
 
 This pure and noble simplicity is nowhere in such perfection as in the Scripture and our author. One may affirm, with all respect to the inspired writings, that the Divine Spirit made use of no other words but what were intelligible and common to men at that time, and in that part of the world; and, as Homer is the author nearest to those, his style must of course bear a greater resemblance to the sacred books than that of any other writer. This consideration (together with what has been observed of the parity of some of his thoughts) may, methinks, induce a translator, on the one hand, to give in to several of those general phrases and manners of expression, which have attained a veneration even in our language from being used in the Old Testament; as, on the other, to avoid those which have been appropriated to the Divinity, and in a manner consigned to mystery and religion.
 
+
+
 For a further preservation of this air of simplicity, a particular care should be taken to express with all plainness those moral sentences and proverbial speeches which are so numerous in this poet. They have something venerable, and as I may say, oracular, in that unadorned gravity and shortness with which they are delivered: a grace which would be utterly lost by endeavouring to give them what we call a more ingenious (that is, a more modern) turn in the paraphrase.
+
+
 
 Perhaps the mixture of some Graecisms and old words after the manner of Milton, if done without too much affectation, might not have an ill effect in a version of this particular work, which most of any other seems to require a venerable, antique cast. But certainly the use of modern terms of war and government, such as "platoon, campaign, junto," or the like, (into which some of his translators have fallen) cannot be allowable; those only excepted without which it is impossible to treat the subjects in any living language.
 
-There are two peculiarities in Homer's diction, which are a sort of marks or moles by which every common eye distinguishes him at first sight; those who are not his greatest admirers look upon them as defects, and those who are, seemed pleased with them as beauties. I speak of his compound epithets, and of his repetitions. Many of the\[pg xliii\] former cannot be done literally into English without destroying the purity of our language. I believe such should be retained as slide easily of themselves into an English compound, without violence to the ear or to the received rules of composition, as well as those which have received a sanction from the authority of our best poets, and are become familiar through their use of them; such as "the cloud-compelling Jove," &c. As for the rest, whenever any can be as fully and significantly expressed in a single word as in a compounded one, the course to be taken is obvious.
+
+
+There are two peculiarities in Homer's diction, which are a sort of marks or moles by which every common eye distinguishes him at first sight; those who are not his greatest admirers look upon them as defects, and those who are, seemed pleased with them as beauties. I speak of his compound epithets, and of his repetitions. Many of the  former cannot be done literally into English without destroying the purity of our language. I believe such should be retained as slide easily of themselves into an English compound, without violence to the ear or to the received rules of composition, as well as those which have received a sanction from the authority of our best poets, and are become familiar through their use of them; such as "the cloud-compelling Jove," &c. As for the rest, whenever any can be as fully and significantly expressed in a single word as in a compounded one, the course to be taken is obvious.
+
+
 
 Some that cannot be so turned, as to preserve their full image by one or two words, may have justice done them by circumlocution; as the epithet einosiphyllos to a mountain, would appear little or ridiculous translated literally "leaf-shaking," but affords a majestic idea in the periphrasis: "the lofty mountain shakes his waving woods." Others that admit of different significations, may receive an advantage from a judicious variation, according to the occasions on which they are introduced. For example, the epithet of Apollo, hekaebolos or "far-shooting," is capable of two explications; one literal, in respect of the darts and bow, the ensigns of that god; the other allegorical, with regard to the rays of the sun; therefore, in such places where Apollo is represented as a god in person, I would use the former interpretation; and where the effects of the sun are described, I would make choice of the latter. Upon the whole, it will be necessary to avoid that perpetual repetition of the same epithets which we find in Homer, and which, though it might be accommodated (as has been already shown) to the ear of those times, is by no means so to ours: but one may wait for opportunities of placing them, where they derive an additional beauty from the occasions on which they are employed; and in doing this properly, a translator may at once show his fancy and his judgment.
 
+
+
 As for Homer's repetitions, we may divide them into three sorts: of whole narrations and speeches, of single sentences, and of one verse or hemistitch. I hope it is not impossible to have such a regard to these, as neither to lose so known a mark of the author on the one hand, nor to offend the reader too much on the other. The repetition is not ungraceful in those speeches, where the dignity of the speaker renders it a sort of insolence to alter his words; as in the messages from gods to men, or from higher powers to inferiors in concerns of state, or where the ceremonial of religion seems to require it, in the solemn forms of prayers, oaths, or the like. In other cases, I believe the best rule is, to be guided by the nearness, or distance, at which the repetitions are placed in the original: when they follow too close, one may vary the expression; but it is a question, whether a professed translator be authorized to omit any: if they be tedious, the author is to answer for it.
 
-It only remains to speak of the versification. Homer (as has been said) is perpetually applying the sound to the sense, and varying it on every new subject. This is indeed one of the most exquisite beauties of poetry, and attainable by very few: I only know of Homer eminent for it in the Greek, and Virgil in the Latin. I am sensible it is what may sometimes happen by chance, when a writer is warm, and fully\[pg xliv\] possessed of his image: however, it may reasonably be believed they designed this, in whose verse it so manifestly appears in a superior degree to all others. Few readers have the ear to be judges of it: but those who have, will see I have endeavoured at this beauty.
+
+
+It only remains to speak of the versification. Homer (as has been said) is perpetually applying the sound to the sense, and varying it on every new subject. This is indeed one of the most exquisite beauties of poetry, and attainable by very few: I only know of Homer eminent for it in the Greek, and Virgil in the Latin. I am sensible it is what may sometimes happen by chance, when a writer is warm, and fully  possessed of his image: however, it may reasonably be believed they designed this, in whose verse it so manifestly appears in a superior degree to all others. Few readers have the ear to be judges of it: but those who have, will see I have endeavoured at this beauty.
+
+
 
 Upon the whole, I must confess myself utterly incapable of doing justice to Homer. I attempt him in no other hope but that which one may entertain without much vanity, of giving a more tolerable copy of him than any entire translation in verse has yet done. We have only those of Chapman, Hobbes, and Ogilby. Chapman has taken the advantage of an immeasurable length of verse, notwithstanding which, there is scarce any paraphrase more loose and rambling than his. He has frequent interpolations of four or six lines; and I remember one in the thirteenth book of the Odyssey, ver. 312, where he has spun twenty verses out of two. He is often mistaken in so bold a manner, that one might think he deviated on purpose, if he did not in other places of his notes insist so much upon verbal trifles. He appears to have had a strong affectation of extracting new meanings out of his author; insomuch as to promise, in his rhyming preface, a poem of the mysteries he had revealed in Homer; and perhaps he endeavoured to strain the obvious sense to this end. His expression is involved in fustian; a fault for which he was remarkable in his original writings, as in the tragedy of Bussy d'Amboise, &c. In a word, the nature of the man may account for his whole performance; for he appears, from his preface and remarks, to have been of an arrogant turn, and an enthusiast in poetry. His own boast, of having finished half the Iliad in less than fifteen weeks, shows with what negligence his version was performed. But that which is to be allowed him, and which very much contributed to cover his defects, is a daring fiery spirit that animates his translation, which is something like what one might imagine Homer himself would have writ before he arrived at years of discretion.
 
+
+
 Hobbes has given us a correct explanation of the sense in general; but for particulars and circumstances he continually lops them, and often omits the most beautiful. As for its being esteemed a close translation, I doubt not many have been led into that error by the shortness of it, which proceeds not from his following the original line by line, but from the contractions above mentioned. He sometimes omits whole similes and sentences; and is now and then guilty of mistakes, into which no writer of his learning could have fallen, but through carelessness. His poetry, as well as Ogilby's, is too mean for criticism.
 
-It is a great loss to the poetical world that Mr. Dryden did not live to translate the Iliad. He has left us only the first book, and a small part of the sixth; in which if he has in some places not truly interpreted the sense, or preserved the antiquities, it ought to be excused on account of the haste he was obliged to write in. He seems to have had too much regard to Chapman, whose words he sometimes copies, and has unhappily followed him in passages where he wanders from the original. However, had he translated the whole work, I would no more have attempted Homer after him than Virgil: his version of whom (notwithstanding some human errors) is the most noble and spirited translation I know in any language. But the fate of great geniuses is like\[pg xlv\] that of great ministers: though they are confessedly the first in the commonwealth of letters, they must be envied and calumniated only for being at the head of it.
+
+
+It is a great loss to the poetical world that Mr. Dryden did not live to translate the Iliad. He has left us only the first book, and a small part of the sixth; in which if he has in some places not truly interpreted the sense, or preserved the antiquities, it ought to be excused on account of the haste he was obliged to write in. He seems to have had too much regard to Chapman, whose words he sometimes copies, and has unhappily followed him in passages where he wanders from the original. However, had he translated the whole work, I would no more have attempted Homer after him than Virgil: his version of whom (notwithstanding some human errors) is the most noble and spirited translation I know in any language. But the fate of great geniuses is like  that of great ministers: though they are confessedly the first in the commonwealth of letters, they must be envied and calumniated only for being at the head of it.
+
+
 
 That which, in my opinion, ought to be the endeavour of any one who translates Homer, is above all things to keep alive that spirit and fire which makes his chief character: in particular places, where the sense can bear any doubt, to follow the strongest and most poetical, as most agreeing with that character; to copy him in all the variations of his style, and the different modulations of his numbers; to preserve, in the more active or descriptive parts, a warmth and elevation; in the more sedate or narrative, a plainness and solemnity; in the speeches, a fulness and perspicuity; in the sentences, a shortness and gravity; not to neglect even the little figures and turns on the words, nor sometimes the very cast of the periods; neither to omit nor confound any rites or customs of antiquity: perhaps too he ought to include the whole in a shorter compass than has hitherto been done by any translator who has tolerably preserved either the sense or poetry. What I would further recommend to him is, to study his author rather from his own text, than from any commentaries, how learned soever, or whatever figure they may make in the estimation of the world; to consider him attentively in comparison with Virgil above all the ancients, and with Milton above all the moderns. Next these, the Archbishop of Cambray's Telemachus may give him the truest idea of the spirit and turn of our author; and Bossu's admirable Treatise of the Epic Poem the justest notion of his design and conduct. But after all, with whatever judgment and study a man may proceed, or with whatever happiness he may perform such a work, he must hope to please but a few; those only who have at once a taste of poetry, and competent learning. For to satisfy such a want either, is not in the nature of this undertaking; since a mere modern wit can like nothing that is not modern, and a pedant nothing that is not Greek.
 
-What I have done is submitted to the public; from whose opinions I am prepared to learn; though I fear no judges so little as our best poets, who are most sensible of the weight of this task. As for the worst, whatever they shall please to say, they may give me some concern as they are unhappy men, but none as they are malignant writers. I was guided in this translation by judgments very different from theirs, and by persons for whom they can have no kindness, if an old observation be true, that the strongest antipathy in the world is that of fools to men of wit. Mr. Addison was the first whose advice determined me to undertake this task; who was pleased to write to me upon that occasion in such terms as I cannot repeat without vanity. I was obliged to Sir Richard Steele for a very early recommendation of my undertaking to the public. Dr. Swift promoted my interest with that warmth with which he always serves his friend. The humanity and frankness of Sir Samuel Garth are what I never knew wanting on any occasion. I must also acknowledge, with infinite pleasure, the many friendly offices, as well as sincere criticisms, of Mr. Congreve, who had led me the way in translating some parts of Homer. I must add the names of Mr. Rowe, and Dr. Parnell, though I shall take a further opportunity of doing justice to the last, whose good nature (to\[pg xlvi\] give it a great panegyric), is no less extensive than his learning. The favour of these gentlemen is not entirely undeserved by one who bears them so true an affection. But what can I say of the honour so many of the great have done me; while the first names of the age appear as my subscribers, and the most distinguished patrons and ornaments of learning as my chief encouragers? Among these it is a particular pleasure to me to find, that my highest obligations are to such who have done most honour to the name of poet: that his grace the Duke of Buckingham was not displeased I should undertake the author to whom he has given (in his excellent Essay), so complete a praise:
+
+
+What I have done is submitted to the public; from whose opinions I am prepared to learn; though I fear no judges so little as our best poets, who are most sensible of the weight of this task. As for the worst, whatever they shall please to say, they may give me some concern as they are unhappy men, but none as they are malignant writers. I was guided in this translation by judgments very different from theirs, and by persons for whom they can have no kindness, if an old observation be true, that the strongest antipathy in the world is that of fools to men of wit. Mr. Addison was the first whose advice determined me to undertake this task; who was pleased to write to me upon that occasion in such terms as I cannot repeat without vanity. I was obliged to Sir Richard Steele for a very early recommendation of my undertaking to the public. Dr. Swift promoted my interest with that warmth with which he always serves his friend. The humanity and frankness of Sir Samuel Garth are what I never knew wanting on any occasion. I must also acknowledge, with infinite pleasure, the many friendly offices, as well as sincere criticisms, of Mr. Congreve, who had led me the way in translating some parts of Homer. I must add the names of Mr. Rowe, and Dr. Parnell, though I shall take a further opportunity of doing justice to the last, whose good nature (to  give it a great panegyric), is no less extensive than his learning. The favour of these gentlemen is not entirely undeserved by one who bears them so true an affection. But what can I say of the honour so many of the great have done me; while the first names of the age appear as my subscribers, and the most distinguished patrons and ornaments of learning as my chief encouragers? Among these it is a particular pleasure to me to find, that my highest obligations are to such who have done most honour to the name of poet: that his grace the Duke of Buckingham was not displeased I should undertake the author to whom he has given (in his excellent Essay), so complete a praise:
+
+
 
 "Read Homer once, and you can read no more;
 
+
+
 For all books else appear so mean, so poor,
+
+
 
 Verse will seem prose: but still persist to read,
 
+
+
 And Homer will be all the books you need."
+
+
 
 That the Earl of Halifax was one of the first to favour me; of whom it is hard to say whether the advancement of the polite arts is more owing to his generosity or his example: that such a genius as my Lord Bolingbroke, not more distinguished in the great scenes of business, than in all the useful and entertaining parts of learning, has not refused to be the critic of these sheets, and the patron of their writer: and that the noble author of the tragedy of "Heroic Love" has continued his partiality to me, from my writing pastorals to my attempting the Iliad. I cannot deny myself the pride of confessing, that I have had the advantage not only of their advice for the conduct in general, but their correction of several particulars of this translation.
 
+
+
 I could say a great deal of the pleasure of being distinguished by the Earl of Carnarvon; but it is almost absurd to particularize any one generous action in a person whose whole life is a continued series of them. Mr. Stanhope, the present secretary of state, will pardon my desire of having it known that he was pleased to promote this affair. The particular zeal of Mr. Harcourt (the son of the late Lord Chancellor) gave me a proof how much I am honoured in a share of his friendship. I must attribute to the same motive that of several others of my friends: to whom all acknowledgments are rendered unnecessary by the privileges of a familiar correspondence; and I am satisfied I can no way better oblige men of their turn than by my silence.
+
+
+
 
 In short, I have found more patrons than ever Homer wanted. He would have thought himself happy to have met the same favour at Athens that has been shown me by its learned rival, the University of Oxford. And I can hardly envy him those pompous honours he received after death, when I reflect on the enjoyment of so many agreeable obligations, and easy friendships, which make the satisfaction of life. This distinction is the more to be acknowledged, as it is shown to one whose pen has never gratified the prejudices of particular parties, or the vanities of particular men. Whatever the success may prove, I shall never repent of an undertaking in which I have experienced the candour and friendship of so many persons of merit; and in which I hope to pass some of those years of youth that are generally lost in a circle of follies, after a manner neither wholly unuseful to others, nor disagreeable to myself.
 
-* * *
 
-\[pg 001\]
 
-THE ILIAD.
-==========
+ 
 
-* * *
 
-BOOK I.
-=======
 
-ARGUMENT.[40](#note_40)
 
-THE CONTENTION OF ACHILLES AND AGAMEMNON.
+
+---
+
+### BOOK I. THE CONTENTION OF ACHILLES AND AGAMEMNON.
+
+
+
+ARGUMENT. 
+
+
+
+
 
 In the war of Troy, the Greeks having sacked some of the neighbouring towns, and taken from thence two beautiful captives, Chryseis and Briseis, allotted the first to Agamemnon, and the last to Achilles. Chryses, the father of Chryseis, and priest of Apollo, comes to the Grecian camp to ransom her; with which the action of the poem opens, in the tenth year of the siege. The priest being refused, and insolently dismissed by Agamemnon, entreats for vengeance from his god; who inflicts a pestilence on the Greeks. Achilles calls a council, and encourages Chalcas to declare the cause of it; who attributes it to the refusal of Chryseis. The king, being obliged to send back his captive, enters into a furious contest with Achilles, which Nestor pacifies; however, as he had the absolute command of the army, he seizes on Briseis in revenge. Achilles in discontent withdraws himself and his forces from the rest of the Greeks; and complaining to Thetis, she supplicates Jupiter to render them sensible of the wrong done to her son, by giving victory to the Trojans. Jupiter, granting her suit, incenses Juno: between whom the debate runs high, till they are reconciled by the address of Vulcan.
 
+
+
 The time of two-and-twenty days is taken up in this book: nine during the plague, one in the council and quarrel of the princes, and twelve for Jupiter's stay with the Æthiopians, at whose return Thetis prefers her petition. The scene lies in the Grecian camp, then changes to Chrysa, and lastly to Olympus.
+
+
+
 
 Achilles' wrath, to Greece the direful spring
 
@@ -306,25 +557,25 @@ That wrath which hurl'd to Pluto's gloomy reign
 
 The souls of mighty chiefs untimely slain;
 
-\[pg 002\]
+ 
 
 Whose limbs unburied on the naked shore,
 
-Devouring dogs and hungry vultures tore.[41](#note_41)
+Devouring dogs and hungry vultures tore. 
 
 Since great Achilles and Atrides strove,
 
-Such was the sovereign doom, and such the will of Jove![42](#note_42)
+Such was the sovereign doom, and such the will of Jove! 
 
-Declare, O Muse! in what ill-fated hour[43](#note_43)
+Declare, O Muse! in what ill-fated hour 
 
 Sprung the fierce strife, from what offended power
 
-Latona's son a dire contagion spread,[44](#note_44)
+Latona's son a dire contagion spread, 
 
 And heap'd the camp with mountains of the dead;
 
-The king of men his reverent priest defied,[45](#note_45)
+The king of men his reverent priest defied, 
 
 And for the king's offence the people died.
 
@@ -342,7 +593,7 @@ Extends the sceptre and the laurel crown
 
 He sued to all, but chief implored for grace
 
-The brother-kings, of Atreus' royal race[46](#note_46)
+The brother-kings, of Atreus' royal race 
 
 "Ye kings and warriors! may your vows be crown'd,
 
@@ -376,7 +627,7 @@ Hence, with thy laurel crown, and golden rod,
 
 Nor trust too far those ensigns of thy god.
 
-\[pg 003\]
+ 
 
 Mine is thy daughter, priest, and shall remain;
 
@@ -396,7 +647,7 @@ Far from her native soil and weeping sire."
 
 ![Illustration: HOMER INVOKING THE MUSE.](images/image01.png "HOMER INVOKING THE MUSE.")
 
-HOMER INVOKING THE MUSE.
+ 
 
 The trembling priest along the shore return'd,
 
@@ -410,17 +661,17 @@ Till, safe at distance, to his god he prays,
 
 The god who darts around the world his rays.
 
-"O Smintheus! sprung from fair Latona's line,[47](#note_47)
+"O Smintheus! sprung from fair Latona's line, 
 
-Thou guardian power of Cilla the divine,[48](#note_48)
+Thou guardian power of Cilla the divine, 
 
 Thou source of light! whom Tenedos adores,
 
 And whose bright presence gilds thy Chrysa's shores.
 
-\[pg 004\]
+ 
 
-If e'er with wreaths I hung thy sacred fane,[49](#note_49)
+If e'er with wreaths I hung thy sacred fane, 
 
 Or fed the flames with fat of oxen slain;
 
@@ -432,7 +683,7 @@ Thus Chryses pray'd.—the favouring power attends,
 
 And from Olympus' lofty tops descends.
 
-Bent was his bow, the Grecian hearts to wound;[50](#note_50)
+Bent was his bow, the Grecian hearts to wound; 
 
 Fierce as he moved, his silver shafts resound.
 
@@ -444,7 +695,7 @@ The fleet in view, he twang'd his deadly bow,
 
 And hissing fly the feather'd fates below.
 
-On mules and dogs the infection first began;[51](#note_51)
+On mules and dogs the infection first began; 
 
 And last, the vengeful arrows fix'd in man.
 
@@ -458,7 +709,7 @@ Inspired by Juno, Thetis' godlike son
 
 Convened to council all the Grecian train;
 
-For much the goddess mourn'd her heroes slain.[52](#note_52)
+For much the goddess mourn'd her heroes slain. 
 
 The assembly seated, rising o'er the rest,
 
@@ -478,9 +729,9 @@ Explore the cause of great Apollo's rage;
 
 Or learn the wasteful vengeance to remove
 
-By mystic dreams, for dreams descend from Jove.[53](#note_53)
+By mystic dreams, for dreams descend from Jove. 
 
-\[pg 005\]
+ 
 
 If broken vows this heavy curse have laid,
 
@@ -556,7 +807,7 @@ But plagues shall spread, and funeral fires increase,
 
 Till the great king, without a ransom paid,
 
-To her own Chrysa send the black-eyed maid.[54](#note_54)
+To her own Chrysa send the black-eyed maid. 
 
 Perhaps, with added sacrifice and prayer,
 
@@ -578,7 +829,7 @@ Still must that tongue some wounding message bring,
 
 And still thy priestly pride provoke thy king?
 
-\[pg 006\]
+ 
 
 For this are Phoebus' oracles explored,
 
@@ -664,7 +915,7 @@ Or grant me this, or with a monarch's claim
 
 This hand shall seize some other captive dame.
 
-The mighty Ajax shall his prize resign;[55](#note_55)
+The mighty Ajax shall his prize resign; 
 
 Ulysses' spoils, or even thy own, be mine.
 
@@ -676,7 +927,7 @@ But this when time requires.—It now remains
 
 We launch a bark to plough the watery plains,
 
-\[pg 007\]
+ 
 
 And waft the sacrifice to Chrysa's shores,
 
@@ -700,7 +951,7 @@ The god propitiate, and the pest assuage."
 
 ![Illustration: MARS.](images/image02.png "MARS.")
 
-MARS.
+ 
 
 At this, Pelides, frowning stern, replied:
 
@@ -758,7 +1009,7 @@ Some trivial present to my ships I bear:
 
 Or barren praises pay the wounds of war.
 
-\[pg 008\]
+ 
 
 But know, proud monarch, I'm thy slave no more;
 
@@ -796,7 +1047,7 @@ I heed thee not, but prize at equal rate
 
 Thy short-lived friendship, and thy groundless hate.
 
-Go, threat thy earth-born Myrmidons:—but here[56](#note_56)
+Go, threat thy earth-born Myrmidons:—but here 
 
 'Tis mine to threaten, prince, and thine to fear.
 
@@ -838,9 +1089,9 @@ And calm the rising tempest of his soul.
 
 Just as in anguish of suspense he stay'd,
 
-While half unsheathed appear'd the glittering blade,[57](#note_57)
+While half unsheathed appear'd the glittering blade, 
 
-\[pg 009\]
+ 
 
 Minerva swift descended from above,
 
@@ -860,7 +1111,7 @@ Known by the flames that sparkle from her eyes:
 
 ![Illustration: MINERVA REPRESSING THE FURY OF ACHILLES.](images/image03.png "MINERVA REPRESSING THE FURY OF ACHILLES.")
 
-MINERVA REPRESSING THE FURY OF ACHILLES.
+ 
 
 "Descends Minerva, in her guardian care,
 
@@ -902,7 +1153,7 @@ To her Pelides:—"With regardful ear,
 
 'Tis just, O goddess! I thy dictates hear.
 
-\[pg 010\]
+ 
 
 Hard as it is, my vengeance I suppress:
 
@@ -990,7 +1241,7 @@ Slow from his seat arose the Pylian sage,
 
 Experienced Nestor, in persuasion skill'd;
 
-Words, sweet as honey, from his lips distill'd:[58](#note_58)
+Words, sweet as honey, from his lips distill'd: 
 
 Two generations now had pass'd away,
 
@@ -998,7 +1249,7 @@ Wise by his rules, and happy by his sway;
 
 Two ages o'er his native realm he reign'd,
 
-\[pg 011\]
+ 
 
 And now the example of the third remain'd.
 
@@ -1100,7 +1351,7 @@ Grant that the gods his matchless force have given;
 
 Has foul reproach a privilege from heaven?"
 
-\[pg 012\]
+ 
 
 Here on the monarch's speech Achilles broke,
 
@@ -1154,7 +1405,7 @@ The host to expiate next the king prepares,
 
 With pure lustrations, and with solemn prayers.
 
-Wash'd by the briny wave, the pious train[59](#note_59)
+Wash'd by the briny wave, the pious train 
 
 Are cleansed; and cast the ablutions in the main.
 
@@ -1194,7 +1445,7 @@ At awful distance long they silent stand,
 
 Loth to advance, and speak their hard command;
 
-\[pg 013\]
+ 
 
 Decent confusion! This the godlike man
 
@@ -1202,7 +1453,7 @@ Perceived, and thus with accent mild began:
 
 "With leave and honour enter our abodes,
 
-Ye sacred ministers of men and gods![60](#note_60)
+Ye sacred ministers of men and gods! 
 
 I know your message; by constraint you came;
 
@@ -1234,7 +1485,7 @@ In blood and slaughter shall repent at last."
 
 ![Illustration: THE DEPARTURE OF BRISEIS FROM THE TENT OF ACHILLES.](images/image04.png "THE DEPARTURE OF BRISEIS FROM THE TENT OF ACHILLES.")
 
-THE DEPARTURE OF BRISEIS FROM THE TENT OF ACHILLES.
+ 
 
 Patroclus now the unwilling beauty brought;
 
@@ -1248,11 +1499,11 @@ Not so his loss the fierce Achilles bore;
 
 But sad, retiring to the sounding shore,
 
-\[pg 014\]
+ 
 
 O'er the wild margin of the deep he hung,
 
-That kindred deep from whence his mother sprung:[61](#note_61)
+That kindred deep from whence his mother sprung: 
 
 There bathed in tears of anger and disdain,
 
@@ -1294,7 +1545,7 @@ He deeply sighing said: "To tell my woe
 
 Is but to mention what too well you know.
 
-From Thebe, sacred to Apollo's name[62](#note_62)
+From Thebe, sacred to Apollo's name 
 
 (Aetion's realm), our conquering army came,
 
@@ -1334,7 +1585,7 @@ A dreadful plague ensues: the avenging darts
 
 Incessant fly, and pierce the Grecian hearts.
 
-\[pg 015\]
+ 
 
 A prophet then, inspired by heaven, arose,
 
@@ -1356,7 +1607,7 @@ But now he seized Briseis' heavenly charms,
 
 And of my valour's prize defrauds my arms,
 
-Defrauds the votes of all the Grecian train;[63](#note_63)
+Defrauds the votes of all the Grecian train; 
 
 And service, faith, and justice, plead in vain.
 
@@ -1388,7 +1639,7 @@ Then, call'd by thee, the monster Titan came
 
 (Whom gods Briareus, men Ægeon name),
 
-\[pg 016\]
+ 
 
 Through wondering skies enormous stalk'd along;
 
@@ -1400,7 +1651,7 @@ And brandish'd round him all his hundred hands:
 
 The affrighted gods confess'd their awful lord,
 
-They dropp'd the fetters, trembled, and adored.[64](#note_64)
+They dropp'd the fetters, trembled, and adored. 
 
 This, goddess, this to his remembrance call,
 
@@ -1424,7 +1675,7 @@ The boldest warrior of the Grecian race."
 
 ![Illustration: THETIS CALLING BRIAREUS TO THE ASSISTANCE OF JUPITER.](images/image05.png "THETIS CALLING BRIAREUS TO THE ASSISTANCE OF JUPITER.")
 
-THETIS CALLING BRIAREUS TO THE ASSISTANCE OF JUPITER.
+ 
 
 "Unhappy son! (fair Thetis thus replies,
 
@@ -1432,7 +1683,7 @@ While tears celestial trickle from her eyes)
 
 Why have I borne thee with a mother's throes,
 
-To Fates averse, and nursed for future woes?[65](#note_65)
+To Fates averse, and nursed for future woes? 
 
 So short a space the light of heaven to view!
 
@@ -1460,9 +1711,9 @@ On the warm limits of the farthest main,
 
 Now mix with mortals, nor disdain to grace
 
-The feasts of Æthiopia's blameless race,[66](#note_66)
+The feasts of Æthiopia's blameless race, 
 
-\[pg 017\]
+ 
 
 Twelve days the powers indulge the genial rite,
 
@@ -1510,7 +1761,7 @@ Accept the hecatomb the Greeks prepare;
 
 And may thy god who scatters darts around,
 
-Atoned by sacrifice, desist to wound."[67](#note_67)
+Atoned by sacrifice, desist to wound." 
 
 At this, the sire embraced the maid again,
 
@@ -1550,9 +1801,9 @@ And now the Greeks their hecatomb prepare;
 
 Between their horns the salted barley threw,
 
-And, with their heads to heaven, the victims slew:[68](#note_68)
+And, with their heads to heaven, the victims slew: 
 
-\[pg 018\]
+ 
 
 The limbs they sever from the inclosing hide;
 
@@ -1584,7 +1835,7 @@ With pure libations they conclude the feast;
 
 The youths with wine the copious goblets crown'd,
 
-And, pleased, dispense the flowing bowls around;[69](#note_69)
+And, pleased, dispense the flowing bowls around; 
 
 With hymns divine the joyous banquet ends,
 
@@ -1642,7 +1893,7 @@ When, like the morning-mist in early day,
 
 Rose from the flood the daughter of the sea:
 
-\[pg 019\]
+ 
 
 And to the seats divine her flight address'd.
 
@@ -1678,7 +1929,7 @@ Shall heap with honours him they now disgrace."
 
 ![Illustration: THETIS ENTREATING JUPITER TO HONOUR ACHILLES.](images/image06.png "THETIS ENTREATING JUPITER TO HONOUR ACHILLES.")
 
-THETIS ENTREATING JUPITER TO HONOUR ACHILLES.
+ 
 
 Thus Thetis spoke; but Jove in silence held
 
@@ -1704,7 +1955,7 @@ Who rolls the thunder o'er the vaulted skies:
 
 In foreign contests and domestic rage,
 
-\[pg 020\]
+ 
 
 The gods' complaints, and Juno's fierce alarms,
 
@@ -1724,7 +1975,7 @@ The faithful, fix'd, irrevocable sign;
 
 This seals thy suit, and this fulfils thy vows—"
 
-He spoke, and awful bends his sable brows,[70](#note_70)
+He spoke, and awful bends his sable brows, 
 
 Shakes his ambrosial curls, and gives the nod,
 
@@ -1732,7 +1983,7 @@ The stamp of fate and sanction of the god:
 
 High heaven with trembling the dread signal took,
 
-And all Olympus to the centre shook.[71](#note_71)
+And all Olympus to the centre shook. 
 
 Swift to the seas profound the goddess flies,
 
@@ -1790,7 +2041,7 @@ And thus return'd:—"Austere Saturnius, say,
 
 From whence this wrath, or who controls thy sway?
 
-\[pg 021\]
+ 
 
 Thy boundless will, for me, remains in force,
 
@@ -1834,7 +2085,7 @@ In vain resists the omnipotence of Jove."
 
 ![Illustration: VULCAN.](images/image07.png "VULCAN.")
 
-VULCAN.
+ 
 
 The thunderer spoke, nor durst the queen reply;
 
@@ -1864,7 +2115,7 @@ Lest, roused to rage, he shake the bless'd abodes,
 
 Launch the red lightning, and dethrone the gods.
 
-\[pg 022\]
+ 
 
 If you submit, the thunderer stands appeased;
 
@@ -1872,7 +2123,7 @@ The gracious power is willing to be pleased."
 
 Thus Vulcan spoke: and rising with a bound,
 
-The double bowl with sparkling nectar crown'd,[72](#note_72)
+The double bowl with sparkling nectar crown'd, 
 
 Which held to Juno in a cheerful way,
 
@@ -1888,7 +2139,7 @@ Or lift his hand against the force of Jove?
 
 Once in your cause I felt his matchless might,
 
-Hurl'd headlong down from the ethereal height;[73](#note_73)
+Hurl'd headlong down from the ethereal height; 
 
 Toss'd all the day in rapid circles round,
 
@@ -1896,7 +2147,7 @@ Nor till the sun descended touch'd the ground.
 
 Breathless I fell, in giddy motion lost;
 
-The Sinthians raised me on the Lemnian coast;[74](#note_74)
+The Sinthians raised me on the Lemnian coast; 
 
 He said, and to her hands the goblet heaved,
 
@@ -1912,13 +2163,13 @@ And unextinguish'd laughter shakes the skies.
 
 Thus the blest gods the genial day prolong,
 
-In feasts ambrosial, and celestial song.[75](#note_75)
+In feasts ambrosial, and celestial song. 
 
 Apollo tuned the lyre; the Muses round
 
 With voice alternate aid the silver sound.
 
-\[pg 023\]
+ 
 
 Meantime the radiant sun to mortal sight
 
@@ -1934,24 +2185,27 @@ And Juno slumber'd on the golden bed.
 
 ![Illustration: JUPITER.](images/image08.png "JUPITER.")
 
-JUPITER.
+ 
 
-\[pg 024\]
+ 
 
 ![Illustration: THE APOTHEOSIS OF HOMER.](images/image09.png "THE APOTHEOSIS OF HOMER.")
 
-THE APOTHEOSIS OF HOMER.
+ 
 
-* * *
 
-\[pg 025\]
 
-BOOK II.
-========
+---
+
+ 
+
+### BOOK II. THE TRIAL OF THE ARMY, AND CATALOGUE OF THE FORCES.
+
+
+
 
 ARGUMENT.
 
-THE TRIAL OF THE ARMY, AND CATALOGUE OF THE FORCES.
 
 Jupiter, in pursuance of the request of Thetis, sends a deceitful vision to Agamemnon, persuading him to lead the army to battle, in order to make the Greeks sensible of their want of Achilles. The general, who is deluded with the hopes of taking Troy without his assistance, but fears the army was discouraged by his absence, and the late plague, as well as by the length of time, contrives to make trial of their disposition by a stratagem. He first communicates his design to the princes in council, that he would propose a return to the soldiers, and that they should put a stop to them if the proposal was embraced. Then he assembles the whole host, and upon moving for a return to Greece, they unanimously agree to it, and run to prepare the ships. They are detained by the management of Ulysses, who chastises the insolence of Thersites. The assembly is recalled, several speeches made on the occasion, and at length the advice of Nestor followed, which was to make a general muster of the troops, and to divide them into their several nations, before they proceeded to battle. This gives occasion to the poet to enumerate all the forces of the Greeks and Trojans, and in a large catalogue.
 
@@ -1963,7 +2217,7 @@ Stretch'd in the tents the Grecian leaders lie:
 
 The immortals slumber'd on their thrones above;
 
-All, but the ever-wakeful eyes of Jove.[76](#note_76)
+All, but the ever-wakeful eyes of Jove. 
 
 To honour Thetis' son he bends his care,
 
@@ -1973,11 +2227,11 @@ Then bids an empty phantom rise to sight,
 
 And thus commands the vision of the night.
 
-"Fly hence, deluding Dream! and light as air,[77](#note_77)
+"Fly hence, deluding Dream! and light as air, 
 
 To Agamemnon's ample tent repair.
 
-\[pg 026\]
+ 
 
 Bid him in arms draw forth the embattled train,
 
@@ -2009,11 +2263,11 @@ And thus the flattering dream deceives the king.
 
 ![Illustration: JUPITER SENDING THE EVIL DREAM TO AGAMEMNON.](images/image10.png "JUPITER SENDING THE EVIL DREAM TO AGAMEMNON.")
 
-JUPITER SENDING THE EVIL DREAM TO AGAMEMNON.
+ 
 
 "Canst thou, with all a monarch's cares oppress'd,
 
-O Atreus' son! canst thou indulge the rest?[78](#note_78)
+O Atreus' son! canst thou indulge the rest? 
 
 Ill fits a chief who mighty nations guides,
 
@@ -2021,7 +2275,7 @@ Directs in council, and in war presides,
 
 To whom its safety a whole people owes,
 
-To waste long nights in indolent repose.[79](#note_79)
+To waste long nights in indolent repose. 
 
 Monarch, awake! 'tis Jove's command I bear;
 
@@ -2031,7 +2285,7 @@ In just array draw forth the embattled train,
 
 Lead all thy Grecians to the dusty plain;
 
-\[pg 027\]
+ 
 
 E'en now, O king! 'tis given thee to destroy
 
@@ -2111,7 +2365,7 @@ A dream divine appear'd before my sight;
 
 Whose visionary form like Nestor came,
 
-The same in habit, and in mien the same.[80](#note_80)
+The same in habit, and in mien the same. 
 
 The heavenly phantom hover'd o'er my head,
 
@@ -2125,7 +2379,7 @@ To whom its safety a whole people owes,
 
 To waste long nights in indolent repose.
 
-\[pg 028\]
+ 
 
 Monarch, awake! 'tis Jove's command I bear,
 
@@ -2197,7 +2451,7 @@ With deeper murmurs and more hoarse alarms;
 
 Dusky they spread, a close embodied crowd,
 
-And o'er the vale descends the living cloud.[81](#note_81)
+And o'er the vale descends the living cloud. 
 
 So, from the tents and ships, a lengthen'd train
 
@@ -2211,9 +2465,9 @@ Fame flies before the messenger of Jove,
 
 And shining soars, and claps her wings above.
 
-\[pg 029\]
+ 
 
-Nine sacred heralds now, proclaiming loud[82](#note_82)
+Nine sacred heralds now, proclaiming loud 
 
 The monarch's will, suspend the listening crowd.
 
@@ -2239,7 +2493,7 @@ To rich Thyestes next the prize descends;
 
 And now the mark of Agamemnon's reign,
 
-Subjects all Argos, and controls the main.[83](#note_83)
+Subjects all Argos, and controls the main. 
 
 On this bright sceptre now the king reclined,
 
@@ -2281,11 +2535,11 @@ So small their number, that if wars were ceased,
 
 And Greece triumphant held a general feast,
 
-\[pg 030\]
+ 
 
 All rank'd by tens, whole decades when they dine
 
-Must want a Trojan slave to pour the wine.[84](#note_84)
+Must want a Trojan slave to pour the wine. 
 
 But other forces have our hopes o'erthrown,
 
@@ -2327,7 +2581,7 @@ Burst their dark mansions in the clouds, and sweep
 
 The whitening surface of the ruffled deep.
 
-And as on corn when western gusts descend,[85](#note_85)
+And as on corn when western gusts descend, 
 
 Before the blast the lofty harvests bend:
 
@@ -2371,7 +2625,7 @@ No: let my Greeks, unmoved by vain alarms,
 
 Once more refulgent shine in brazen arms.
 
-\[pg 031\]
+ 
 
 Haste, goddess, haste! the flying host detain,
 
@@ -2459,13 +2713,13 @@ That worst of tyrants, an usurping crowd.
 
 To one sole monarch Jove commits the sway;
 
-His are the laws, and him let all obey."[86](#note_86)
+His are the laws, and him let all obey." 
 
 With words like these the troops Ulysses ruled,
 
 The loudest silenced, and the fiercest cool'd.
 
-\[pg 032\]
+ 
 
 Back to the assembly roll the thronging train,
 
@@ -2567,7 +2821,7 @@ In loves and pleasures on the Phrygian shore.
 
 We may be wanted on some busy day,
 
-\[pg 033\]
+ 
 
 When Hector comes: so great Achilles may:
 
@@ -2579,7 +2833,7 @@ And durst he, as he ought, resent that wrong,
 
 This mighty tyrant were no tyrant long."
 
-Fierce from his seat at this Ulysses springs,[87](#note_87)
+Fierce from his seat at this Ulysses springs, 
 
 In generous vengeance of the king of kings.
 
@@ -2629,9 +2883,9 @@ And send thee scourged and howling through the fleet."
 
 He said, and cowering as the dastard bends,
 
-The weighty sceptre on his bank descends.[88](#note_88)
+The weighty sceptre on his bank descends. 
 
-\[pg 034\]
+ 
 
 On the round bunch the bloody tumours rise:
 
@@ -2709,7 +2963,7 @@ Expect the time to Troy's destruction given.
 
 And try the faith of Chalcas and of heaven.
 
-What pass'd at Aulis, Greece can witness bear,[89](#note_89)
+What pass'd at Aulis, Greece can witness bear, 
 
 And all who live to breathe this Phrygian air.
 
@@ -2725,7 +2979,7 @@ A mighty dragon shot, of dire portent;
 
 From Jove himself the dreadful sign was sent.
 
-\[pg 035\]
+ 
 
 Straight to the tree his sanguine spires he roll'd,
 
@@ -2759,7 +3013,7 @@ For while around we gazed with wondering eyes,
 
 And trembling sought the powers with sacrifice,
 
-Full of his god, the reverend Chalcas cried,[90](#note_90)
+Full of his god, the reverend Chalcas cried, 
 
 'Ye Grecian warriors! lay your fears aside.
 
@@ -2823,7 +3077,7 @@ Encouraged hence, maintain the glorious strife,
 
 Till every soldier grasp a Phrygian wife,
 
-\[pg 036\]
+ 
 
 Till Helen's woes at full revenged appear,
 
@@ -2837,7 +3091,7 @@ Stand forth that Greek! and hoist his sail to fly,
 
 And die the dastard first, who dreads to die.
 
-But now, O monarch! all thy chiefs advise:[91](#note_91)
+But now, O monarch! all thy chiefs advise: 
 
 Nor what they offer, thou thyself despise.
 
@@ -2921,7 +3175,7 @@ That wretch, too mean to fall by martial power,
 
 The birds shall mangle, and the dogs devour."
 
-\[pg 037\]
+ 
 
 The monarch spoke; and straight a murmur rose,
 
@@ -2939,7 +3193,7 @@ With hasty feasts they sacrifice, and pray,
 
 To avert the dangers of the doubtful day.
 
-A steer of five years' age, large limb'd, and fed,[92](#note_92)
+A steer of five years' age, large limb'd, and fed, 
 
 To Jove's high altars Agamemnon led:
 
@@ -2947,15 +3201,15 @@ There bade the noblest of the Grecian peers;
 
 And Nestor first, as most advanced in years.
 
-Next came Idomeneus,[93](#note_93)
+Next came Idomeneus, 
 
-and Tydeus' son,[94](#note_94)
+and Tydeus' son, 
 
-Ajax the less, and Ajax Telamon;[95](#note_95)
+Ajax the less, and Ajax Telamon; 
 
 Then wise Ulysses in his rank was placed;
 
-And Menelaus came, unbid, the last.[96](#note_96)
+And Menelaus came, unbid, the last. 
 
 The chiefs surround the destined beast, and take
 
@@ -2993,7 +3247,7 @@ Their prayers perform'd the chiefs the rite pursue,
 
 The barley sprinkled, and the victim slew.
 
-\[pg 038\]
+ 
 
 The limbs they sever from the inclosing hide,
 
@@ -3071,7 +3325,7 @@ Not less their number than the embodied cranes,
 
 Or milk-white swans in Asius' watery plains.
 
-That, o'er the windings of Cayster's springs,[97](#note_97)
+That, o'er the windings of Cayster's springs, 
 
 Stretch their long necks, and clap their rustling wings,
 
@@ -3081,9 +3335,9 @@ Now light with noise; with noise the field resounds.
 
 Thus numerous and confused, extending wide,
 
-The legions crowd Scamander's flowery side;[98](#note_98)
+The legions crowd Scamander's flowery side; 
 
-\[pg 039\]
+ 
 
 With rushing troops the plains are cover'd o'er,
 
@@ -3127,7 +3381,7 @@ His subject herds, the monarch of the meads,
 
 Great as the gods, the exalted chief was seen,
 
-His strength like Neptune, and like Mars his mien;[99](#note_99)
+His strength like Neptune, and like Mars his mien; 
 
 Jove o'er his eyes celestial glories spread,
 
@@ -3135,7 +3389,7 @@ And dawning conquest played around his head.
 
 Say, virgins, seated round the throne divine,
 
-All-knowing goddesses! immortal nine![100](#note_100)
+All-knowing goddesses! immortal nine! 
 
 Since earth's wide regions, heaven's umneasur'd height,
 
@@ -3157,17 +3411,17 @@ Daughters of Jove, assist! inspired by you
 
 The mighty labour dauntless I pursue;
 
-\[pg 040\]
+ 
 
 What crowded armies, from what climes they bring,
 
 Their names, their numbers, and their chiefs I sing.
 
-THE CATALOGUE OF THE SHIPS.[101](#note_101)
+### THE CATALOGUE OF THE SHIPS. 
 
 ![Illustration: NEPTUNE.](images/image11.png "NEPTUNE.")
 
-NEPTUNE.
+ 
 
 The hardy warriors whom Boeotia bred,
 
@@ -3201,7 +3455,7 @@ Onchestus, Neptune's celebrated groves;
 
 Copae, and Thisbe, famed for silver doves;
 
-\[pg 041\]
+ 
 
 For flocks Erythrae, Glissa for the vine;
 
@@ -3217,7 +3471,7 @@ And Anthedon, Boeotia's utmost bound.
 
 Full fifty ships they send, and each conveys
 
-Twice sixty warriors through the foaming seas.[102](#note_102)
+Twice sixty warriors through the foaming seas. 
 
 To these succeed Aspledon's martial train,
 
@@ -3281,7 +3535,7 @@ Or in fair Tarphe's sylvan seats reside:
 
 In forty vessels cut the yielding tide.
 
-\[pg 042\]
+ 
 
 Euboea next her martial sons prepares,
 
@@ -3375,9 +3629,9 @@ In fourscore barks they plough the watery way.
 
 The proud Mycene arms her martial powers,
 
-Cleone, Corinth, with imperial towers,[103](#note_103)
+Cleone, Corinth, with imperial towers, 
 
-\[pg 043\]
+ 
 
 Fair Araethyrea, Ornia's fruitful plain,
 
@@ -3479,7 +3733,7 @@ And Stymphelus with her surrounding grove;
 
 Parrhasia, on her snowy cliffs reclined,
 
-\[pg 044\]
+ 
 
 And high Enispe shook by wintry wind,
 
@@ -3581,7 +3835,7 @@ Of Gnossus, Lyctus, and Gortyna's bands;
 
 And those who dwell where Rhytion's domes arise,
 
-\[pg 045\]
+ 
 
 Or white Lycastus glitters to the skies,
 
@@ -3643,7 +3897,7 @@ Nireus, whom Aglae to Charopus bore,
 
 Nireus, in faultless shape and blooming grace,
 
-The loveliest youth of all the Grecian race;[104](#note_104)
+The loveliest youth of all the Grecian race; 
 
 Pelides only match'd his early charms;
 
@@ -3679,7 +3933,7 @@ The Achaians, Myrmidons, Hellenians bear;
 
 Thessalians all, though various in their name;
 
-\[pg 046\]
+ 
 
 The same their nation, and their chief the same.
 
@@ -3781,7 +4035,7 @@ The Œchalian race, in those high towers contain'd
 
 Where once Eurytus in proud triumph reign'd,
 
-\[pg 047\]
+ 
 
 Or where her humbler turrets Tricca rears,
 
@@ -3883,7 +4137,7 @@ Ajax in arms the first renown acquired,
 
 While stern Achilles in his wrath retired:
 
-\[pg 048\]
+ 
 
 (His was the strength that mortal might exceeds,
 
@@ -3935,7 +4189,7 @@ The old consulting, and the youths around.
 
 Polites' shape, the monarch's son, she chose,
 
-Who from Æsetes' tomb observed the foes,[105](#note_105)
+Who from Æsetes' tomb observed the foes, 
 
 High on the mound; from whence in prospect lay
 
@@ -3979,7 +4233,7 @@ The tumult thickens, and the skies resound.
 
 Amidst the plain, in sight of Ilion, stands
 
-\[pg 049\]
+ 
 
 A rising mount, the work of human hands;
 
@@ -4011,7 +4265,7 @@ Archilochus and Acamas divide
 
 The warrior's toils, and combat by his side.
 
-Who fair Zeleia's wealthy valleys till,[106](#note_106)
+Who fair Zeleia's wealthy valleys till, 
 
 Fast by the foot of Ida's sacred hill,
 
@@ -4077,7 +4331,7 @@ Skill'd in the fight their crooked bows to bend;
 
 From Axius' ample bed he leads them on,
 
-\[pg 050\]
+ 
 
 Axius, that laves the distant Amydon,
 
@@ -4135,7 +4389,7 @@ High Mycale, and Latmos' shady brows,
 
 And proud Miletus, came the Carian throngs,
 
-With mingled clamours and with barbarous tongues.[107](#note_107)
+With mingled clamours and with barbarous tongues. 
 
 Amphimachus and Naustes guide the train,
 
@@ -4161,16 +4415,19 @@ The warlike bands that distant Lycia yields,
 
 Where gulfy Xanthus foams along the fields.
 
-* * *
 
-\[pg 051\]
 
-BOOK III.
-=========
+---
+
+ 
+
+### BOOK III. THE DUEL OF MENELAUS AND PARIS.
+
+
 
 ARGUMENT.
 
-THE DUEL OF MENELAUS AND PARIS.
+
 
 The armies being ready to engage, a single combat is agreed upon between Menelaus and Paris (by the intervention of Hector) for the determination of the war. Iris is sent to call Helen to behold the fight. She leads her to the walls of Troy, where Priam sat with his counsellers observing the Grecian leaders on the plain below, to whom Helen gives an account of the chief of them. The kings on either part take the solemn oath for the conditions of the combat. The duel ensues; wherein Paris being overcome, he is snatched away in a cloud by Venus, and transported to his apartment. She then calls Helen from the walls, and brings the lovers together. Agamemnon, on the part of the Grecians, demands the restoration of Helen, and the performance of the articles.
 
@@ -4188,7 +4445,7 @@ So when inclement winters vex the plain
 
 With piercing frosts, or thick-descending rain,
 
-To warmer seas the cranes embodied fly,[108](#note_108)
+To warmer seas the cranes embodied fly, 
 
 With noise, and order, through the midway sky;
 
@@ -4196,11 +4453,11 @@ To pigmy nations wounds and death they bring,
 
 And all the war descends upon the wing,
 
-But silent, breathing rage, resolved and skill'd[109](#note_109)
+But silent, breathing rage, resolved and skill'd 
 
 By mutual aids to fix a doubtful field,
 
-\[pg 052\]
+ 
 
 Swift march the Greeks: the rapid dust around
 
@@ -4270,7 +4527,7 @@ Smit with a conscious sense, retires behind,
 
 And shuns the fate he well deserved to find.
 
-As when some shepherd, from the rustling trees[110](#note_110)
+As when some shepherd, from the rustling trees 
 
 Shot forth to view, a scaly serpent sees,
 
@@ -4286,11 +4543,11 @@ As godlike Hector sees the prince retreat,
 
 He thus upbraids him with a generous heat:
 
-"Unhappy Paris! but to women brave![111](#note_111)
+"Unhappy Paris! but to women brave! 
 
 So fairly form'd, and only to deceive!
 
-\[pg 053\]
+ 
 
 Oh, hadst thou died when first thou saw'st the light,
 
@@ -4392,7 +4649,7 @@ Thus with a lasting league your toils may cease,
 
 And Troy possess her fertile fields in peace;
 
-\[pg 054\]
+ 
 
 Thus may the Greeks review their native shore,
 
@@ -4494,7 +4751,7 @@ Within the lines they drew their steeds around,
 
 And from their chariots issued on the ground;
 
-\[pg 055\]
+ 
 
 Next, all unbuckling the rich mail they wore,
 
@@ -4530,7 +4787,7 @@ And the dire triumphs of her fatal eyes.
 
 To whom the goddess of the painted bow:
 
-"Approach, and view the wondrous scene below![112](#note_112)
+"Approach, and view the wondrous scene below! 
 
 Each hardy Greek, and valiant Trojan knight,
 
@@ -4588,13 +4845,13 @@ In summer days, like grasshoppers rejoice,
 
 A bloodless race, that send a feeble voice.
 
-\[pg 056\]
+ 
 
 These, when the Spartan queen approach'd the tower,
 
 In secret own'd resistless beauty's power:
 
-They cried, "No wonder such celestial charms[113](#note_113)
+They cried, "No wonder such celestial charms 
 
 For nine long years have set the world in arms;
 
@@ -4682,9 +4939,9 @@ When godlike Mygdon led their troops of horse,
 
 And I, to join them, raised the Trojan force:
 
-Against the manlike Amazons we stood,[114](#note_114)
+Against the manlike Amazons we stood, 
 
-\[pg 057\]
+ 
 
 And Sangar's stream ran purple with their blood.
 
@@ -4716,7 +4973,7 @@ A barren island boasts his glorious birth;
 
 His fame for wisdom fills the spacious earth."
 
-Antenor took the word, and thus began:[115](#note_115)
+Antenor took the word, and thus began: 
 
 "Myself, O king! have seen that wondrous man
 
@@ -4744,19 +5001,19 @@ His words succinct, yet full, without a fault;
 
 He spoke no more than just the thing he ought.
 
-But when Ulysses rose, in thought profound,[116](#note_116)
+But when Ulysses rose, in thought profound, 
 
 His modest eyes he fix'd upon the ground;
 
 As one unskill'd or dumb, he seem'd to stand,
 
-\[pg 058\]
+ 
 
 Nor raised his head, nor stretch'd his sceptred hand;
 
 But, when he speaks, what elocution flows!
 
-Soft as the fleeces of descending snows,[117](#note_117)
+Soft as the fleeces of descending snows, 
 
 The copious accents fall, with easy art;
 
@@ -4810,7 +5067,7 @@ Perhaps their swords some nobler quarrel draws,
 
 Ashamed to combat in their sister's cause."
 
-So spoke the fair, nor knew her brothers' doom;[118](#note_118)
+So spoke the fair, nor knew her brothers' doom; 
 
 Wrapt in the cold embraces of the tomb;
 
@@ -4822,7 +5079,7 @@ Meantime the heralds, through the crowded town.
 
 Bring the rich wine and destined victims down.
 
-Idaeus' arms the golden goblets press'd,[119](#note_119)
+Idaeus' arms the golden goblets press'd, 
 
 Who thus the venerable king address'd:
 
@@ -4840,7 +5097,7 @@ And who his rival shall in arms subdue,
 
 His be the dame, and his the treasure too.
 
-\[pg 059\]
+ 
 
 Thus with a lasting league our toils may cease,
 
@@ -4856,7 +5113,7 @@ To join his milk-white coursers to the car;
 
 He mounts the seat, Antenor at his side;
 
-The gentle steeds through Scaea's gates they guide:[120](#note_120)
+The gentle steeds through Scaea's gates they guide: 
 
 Next from the car descending on the plain,
 
@@ -4874,7 +5131,7 @@ Pour the full urn; then draws the Grecian lord
 
 His cutlass sheathed beside his ponderous sword;
 
-From the sign'd victims crops the curling hair;[121](#note_121)
+From the sign'd victims crops the curling hair; 
 
 The heralds part it, and the princes share;
 
@@ -4936,7 +5193,7 @@ While thus their prayers united mount the sky,
 
 And may their blood, who first the league confound,
 
-\[pg 060\]
+ 
 
 Shed like this wine, disdain the thirsty ground;
 
@@ -5038,7 +5295,7 @@ With equal speed and fired by equal charms,
 
 The Spartan hero sheathes his limbs in arms.
 
-\[pg 061\]
+ 
 
 Now round the lists the admiring armies stand,
 
@@ -5052,7 +5309,7 @@ The Trojan first his shining javelin threw;
 
 Full on Atrides' ringing shield it flew,
 
-Nor pierced the brazen orb, but with a bound[122](#note_122)
+Nor pierced the brazen orb, but with a bound 
 
 Leap'd from the buckler, blunted, on the ground.
 
@@ -5130,7 +5387,7 @@ In thirst of vengeance, at his rival's heart;
 
 The queen of love her favour'd champion shrouds
 
-\[pg 062\]
+ 
 
 (For gods can all things) in a veil of clouds.
 
@@ -5160,7 +5417,7 @@ That shed perfumes, and whispering thus address'd:
 
 ![Illustration: VENUS, DISGUISED, INVITING HELEN TO THE CHAMBER OF PARIS.](images/image12.png "VENUS, DISGUISED, INVITING HELEN TO THE CHAMBER OF PARIS.")
 
-VENUS, DISGUISED, INVITING HELEN TO THE CHAMBER OF PARIS.
+ 
 
 "Haste, happy nymph! for thee thy Paris calls,
 
@@ -5180,9 +5437,9 @@ She scorn'd the champion, but the man she loved.
 
 Fair Venus' neck, her eyes that sparkled fire,
 
-And breast, reveal'd the queen of soft desire.[123](#note_123)
+And breast, reveal'd the queen of soft desire. 
 
-\[pg 063\]
+ 
 
 Struck with her presence, straight the lively red
 
@@ -5230,7 +5487,7 @@ Too deep my anguish, and too wild my woe."
 
 ![Illustration: VENUS PRESENTING HELEN TO PARIS.](images/image13.png "VENUS PRESENTING HELEN TO PARIS.")
 
-VENUS PRESENTING HELEN TO PARIS.
+ 
 
 Then thus incensed, the Paphian queen replies:
 
@@ -5248,7 +5505,7 @@ Now the bright prize for which mankind engage,
 
 Than, the sad victim, of the public rage."
 
-\[pg 064\]
+ 
 
 At this, the fairest of her sex obey'd,
 
@@ -5314,7 +5571,7 @@ Not thus I loved thee, when from Sparta's shore
 
 My forced, my willing heavenly prize I bore,
 
-When first entranced in Cranae's isle I lay,[124](#note_124)
+When first entranced in Cranae's isle I lay, 
 
 Mix'd with thy soul, and all dissolved away!"
 
@@ -5346,7 +5603,7 @@ Then speaking thus, the king of kings arose,
 
 "Ye Trojans, Dardans, all our generous foes!
 
-\[pg 065\]
+ 
 
 Hear and attest! from Heaven with conquest crown'd,
 
@@ -5366,24 +5623,26 @@ And the long shout runs echoing through the skies.
 
 ![Illustration: VENUS.](images/image14.png "VENUS.")
 
-VENUS.
+ 
 
-\[pg 066\]
+ 
 
 ![Illustration: Map, titled "Graeciae Antiquae".](images/image15.png "Map, titled "Graeciae Antiquae".")
 
-Map, titled "Graeciae Antiquae".
+ 
 
-* * *
 
-\[pg 067\]
 
-BOOK IV.
-========
+---
+
+ 
+
+### BOOK IV. THE BREACH OF THE TRUCE, AND THE FIRST BATTLE.
+
+
 
 ARGUMENT.
 
-THE BREACH OF THE TRUCE, AND THE FIRST BATTLE.
 
 The gods deliberate in council concerning the Trojan war: they agree upon the continuation of it, and Jupiter sends down Minerva to break the truce. She persuades Pandarus to aim an arrow at Menelaus, who is wounded, but cured by Machaon. In the meantime some of the Trojan troops attack the Greeks. Agamemnon is distinguished in all the parts of a good general; he reviews the troops, and exhorts the leaders, some by praises and others by reproof. Nestor is particularly celebrated for his military discipline. The battle joins, and great numbers are slain on both sides.
 
@@ -5407,7 +5666,7 @@ Thus waked the fury of his partial queen,
 
 "Two powers divine the son of Atreus aid,
 
-Imperial Juno, and the martial maid;[125](#note_125)
+Imperial Juno, and the martial maid; 
 
 But high in heaven they sit, and gaze from far,
 
@@ -5429,7 +5688,7 @@ Then say, ye powers! what signal issue waits
 
 To crown this deed, and finish all the fates!
 
-\[pg 068\]
+ 
 
 Shall Heaven by peace the bleeding kingdoms spare,
 
@@ -5461,7 +5720,7 @@ Her sullen silence, and with fury spoke:
 
 ![Illustration: THE COUNCIL OF THE GODS.](images/image16.png "THE COUNCIL OF THE GODS.")
 
-THE COUNCIL OF THE GODS.
+ 
 
 "Shall then, O tyrant of the ethereal reign!
 
@@ -5495,7 +5754,7 @@ What high offence has fired the wife of Jove?
 
 Can wretched mortals harm the powers above,
 
-\[pg 069\]
+ 
 
 That Troy, and Troy's whole race thou wouldst confound,
 
@@ -5513,7 +5772,7 @@ To boundless vengeance the wide realm be given,
 
 Till vast destruction glut the queen of heaven!
 
-So let it be, and Jove his peace enjoy,[126](#note_126)
+So let it be, and Jove his peace enjoy, 
 
 When heaven no longer hears the name of Troy.
 
@@ -5549,7 +5808,7 @@ Then on the Thunderer fix'd them, and replies:
 
 More dear than all the extended earth contains,
 
-Mycenae, Argos, and the Spartan wall;[127](#note_127)
+Mycenae, Argos, and the Spartan wall; 
 
 These thou mayst raze, nor I forbid their fall:
 
@@ -5569,7 +5828,7 @@ A goddess born, to share the realms above,
 
 And styled the consort of the thundering Jove;
 
-Nor thou a wife and sister's right deny;[128](#note_128)
+Nor thou a wife and sister's right deny; 
 
 Let both consent, and both by terms comply;
 
@@ -5581,7 +5840,7 @@ See ready Pallas waits thy high commands
 
 To raise in arms the Greek and Phrygian bands;
 
-\[pg 070\]
+ 
 
 Their sudden friendship by her arts may cease,
 
@@ -5609,7 +5868,7 @@ Or trembling sailors on the wintry main,)
 
 With sweeping glories glides along in air,
 
-And shakes the sparkles from its blazing hair:[129](#note_129)
+And shakes the sparkles from its blazing hair: 
 
 Between both armies thus, in open sight
 
@@ -5639,7 +5898,7 @@ Amidst the ranks Lycaon's son she found,
 
 The warlike Pandarus, for strength renown'd;
 
-Whose squadrons, led from black Æsepus' flood,[130](#note_130)
+Whose squadrons, led from black Æsepus' flood, 
 
 With flaming shields in martial circle stood.
 
@@ -5665,11 +5924,11 @@ To Lycian Phoebus with the silver bow,
 
 And swear the firstlings of thy flock to pay,
 
-On Zelia's altars, to the god of day."[131](#note_131)
+On Zelia's altars, to the god of day." 
 
 He heard, and madly at the motion pleased,
 
-\[pg 071\]
+ 
 
 His polish'd bow with hasty rashness seized.
 
@@ -5771,7 +6030,7 @@ And grasp'd his hand; while all the Greeks around
 
 With answering sighs return'd the plaintive sound.
 
-\[pg 072\]
+ 
 
 "Oh, dear as life! did I for this agree
 
@@ -5873,9 +6132,9 @@ With hasty zeal the swift Talthybius flies;
 
 Through the thick files he darts his searching eyes,
 
-\[pg 073\]
+ 
 
-And finds Machaon, where sublime he stands[132](#note_132)
+And finds Machaon, where sublime he stands 
 
 In arms incircled with his native bands.
 
@@ -5903,7 +6162,7 @@ Straight the broad belt with gay embroidery graced,
 
 He loosed; the corslet from his breast unbraced;
 
-Then suck'd the blood, and sovereign balm infused,[133](#note_133)
+Then suck'd the blood, and sovereign balm infused, 
 
 Which Chiron gave, and Æsculapius used.
 
@@ -5943,7 +6202,7 @@ Urge their swift steeds to face the coming war),
 
 Jove is with Greece, and let us trust in Jove.
 
-\[pg 074\]
+ 
 
 'Tis not for us, but guilty Troy, to dread,
 
@@ -6045,7 +6304,7 @@ Till black as night the swelling tempest shows,
 
 The cloud condensing as the west-wind blows:
 
-\[pg 075\]
+ 
 
 He dreads the impending storm, and drives his flock
 
@@ -6147,9 +6406,9 @@ Thus to the experienced prince Atrides cried;
 
 He shook his hoary locks, and thus replied:
 
-\[pg 076\]
+ 
 
-"Well might I wish, could mortal wish renew[134](#note_134)
+"Well might I wish, could mortal wish renew 
 
 That strength which once in boiling youth I knew;
 
@@ -6235,7 +6494,7 @@ Struck with his generous wrath, the king replies:
 
 With ours, thy care and ardour are the same,
 
-\[pg 077\]
+ 
 
 Nor need I to commend, nor aught to blame.
 
@@ -6251,7 +6510,7 @@ He said, and pass'd where great Tydides lay,
 
 His steeds and chariots wedged in firm array;
 
-(The warlike Sthenelus attends his side;)[135](#note_135)
+(The warlike Sthenelus attends his side;) 
 
 To whom with stern reproach the monarch cried:
 
@@ -6281,7 +6540,7 @@ Not we denied, but Jove forbade from heaven;
 
 While dreadful comets glaring from afar,
 
-Forewarn'd the horrors of the Theban war.[136](#note_136)
+Forewarn'd the horrors of the Theban war. 
 
 Next, sent by Greece from where Asopus flows,
 
@@ -6329,13 +6588,13 @@ Ourselves to lessen, while our sire you raise?
 
 Dare to be just, Atrides! and confess
 
-\[pg 078\]
+ 
 
 Our value equal, though our fury less.
 
 With fewer troops we storm'd the Theban wall,
 
-And happier saw the sevenfold city fall,[137](#note_137)
+And happier saw the sevenfold city fall, 
 
 In impious acts the guilty father died;
 
@@ -6369,7 +6628,7 @@ Dire was the clang, and dreadful from afar,
 
 Of arm'd Tydides rushing to the war.
 
-As when the winds, ascending by degrees,[138](#note_138)
+As when the winds, ascending by degrees, 
 
 First move the whitening surface of the seas,
 
@@ -6417,7 +6676,7 @@ Pale flight around, and dreadful terror reign;
 
 And discord raging bathes the purple plain;
 
-\[pg 079\]
+ 
 
 Discord! dire sister of the slaughtering power,
 
@@ -6425,7 +6684,7 @@ Small at her birth, but rising every hour,
 
 While scarce the skies her horrid head can bound,
 
-She stalks on earth, and shakes the world around;[139](#note_139)
+She stalks on earth, and shakes the world around; 
 
 The nations bleed, where'er her steps she turns,
 
@@ -6475,7 +6734,7 @@ So sinks a tower, that long assaults had stood
 
 Of force and fire, its walls besmear'd with blood.
 
-Him, the bold leader of the Abantian throng,[140](#note_140)
+Him, the bold leader of the Abantian throng, 
 
 Seized to despoil, and dragg'd the corpse along:
 
@@ -6511,7 +6770,7 @@ The nymph descending from the hills of Ide,
 
 To seek her parents on his flowery side,
 
-\[pg 080\]
+ 
 
 Brought forth the babe, their common care and joy,
 
@@ -6569,7 +6828,7 @@ Old Priam's son, Democoon was his name.
 
 The weapon entered close above his ear,
 
-Cold through his temples glides the whizzing spear;[141](#note_141)
+Cold through his temples glides the whizzing spear; 
 
 With piercing shrieks the youth resigns his breath,
 
@@ -6609,7 +6868,7 @@ Array'd in terrors, roused the Trojan powers:
 
 While war's fierce goddess fires the Grecian foe,
 
-\[pg 081\]
+ 
 
 And shouts and thunders in the fields below.
 
@@ -6619,7 +6878,7 @@ In vain his valour and illustrious line.
 
 A broken rock the force of Pyrus threw,
 
-(Who from cold Ænus led the Thracian crew,)[142](#note_142)
+(Who from cold Ænus led the Thracian crew,) 
 
 Full on his ankle dropp'd the ponderous stone,
 
@@ -6695,28 +6954,31 @@ So fought each host, with thirst of glory fired,
 
 And crowds on crowds triumphantly expired.
 
-\[pg 082\]
+ 
 
 ![Illustration: Map of the Plain of Troy.](images/image17.png "Map of the Plain of Troy.")
 
-Map of the Plain of Troy.
+ 
 
-* * *
 
-\[pg 083\]
 
-BOOK V.
-=======
+---
+
+ 
+
+### BOOK V. THE ACTS OF DIOMED.
+
+
 
 ARGUMENT.
 
-THE ACTS OF DIOMED.
+
 
 Diomed, assisted by Pallas, performs wonders in this day's battle. Pandarus wounds him with an arrow, but the goddess cures him, enables him to discern gods from mortals, and prohibits him from contending with any of the former, excepting Venus. Æneas joins Pandarus to oppose him; Pandarus is killed, and Æneas in great danger but for the assistance of Venus; who, as she is removing her son from the fight, is wounded on the hand by Diomed. Apollo seconds her in his rescue, and at length carries off Æneas to Troy, where he is healed in the temple of Pergamus. Mars rallies the Trojans, and assists Hector to make a stand. In the meantime Æneas is restored to the field, and they overthrow several of the Greeks; among the rest Tlepolemus is slain by Sarpedon. Juno and Minerva descend to resist Mars; the latter incites Diomed to go against that god; he wounds him, and sends him groaning to heaven.
 
 The first battle continues through this book. The scene is the same as in the former.
 
-But Pallas now Tydides' soul inspires,[143](#note_143)
+But Pallas now Tydides' soul inspires, 
 
 Fills with her force, and warms with all her fires,
 
@@ -6748,7 +7010,7 @@ The sons of Dares first the combat sought,
 
 A wealthy priest, but rich without a fault;
 
-\[pg 084\]
+ 
 
 In Vulcan's fane the father's days were led,
 
@@ -6850,7 +7112,7 @@ Then died Scamandrius, expert in the chase,
 
 In woods and wilds to wound the savage race;
 
-\[pg 085\]
+ 
 
 Diana taught him all her sylvan arts,
 
@@ -6952,7 +7214,7 @@ Pours on the rear, or lightens in their face.
 
 Thus from high hills the torrents swift and strong
 
-\[pg 086\]
+ 
 
 Deluge whole fields, and sweep the trees along,
 
@@ -6962,7 +7224,7 @@ O'erwhelm's the bridge, and bursts the lofty bounds;
 
 The yellow harvests of the ripen'd year,
 
-And flatted vineyards, one sad waste appear![144](#note_144)
+And flatted vineyards, one sad waste appear! 
 
 While Jove descends in sluicy sheets of rain,
 
@@ -7044,13 +7306,13 @@ Rush to the fight, and every foe control;
 
 Wake each paternal virtue in thy soul:
 
-\[pg 087\]
+ 
 
 Strength swells thy boiling breast, infused by me,
 
 And all thy godlike father breathes in thee;
 
-Yet more, from mortal mists I purge thy eyes,[145](#note_145)
+Yet more, from mortal mists I purge thy eyes, 
 
 And set to view the warring deities.
 
@@ -7138,7 +7400,7 @@ As when the lordly lion seeks his food
 
 Where grazing heifers range the lonely wood,
 
-\[pg 088\]
+ 
 
 He leaps amidst them with a furious bound,
 
@@ -7240,7 +7502,7 @@ So took my bow and pointed darts in hand
 
 And left the chariots in my native land.
 
-\[pg 089\]
+ 
 
 "Too late, O friend! my rashness I deplore;
 
@@ -7342,7 +7604,7 @@ Enough is given to fame. Ascend thy car!
 
 And save a life, the bulwark of our war."
 
-\[pg 090\]
+ 
 
 At this the hero cast a gloomy look,
 
@@ -7384,7 +7646,7 @@ Swift to Æneas' empty seat proceed,
 
 And seize the coursers of ethereal breed;
 
-The race of those, which once the thundering god[146](#note_146)
+The race of those, which once the thundering god 
 
 For ravish'd Ganymede on Tros bestow'd,
 
@@ -7432,7 +7694,7 @@ With hostile blood shall glut the god of war."
 
 He spoke, and rising hurl'd his forceful dart,
 
-\[pg 091\]
+ 
 
 Which, driven by Pallas, pierced a vital part;
 
@@ -7474,7 +7736,7 @@ Heaved with vast force, a rocky fragment wields.
 
 Not two strong men the enormous weight could raise,
 
-Such men as live in these degenerate days:[147](#note_147)
+Such men as live in these degenerate days: 
 
 He swung it round; and, gathering strength to throw,
 
@@ -7530,7 +7792,7 @@ He fix'd with straiten'd traces to the car,
 
 Next, rushing to the Dardan spoil, detains
 
-\[pg 092\]
+ 
 
 The heavenly coursers with the flowing manes:
 
@@ -7576,7 +7838,7 @@ And the transparent skin with crimson stain'd,
 
 From the clear vein a stream immortal flow'd,
 
-Such stream as issues from a wounded god;[148](#note_148)
+Such stream as issues from a wounded god; 
 
 Pure emanation! uncorrupted flood!
 
@@ -7624,7 +7886,7 @@ Pale was her cheek, and livid look'd the wound.
 
 To Mars, who sat remote, they bent their way:
 
-\[pg 093\]
+ 
 
 Far, on the left, with clouds involved he lay;
 
@@ -7666,7 +7928,7 @@ And ask'd what god had wrought this guilty deed?
 
 ![Illustration: VENUS, WOUNDED IN THE HAND, CONDUCTED BY IRIS TO MARS.](images/image18.png "VENUS, WOUNDED IN THE HAND, CONDUCTED BY IRIS TO MARS.")
 
-VENUS, WOUNDED IN THE HAND, CONDUCTED BY IRIS TO MARS.
+ 
 
 Then she: "This insult from no god I found,
 
@@ -7684,13 +7946,13 @@ Dione then: "Thy wrongs with patience bear,
 
 And share those griefs inferior powers must share:
 
-\[pg 094\]
+ 
 
 Unnumber'd woes mankind from us sustain,
 
 And men with woes afflict the gods again.
 
-The mighty Mars in mortal fetters bound,[149](#note_149)
+The mighty Mars in mortal fetters bound, 
 
 And lodged in brazen dungeons underground,
 
@@ -7706,7 +7968,7 @@ Great Juno's self has borne her weight of pain,
 
 The imperial partner of the heavenly reign;
 
-Amphitryon's son infix'd the deadly dart,[150](#note_150)
+Amphitryon's son infix'd the deadly dart, 
 
 And fill'd with anguish her immortal heart.
 
@@ -7728,7 +7990,7 @@ And drench his arrows in the blood of gods!
 
 ![Illustration: OTUS AND EPHIALTES HOLDING MARS CAPTIVE.](images/image19.png "OTUS AND EPHIALTES HOLDING MARS CAPTIVE.")
 
-OTUS AND EPHIALTES HOLDING MARS CAPTIVE.
+ 
 
 "But thou (though Pallas urged thy frantic deed),
 
@@ -7742,13 +8004,13 @@ From fields of death when late he shall retire,
 
 No infant on his knees shall call him sire.
 
-\[pg 095\]
+ 
 
 Strong as thou art, some god may yet be found,
 
 To stretch thee pale and gasping on the ground;
 
-Thy distant wife, Ægiale the fair,[151](#note_151)
+Thy distant wife, Ægiale the fair, 
 
 Starting from sleep with a distracted air,
 
@@ -7838,7 +8100,7 @@ With vigour arm'd him, and with glory crown'd.
 
 This done, the patron of the silver bow
 
-\[pg 096\]
+ 
 
 A phantom raised, the same in shape and show
 
@@ -7940,7 +8202,7 @@ Or one vast burst of all-involving fate
 
 Full o'er your towers shall fall, and sweep away
 
-\[pg 097\]
+ 
 
 Sons, sires, and wives, an undistinguish'd prey.
 
@@ -8042,7 +8304,7 @@ And peaceful sleeps the liquid element:
 
 The low-hung vapours, motionless and still,
 
-\[pg 098\]
+ 
 
 Rest on the summits of the shaded hill;
 
@@ -8096,7 +8358,7 @@ In dust Orsilochus and Crethon laid,
 
 Whose sire Diocleus, wealthy, brave and great,
 
-In well-built Pherae held his lofty seat:[152](#note_152)
+In well-built Pherae held his lofty seat: 
 
 Sprung from Alpheus' plenteous stream, that yields
 
@@ -8142,7 +8404,7 @@ He thus advancing, Nestor's valiant son
 
 Shakes for his danger, and neglects his own;
 
-\[pg 099\]
+ 
 
 Struck with the thought, should Helen's lord be slain,
 
@@ -8244,7 +8506,7 @@ Secure of favouring gods, he takes the field;
 
 His strokes they second, and avert our spears.
 
-\[pg 100\]
+ 
 
 Behold where Mars in mortal arms appears!
 
@@ -8308,7 +8570,7 @@ Till in the steely circle straiten'd round,
 
 Forced he gives way, and sternly quits the ground.
 
-While thus they strive, Tlepolemus the great,[153](#note_153)
+While thus they strive, Tlepolemus the great, 
 
 Urged by the force of unresisted fate,
 
@@ -8336,7 +8598,7 @@ How far unlike those chiefs of race divine,
 
 How vast the difference of their deeds and thine!
 
-\[pg 101\]
+ 
 
 Jove got such heroes as my sire, whose soul
 
@@ -8430,11 +8692,11 @@ Minerva drives him on the Lycian train;
 
 Alastor, Cronius, Halius, strew'd the plain,
 
-Alcander, Prytanis, Noemon fell:[154](#note_154)
+Alcander, Prytanis, Noemon fell: 
 
 And numbers more his sword had sent to hell,
 
-\[pg 102\]
+ 
 
 But Hector saw; and, furious at the sight,
 
@@ -8536,7 +8798,7 @@ At her command rush forth the steeds divine;
 
 Rich with immortal gold their trappings shine.
 
-\[pg 103\]
+ 
 
 Bright Hebe waits; by Hebe, ever young,
 
@@ -8618,11 +8880,11 @@ Swift at the scourge the ethereal coursers fly,
 
 While the smooth chariot cuts the liquid sky.
 
-Heaven's gates spontaneous open to the powers,[155](#note_155)
+Heaven's gates spontaneous open to the powers, 
 
-Heaven's golden gates, kept by the winged Hours;[156](#note_156)
+Heaven's golden gates, kept by the winged Hours; 
 
-\[pg 104\]
+ 
 
 Commission'd in alternate watch they stand,
 
@@ -8684,7 +8946,7 @@ Swift down the steep of heaven the chariot rolls,
 
 Between the expanded earth and starry poles
 
-Far as a shepherd, from some point on high,[157](#note_157)
+Far as a shepherd, from some point on high, 
 
 O'er the wide main extends his boundless eye,
 
@@ -8716,13 +8978,13 @@ Such was their look as lions bathed in blood,
 
 Or foaming boars, the terror of the wood
 
-\[pg 105\]
+ 
 
 Heaven's empress mingles with the mortal crowd,
 
 And shouts, in Stentor's sounding voice, aloud;
 
-Stentor the strong, endued with brazen lungs,[158](#note_158)
+Stentor the strong, endued with brazen lungs, 
 
 Whose throats surpass'd the force of fifty tongues.
 
@@ -8808,7 +9070,7 @@ With slaughter red, and raging round the field."
 
 Then thus Minerva:—"Brave Tydides, hear!
 
-\[pg 106\]
+ 
 
 Not Mars himself, nor aught immortal, fear.
 
@@ -8822,7 +9084,7 @@ And every side of wavering combat tries;
 
 Large promise makes, and breaks the promise made:
 
-Now gives the Grecians, now the Trojans aid."[159](#note_159)
+Now gives the Grecians, now the Trojans aid." 
 
 She said, and to the steeds approaching near,
 
@@ -8846,7 +9108,7 @@ Black Orcus' helmet o'er her radiant head.
 
 ![Illustration: DIOMED CASTING HIS SPEAR AT MARS.](images/image20.png "DIOMED CASTING HIS SPEAR AT MARS.")
 
-DIOMED CASTING HIS SPEAR AT MARS.
+ 
 
 Just then gigantic Periphas lay slain,
 
@@ -8868,7 +9130,7 @@ Pallas opposed her hand, and caused to glance
 
 Far from the car the strong immortal lance.
 
-\[pg 107\]
+ 
 
 Then threw the force of Tydeus' warlike son;
 
@@ -8970,7 +9232,7 @@ Of all the gods who tread the spangled skies,
 
 Thou most unjust, most odious in our eyes!
 
-\[pg 108\]
+ 
 
 Inhuman discord is thy dire delight,
 
@@ -8994,7 +9256,7 @@ Where chain'd on burning rocks the Titans groan."
 
 Thus he who shakes Olympus with his nod;
 
-Then gave to Paeon's care the bleeding god.[160](#note_160)
+Then gave to Paeon's care the bleeding god. 
 
 With gentle hand the balm he pour'd around,
 
@@ -9022,18 +9284,21 @@ Their task perform'd, and mix among the gods.
 
 ![Illustration: JUNO.](images/image20a.png "JUNO.")
 
-JUNO.
+ 
 
-* * *
 
-\[pg 109\]
 
-BOOK VI.
-========
+---
+
+ 
+
+### BOOK VI. THE EPISODES OF GLAUCUS AND DIOMED, AND OF HECTOR AND ANDROMACHE.
+
+
+
 
 ARGUMENT.
 
-THE EPISODES OF GLAUCUS AND DIOMED, AND OF HECTOR AND ANDROMACHE.
 
 The gods having left the field, the Grecians prevail. Helenus, the chief augur of Troy, commands Hector to return to the city, in order to appoint a solemn procession of the queen and the Trojan matrons to the temple of Minerva, to entreat her to remove Diomed from the fight. The battle relaxing during the absence of Hector, Glaucus and Diomed have an interview between the two armies; where, coming to the knowledge, of the friendship and hospitality passed between their ancestors, they make exchange of their arms. Hector, having performed the orders of Helenus, prevails upon Paris to return to the battle, and, taking a tender leave of his wife Andromache, hastens again to the field.
 
@@ -9071,7 +9336,7 @@ Next Teuthras' son distain'd the sands with blood,
 
 Axylus, hospitable, rich, and good:
 
-In fair Arisbe's walls (his native place)[161](#note_161)
+In fair Arisbe's walls (his native place) 
 
 He held his seat! a friend to human race.
 
@@ -9083,7 +9348,7 @@ To stern Tydides now he falls a prey,
 
 No friend to guard him in the dreadful day!
 
-\[pg 110\]
+ 
 
 Breathless the good man fell, and by his side
 
@@ -9121,7 +9386,7 @@ Great Agamemnon, leader of the brave,
 
 The mortal wound of rich Elatus gave,
 
-Who held in Pedasus his proud abode,[162](#note_162)
+Who held in Pedasus his proud abode, 
 
 And till'd the banks where silver Satnio flow'd.
 
@@ -9161,7 +9426,7 @@ When fame shall tell, that, not in battle slain,
 
 Thy hollow ships his captive son detain:
 
-Rich heaps of brass shall in thy tent be told,[163](#note_163)
+Rich heaps of brass shall in thy tent be told, 
 
 And steel well-temper'd, and persuasive gold."
 
@@ -9171,11 +9436,11 @@ He stood, suspended with the lifted dart:
 
 As pity pleaded for his vanquish'd prize,
 
-\[pg 111\]
+ 
 
 Stern Agamemnon swift to vengeance flies,
 
-And, furious, thus: "Oh impotent of mind![164](#note_164)
+And, furious, thus: "Oh impotent of mind! 
 
 Shall these, shall these Atrides' mercy find?
 
@@ -9189,7 +9454,7 @@ Shall save a Trojan from our boundless rage:
 
 Ilion shall perish whole, and bury all;
 
-Her babes, her infants at the breast, shall fall;[165](#note_165)
+Her babes, her infants at the breast, shall fall; 
 
 A dreadful lesson of exampled fate,
 
@@ -9257,13 +9522,13 @@ These straits demand our last remains of might.
 
 Meanwhile thou, Hector, to the town retire,
 
-\[pg 112\]
+ 
 
 And teach our mother what the gods require:
 
 Direct the queen to lead the assembled train
 
-Of Troy's chief matrons to Minerva's fane;[166](#note_166)
+Of Troy's chief matrons to Minerva's fane; 
 
 Unbar the sacred gates, and seek the power,
 
@@ -9337,9 +9602,9 @@ His neck o'ershading, to his ankle hung;
 
 And as he march'd the brazen buckler rung.
 
-Now paused the battle (godlike Hector gone),[167](#note_167)
+Now paused the battle (godlike Hector gone), 
 
-\[pg 113\]
+ 
 
 Where daring Glaucus and great Tydeus' son
 
@@ -9437,7 +9702,7 @@ Great Glaucus, father of Bellerophon,
 
 Who o'er the sons of men in beauty shined,
 
-\[pg 114\]
+ 
 
 Loved for that valour which preserves mankind.
 
@@ -9467,7 +9732,7 @@ But hospitable laws restrain'd his hate:
 
 To Lycia the devoted youth he sent,
 
-With tablets seal'd, that told his dire intent.[168](#note_168)
+With tablets seal'd, that told his dire intent. 
 
 Now bless'd by every power who guards the good,
 
@@ -9501,7 +9766,7 @@ Her gaping throat emits infernal fire.
 
 And trusted heaven's informing prodigies,)
 
-Then met in arms the Solymaean crew,[169](#note_169)
+Then met in arms the Solymaean crew, 
 
 (Fiercest of men,) and those the warrior slew;
 
@@ -9533,7 +9798,7 @@ There long the chief his happy lot possess'd,
 
 With two brave sons and one fair daughter bless'd;
 
-\[pg 115\]
+ 
 
 (Fair e'en in heavenly eyes: her fruitful love
 
@@ -9545,7 +9810,7 @@ Forsook by heaven, forsaking humankind,
 
 Wide o'er the Aleian field he chose to stray,
 
-A long, forlorn, uncomfortable way![170](#note_170)
+A long, forlorn, uncomfortable way! 
 
 Woes heap'd on woes consumed his wasted heart:
 
@@ -9629,7 +9894,7 @@ Thus having said, the gallant chiefs alight,
 
 Their hands they join, their mutual faith they plight;
 
-\[pg 116\]
+ 
 
 Brave Glaucus then each narrow thought resign'd,
 
@@ -9639,13 +9904,13 @@ For Diomed's brass arms, of mean device,
 
 For which nine oxen paid, (a vulgar price,)
 
-He gave his own, of gold divinely wrought,[171](#note_171)
+He gave his own, of gold divinely wrought, 
 
 A hundred beeves the shining purchase bought.
 
 Meantime the guardian of the Trojan state,
 
-Great Hector, enter'd at the Scaean gate.[172](#note_172)
+Great Hector, enter'd at the Scaean gate. 
 
 Beneath the beech-tree's consecrated shades,
 
@@ -9667,7 +9932,7 @@ O'er these a range of marble structure runs,
 
 The rich pavilions of his fifty sons,
 
-In fifty chambers lodged: and rooms of state,[173](#note_173)
+In fifty chambers lodged: and rooms of state, 
 
 Opposed to those, where Priam's daughters sate.
 
@@ -9719,7 +9984,7 @@ Let chiefs abstain, and spare the sacred juice
 
 To sprinkle to the gods, its better use.
 
-\[pg 117\]
+ 
 
 By me that holy office were profaned;
 
@@ -9759,7 +10024,7 @@ The recreant warrior hear the voice of fame.
 
 Oh, would kind earth the hateful wretch embrace,
 
-That pest of Troy, that ruin of our race![174](#note_174)
+That pest of Troy, that ruin of our race! 
 
 Deep to the dark abyss might he descend,
 
@@ -9805,7 +10070,7 @@ With hands uplifted and imploring eyes,
 
 They fill the dome with supplicating cries.
 
-\[pg 118\]
+ 
 
 The priestess then the shining veil displays,
 
@@ -9833,7 +10098,7 @@ So vow'd the matrons, but they vow'd in vain.
 
 While these appear before the power with prayers,
 
-Hector to Paris' lofty dome repairs.[175](#note_175)
+Hector to Paris' lofty dome repairs. 
 
 Himself the mansion raised, from every part
 
@@ -9893,7 +10158,7 @@ And all the Phrygian glories at an end."
 
 "Brother, 'tis just, (replied the beauteous youth,)
 
-\[pg 119\]
+ 
 
 Thy free remonstrance proves thy worth and truth:
 
@@ -9919,7 +10184,7 @@ Or go, and Paris shall not lag behind."
 
 ![Illustration: HECTOR CHIDING PARIS.](images/image21.png "HECTOR CHIDING PARIS.")
 
-HECTOR CHIDING PARIS.
+ 
 
 He said, nor answer'd Priam's warlike son;
 
@@ -9957,7 +10222,7 @@ The gods have link'd our miserable doom,
 
 Our present woe, and infamy to come:
 
-\[pg 120\]
+ 
 
 Wide shall it spread, and last through ages long,
 
@@ -10059,7 +10324,7 @@ The nurse stood near, in whose embraces press'd,
 
 His only hope hung smiling at her breast,
 
-\[pg 121\]
+ 
 
 Whom each soft charm and early grace adorn,
 
@@ -10087,7 +10352,7 @@ And the big tear stood trembling in her eye.
 
 ![Illustration: THE MEETING OF HECTOR AND ANDROMACHE.](images/image22.png "THE MEETING OF HECTOR AND ANDROMACHE.")
 
-THE MEETING OF HECTOR AND ANDROMACHE.
+ 
 
 "Too daring prince! ah, whither dost thou run?
 
@@ -10121,7 +10386,7 @@ The fierce Achilles wrapt our walls in fire,
 
 Laid Thebe waste, and slew my warlike sire!
 
-\[pg 122\]
+ 
 
 His fate compassion in the victor bred;
 
@@ -10223,7 +10488,7 @@ And yet no dire presage so wounds my mind,
 
 My mother's death, the ruin of my kind,
 
-\[pg 123\]
+ 
 
 Not Priam's hoary hairs defiled with gore,
 
@@ -10325,7 +10590,7 @@ And dried the falling drops, and thus pursued:
 
 Why with untimely sorrows heaves thy heart?
 
-\[pg 124\]
+ 
 
 No hostile hand can antedate my doom,
 
@@ -10379,7 +10644,7 @@ In brazen arms that cast a gleamy ray,
 
 Swift through the town the warrior bends his way.
 
-The wanton courser thus with reins unbound[176](#note_176)
+The wanton courser thus with reins unbound 
 
 Breaks from his stall, and beats the trembling ground;
 
@@ -10417,7 +10682,7 @@ Known is thy courage, and thy strength confess'd.
 
 What pity sloth should seize a soul so brave,
 
-\[pg 125\]
+ 
 
 Or godlike Paris live a woman's slave!
 
@@ -10439,24 +10704,27 @@ And Greece indignant through her seas returns."
 
 ![Illustration: BOWS AND BOW CASE.](images/image23.png "BOWS AND BOW CASE.")
 
-BOWS AND BOW CASE.
+ 
 
-\[pg 126\]
+ 
 
 ![Illustration: IRIS.](images/image24.png "IRIS.")
 
-IRIS.
+ 
 
-* * *
 
-\[pg 127\]
 
-BOOK VII.
-=========
+---
+
+ 
+
+### BOOK VII. THE SINGLE COMBAT OF HECTOR AND AJAX.
+
+
 
 ARGUMENT
 
-THE SINGLE COMBAT OF HECTOR AND AJAX.
+
 
 The battle renewing with double ardour upon the return of Hector, Minerva is under apprehensions for the Greeks. Apollo, seeing her descend from Olympus, joins her near the Scaean gate. They agree to put off the general engagement for that day, and incite Hector to challenge the Greeks to a single combat. Nine of the princes accepting the challenge, the lot is cast and falls upon Ajax. These heroes, after several attacks, are parted by the night. The Trojans calling a council, Antenor purposes the delivery of Helen to the Greeks, to which Paris will not consent, but offers to restore them her riches. Priam sends a herald to make this offer, and to demand a truce for burning the dead, the last of which only is agreed to by Agamemnon. When the funerals are performed, the Greeks, pursuant to the advice of Nestor, erect a fortification to protect their fleet and camp, flanked with towers, and defended by a ditch and palisades. Neptune testifies his jealousy at this work, but is pacified by a promise from Jupiter. Both armies pass the night in feasting but Jupiter disheartens the Trojans with thunder, and other signs of his wrath.
 
@@ -10492,9 +10760,9 @@ The pleasing Arne was his native place.
 
 Then sunk Eioneus to the shades below,
 
-Beneath his steely casque he felt the blow[177](#note_177)
+Beneath his steely casque he felt the blow 
 
-\[pg 128\]
+ 
 
 Full on his neck, from Hector's weighty hand;
 
@@ -10592,9 +10860,9 @@ Great Agamemnon bids the Greeks forbear:
 
 They breathe, and hush the tumult of the war.
 
-The Athenian maid, and glorious god of day,[178](#note_178)
+The Athenian maid, and glorious god of day, 
 
-\[pg 129\]
+ 
 
 With silent joy the settling hosts survey:
 
@@ -10696,7 +10964,7 @@ A heartless, spiritless, inglorious crew!
 
 Be what ye seem, unanimated clay,
 
-\[pg 130\]
+ 
 
 Myself will dare the danger of the day;
 
@@ -10798,9 +11066,9 @@ I led my troops to Phea's trembling wall,
 
 And with the Arcadian spears my prowess tried,
 
-\[pg 131\]
+ 
 
-Where Celadon rolls down his rapid tide.[179](#note_179)
+Where Celadon rolls down his rapid tide. 
 
 There Ereuthalion braved us in the field,
 
@@ -10870,7 +11138,7 @@ Then bold Tydides, great in arms, appear'd;
 
 And next his bulk gigantic Ajax rear'd;
 
-Oileus follow'd; Idomen was there,[180](#note_180)
+Oileus follow'd; Idomen was there, 
 
 And Merion, dreadful as the god of war:
 
@@ -10892,9 +11160,9 @@ His country's fame, his own immortal praise."
 
 The lots produced, each hero signs his own:
 
-Then in the general's helm the fates are thrown,[181](#note_181)
+Then in the general's helm the fates are thrown, 
 
-\[pg 132\]
+ 
 
 The people pray, with lifted eyes and hands,
 
@@ -10974,7 +11242,7 @@ Sheathed in bright steel the giant-warrior shone:
 
 He moves to combat with majestic pace;
 
-So stalks in arms the grisly god of Thrace,[182](#note_182)
+So stalks in arms the grisly god of Thrace, 
 
 When Jove to punish faithless men prepares,
 
@@ -10982,9 +11250,9 @@ And gives whole nations to the waste of wars,
 
 Thus march'd the chief, tremendous as a god;
 
-Grimly he smiled; earth trembled as he strode:[183](#note_183)
+Grimly he smiled; earth trembled as he strode: 
 
-\[pg 133\]
+ 
 
 His massy javelin quivering in his hand,
 
@@ -11086,7 +11354,7 @@ From their bored shields the chiefs their javelins drew,
 
 Then close impetuous, and the charge renew;
 
-\[pg 134\]
+ 
 
 Fierce as the mountain-lions bathed in blood,
 
@@ -11144,7 +11412,7 @@ Divine Talthybius, whom the Greeks employ.
 
 And sage Idaeus on the part of Troy,
 
-\[pg 135\]
+ 
 
 Between the swords their peaceful sceptres rear'd;
 
@@ -11152,7 +11420,7 @@ And first Idaeus' awful voice was heard:
 
 ![Illustration: HECTOR AND AJAX SEPARATED BY THE HERALDS.](images/image25.png "HECTOR AND AJAX SEPARATED BY THE HERALDS.")
 
-HECTOR AND AJAX SEPARATED BY THE HERALDS.
+ 
 
 "Forbear, my sons! your further force to prove,
 
@@ -11164,7 +11432,7 @@ Each sounds your praise, and war is all your own.
 
 But now the Night extends her awful shade;
 
-The goddess parts you; be the night obey'd."[184](#note_184)
+The goddess parts you; be the night obey'd." 
 
 To whom great Ajax his high soul express'd:
 
@@ -11242,7 +11510,7 @@ The well-arm'd Greeks to Agamemnon lead.
 
 A steer for sacrifice the king design'd,
 
-\[pg 136\]
+ 
 
 Of full five years, and of the nobler kind.
 
@@ -11256,7 +11524,7 @@ Each takes his seat, and each receives his share.
 
 The king himself (an honorary sign)
 
-Before great Ajax placed the mighty chine.[185](#note_185)
+Before great Ajax placed the mighty chine. 
 
 When now the rage of hunger was removed,
 
@@ -11338,7 +11606,7 @@ As this advice ye practise, or reject,
 
 So hope success, or dread the dire effect."
 
-\[pg 137\]
+ 
 
 The senior spoke and sate. To whom replied
 
@@ -11440,7 +11708,7 @@ At length Tydides rose, and rising spoke:
 
 Their proffer'd wealth, nor even the Spartan dame.
 
-\[pg 138\]
+ 
 
 Let conquest make them ours: fate shakes their wall,
 
@@ -11528,9 +11796,9 @@ And round the pile a general tomb they rear'd.
 
 Then, to secure the camp and naval powers,
 
-They raised embattled walls with lofty towers:[186](#note_186)
+They raised embattled walls with lofty towers: 
 
-\[pg 139\]
+ 
 
 From space to space were ample gates around,
 
@@ -11580,7 +11848,7 @@ That clouds the world, and blackens half the skies:
 
 The solid earth's eternal basis shake!
 
-What cause of fear from mortal works could move[187](#note_187)
+What cause of fear from mortal works could move 
 
 The meanest subject of our realms above?
 
@@ -11620,13 +11888,13 @@ A thousant measures to the royal tent.
 
 To Jason, shepherd of his people, bore,)
 
-\[pg 140\]
+ 
 
 The rest they purchased at their proper cost,
 
 And well the plenteous freight supplied the host:
 
-Each, in exchange, proportion'd treasures gave;[188](#note_188)
+Each, in exchange, proportion'd treasures gave; 
 
 Some, brass or iron; some, an ox, or slave.
 
@@ -11652,20 +11920,23 @@ Enjoy'd the balmy blessings of the night.
 
 ![Illustration: GREEK AMPHORA—WINE VESSELS.](images/image26.png "GREEK AMPHORA—WINE VESSELS.")
 
-GREEK AMPHORA—WINE VESSELS.
+ 
 
-* * *
 
-\[pg 141\]
 
-BOOK VIII.
-==========
+---
+
+ 
+
+### BOOK VIII. THE SECOND BATTLE, AND THE DISTRESS OF THE GREEKS.
+
+
 
 ARGUMENT.
 
-THE SECOND BATTLE, AND THE DISTRESS OF THE GREEKS.
 
-Jupiter assembles a council of the deities, and threatens them with the pains of Tartarus if they assist either side: Minerva only obtains of him that she may direct the Greeks by her counsels.[189](#note_189) his balances the fates of both, and affrights the Greeks with his thunders and lightnings. Nestor alone continues in the field in great danger: Diomed relieves him; whose exploits, and those of Hector, are excellently described. Juno endeavours to animate Neptune to the assistance of the Greeks, but in vain. The acts of Teucer, who is at length wounded by Hector, and carried off. Juno and Minerva prepare to aid the Grecians, but are restrained by Iris, sent from Jupiter. The night puts an end to the battle. Hector continues in the field, (the Greeks being driven to their fortifications before the ships,) and gives orders to keep the watch all night in the camp, to prevent the enemy from re-embarking and escaping by flight. They kindle fires through all the fields, and pass the night under arms.
+
+Jupiter assembles a council of the deities, and threatens them with the pains of Tartarus if they assist either side: Minerva only obtains of him that she may direct the Greeks by her counsels.  his balances the fates of both, and affrights the Greeks with his thunders and lightnings. Nestor alone continues in the field in great danger: Diomed relieves him; whose exploits, and those of Hector, are excellently described. Juno endeavours to animate Neptune to the assistance of the Greeks, but in vain. The acts of Teucer, who is at length wounded by Hector, and carried off. Juno and Minerva prepare to aid the Grecians, but are restrained by Iris, sent from Jupiter. The night puts an end to the battle. Hector continues in the field, (the Greeks being driven to their fortifications before the ships,) and gives orders to keep the watch all night in the camp, to prevent the enemy from re-embarking and escaping by flight. They kindle fires through all the fields, and pass the night under arms.
 
 The time of seven and twenty days is employed from the opening of the poem to the end of this book. The scene here (except of the celestial machines) lies in the field towards the seashore.
 
@@ -11689,7 +11960,7 @@ The fix'd decree which not all heaven can move;
 
 Thou, fate! fulfil it! and, ye powers, approve!
 
-\[pg 142\]
+ 
 
 What god but enters yon forbidden field,
 
@@ -11707,7 +11978,7 @@ With burning chains fix'd to the brazen floors,
 
 And lock'd by hell's inexorable doors;
 
-As deep beneath the infernal centre hurl'd,[190](#note_190)
+As deep beneath the infernal centre hurl'd, 
 
 As from that centre to the ethereal world.
 
@@ -11719,7 +11990,7 @@ League all your forces, then, ye powers above,
 
 Join all, and try the omnipotence of Jove.
 
-Let down our golden everlasting chain[191](#note_191)
+Let down our golden everlasting chain 
 
 Whose strong embrace holds heaven, and earth, and main
 
@@ -11763,7 +12034,7 @@ Yet grant my counsels still their breasts may move,
 
 Or all must perish in the wrath of Jove."
 
-\[pg 143\]
+ 
 
 The cloud-compelling god her suit approved,
 
@@ -11847,9 +12118,9 @@ Each adverse battle gored with equal wounds.
 
 But when the sun the height of heaven ascends,
 
-The sire of gods his golden scales suspends,[192](#note_192)
+The sire of gods his golden scales suspends, 
 
-\[pg 144\]
+ 
 
 With equal hand: in these explored the fate
 
@@ -11943,7 +12214,7 @@ Then haste, ascend my seat, and from the car
 
 Observe the steeds of Tros, renown'd in war.
 
-\[pg 145\]
+ 
 
 Practised alike to turn, to stop, to chase,
 
@@ -11993,7 +12264,7 @@ Till, to supply his place and rule the car,
 
 Rose Archeptolemus, the fierce in war.
 
-And now had death and horror cover'd all;[193](#note_193)
+And now had death and horror cover'd all; 
 
 Like timorous flocks the Trojans in their wall
 
@@ -12037,13 +12308,13 @@ But ah, what grief! should haughty Hector boast
 
 I fled inglorious to the guarded coast.
 
-\[pg 146\]
+ 
 
 Before that dire disgrace shall blast my fame,
 
 O'erwhelm me, earth; and hide a warrior's shame!"
 
-To whom Gerenian Nestor thus replied:[194](#note_194)
+To whom Gerenian Nestor thus replied: 
 
 "Gods! can thy courage fear the Phrygian's pride?
 
@@ -12133,7 +12404,7 @@ Encouraged his proud steeds, while thus he spoke:
 
 And thou, Podargus! prove thy generous race;
 
-\[pg 147\]
+ 
 
 Be fleet, be fearless, this important day,
 
@@ -12171,7 +12442,7 @@ Seest thou the Greeks by fates unjust oppress'd,
 
 Nor swells thy heart in that immortal breast?
 
-Yet Ægae, Helice, thy power obey,[195](#note_195)
+Yet Ægae, Helice, thy power obey, 
 
 And gifts unceasing on thine altars lay.
 
@@ -12233,7 +12504,7 @@ The hollow vessels to his voice replied,)
 
 Where now are all your glorious boasts of yore,
 
-\[pg 148\]
+ 
 
 Your hasty triumphs on the Lemnian shore?
 
@@ -12335,7 +12606,7 @@ The conscious infant so, when fear alarms,
 
 Retires for safety to the mother's arms.
 
-\[pg 149\]
+ 
 
 Thus Ajax guards his brother in the field,
 
@@ -12425,11 +12696,11 @@ And drench'd in royal blood the thirsty dart.
 
 This offspring added to king Priam's line.)
 
-As full-blown poppies, overcharged with rain,[196](#note_196)
+As full-blown poppies, overcharged with rain, 
 
 Decline the head, and drooping kiss the plain;
 
-\[pg 150\]
+ 
 
 So sinks the youth: his beauteous head, depress'd
 
@@ -12531,7 +12802,7 @@ Their strong distress the wife of Jove survey'd;
 
 Then pensive thus, to war's triumphant maid:
 
-\[pg 151\]
+ 
 
 "O daughter of that god, whose arm can wield
 
@@ -12633,7 +12904,7 @@ His cuirass blazes on her ample breast.
 
 The vigorous power the trembling car ascends:
 
-\[pg 152\]
+ 
 
 Shook by her arm, the massy javelin bends:
 
@@ -12667,7 +12938,7 @@ And thus enjoin'd the many-colour'd maid.
 
 ![Illustration: JUNO AND MINERVA GOING TO ASSIST THE GREEKS.](images/image27.png "JUNO AND MINERVA GOING TO ASSIST THE GREEKS.")
 
-JUNO AND MINERVA GOING TO ASSIST THE GREEKS.
+ 
 
 "Thaumantia! mount the winds, and stop their car;
 
@@ -12693,7 +12964,7 @@ So shall Minerva learn to fear our ire,
 
 Nor dare to combat hers and nature's sire.
 
-\[pg 153\]
+ 
 
 For Juno, headstrong and imperious still,
 
@@ -12781,7 +13052,7 @@ Mix with the gods, and fill their seats of gold.
 
 ![Illustration: THE HOURS TAKING THE HORSES FROM JUNO'S CAR.](images/image28.png "THE HOURS TAKING THE HORSES FROM JUNO'S CAR.")
 
-THE HOURS TAKING THE HORSES FROM JUNO'S CAR.
+ 
 
 And now the Thunderer meditates his flight
 
@@ -12799,7 +13070,7 @@ There stood the chariot, beaming forth its rays,
 
 Till with a snowy veil he screen'd the blaze.
 
-\[pg 154\]
+ 
 
 He, whose all-conscious eyes the world behold,
 
@@ -12861,7 +13132,7 @@ For Greece we grieve, abandon'd by her fate
 
 To drink the dregs of thy unmeasured hate.
 
-\[pg 155\]
+ 
 
 From fields forbidden we submiss refrain,
 
@@ -12963,7 +13234,7 @@ Our steeds to forage, and refresh our powers.
 
 Straight from the town be sheep and oxen sought,
 
-\[pg 156\]
+ 
 
 And strengthening bread and generous wine be brought
 
@@ -13065,11 +13336,11 @@ With generous wine, and all-sustaining bread,
 
 Full hecatombs lay burning on the shore:
 
-\[pg 157\]
+ 
 
 The winds to heaven the curling vapours bore.
 
-Ungrateful offering to the immortal powers![197](#note_197)
+Ungrateful offering to the immortal powers! 
 
 Whose wrath hung heavy o'er the Trojan towers:
 
@@ -13081,7 +13352,7 @@ The troops exulting sat in order round,
 
 And beaming fires illumined all the ground.
 
-As when the moon, refulgent lamp of night,[198](#note_198)
+As when the moon, refulgent lamp of night, 
 
 O'er heaven's pure azure spreads her sacred light,
 
@@ -13125,22 +13396,25 @@ Loud neigh the coursers o'er their heaps of corn,
 
 And ardent warriors wait the rising morn.
 
-\[pg 158\]
+ 
 
 ![Illustration: THE SHIELD OF ACHILLES.](images/image29.png "THE SHIELD OF ACHILLES.")
 
-THE SHIELD OF ACHILLES.
+ 
 
-* * *
 
-\[pg 159\]
 
-BOOK IX.
-========
+---
+
+ 
+
+### BOOK IX. THE EMBASSY TO ACHILLES.
+
+
 
 ARGUMENT.
 
-THE EMBASSY TO ACHILLES.
+
 
 Agamemnon, after the last day's defeat, proposes to the Greeks to quit the siege, and return to their country. Diomed opposes this, and Nestor seconds him, praising his wisdom and resolution. He orders the guard to be strengthened, and a council summoned to deliberate what measures are to be followed in this emergency. Agamemnon pursues this advice, and Nestor further prevails upon him to send ambassadors to Achilles, in order to move him to a reconciliation. Ulysses and Ajax are made choice of, who are accompanied by old Phoenix. They make, each of them, very moving and pressing speeches, but are rejected with roughness by Achilles, who notwithstanding retains Phoenix in his tent. The ambassadors return unsuccessfully to the camp, and the troops betake themselves to sleep.
 
@@ -13148,7 +13422,7 @@ This book, and the next following, take up the space of one night, which is the 
 
 Thus joyful Troy maintain'd the watch of night;
 
-While fear, pale comrade of inglorious flight,[199](#note_199)
+While fear, pale comrade of inglorious flight, 
 
 And heaven-bred horror, on the Grecian part,
 
@@ -13182,7 +13456,7 @@ The king amidst the mournful circle rose:
 
 Down his wan cheek a briny torrent flows.
 
-\[pg 160\]
+ 
 
 So silent fountains, from a rock's tall head,
 
@@ -13284,7 +13558,7 @@ Myself, and Sthenelus, will fight for fame;
 
 God bade us fight, and 'twas with God we came."
 
-\[pg 161\]
+ 
 
 He ceased; the Greeks loud acclamations raise,
 
@@ -13292,7 +13566,7 @@ And voice to voice resounds Tydides' praise.
 
 Wise Nestor then his reverend figure rear'd;
 
-He spoke: the host in still attention heard:[200](#note_200)
+He spoke: the host in still attention heard: 
 
 "O truly great! in whom the gods have join'd
 
@@ -13378,7 +13652,7 @@ Next him, Ascalaphus, Ialmen, stood,
 
 The double offspring of the warrior-god:
 
-\[pg 162\]
+ 
 
 Deipyrus, Aphareus, Merion join,
 
@@ -13460,11 +13734,11 @@ Fain would my heart, which err'd through frantic rage,
 
 The wrathful chief and angry gods assuage.
 
-If gifts immense his mighty soul can bow,[201](#note_201)
+If gifts immense his mighty soul can bow, 
 
 Hear, all ye Greeks, and witness what I vow.
 
-\[pg 163\]
+ 
 
 Ten weighty talents of the purest gold,
 
@@ -13500,7 +13774,7 @@ And solemn swear those charms were never mine;
 
 Untouch'd she stay'd, uninjured she removes,
 
-Pure from my arms, and guiltless of my loves,[202](#note_202)
+Pure from my arms, and guiltless of my loves, 
 
 These instant shall be his; and if the powers
 
@@ -13530,7 +13804,7 @@ Yet more—three daughters in my court are bred,
 
 And each well worthy of a royal bed;
 
-Laodice and Iphigenia fair,[203](#note_203)
+Laodice and Iphigenia fair, 
 
 And bright Chrysothemis with golden hair;
 
@@ -13552,9 +13826,9 @@ And sacred Pedasus for vines renown'd;
 
 Æpea fair, the pastures Hira yields,
 
-And rich Antheia with her flowery fields:[204](#note_204)
+And rich Antheia with her flowery fields: 
 
-\[pg 164\]
+ 
 
 The whole extent to Pylos' sandy plain,
 
@@ -13586,7 +13860,7 @@ Since more than his my years, and more my sway."
 
 ![Illustration: PLUTO.](images/image32.png "PLUTO.")
 
-PLUTO.
+ 
 
 The monarch thus. The reverend Nestor then:
 
@@ -13608,15 +13882,15 @@ Yet more to sanctify the word you send,
 
 Let Hodius and Eurybates attend.
 
-\[pg 165\]
+ 
 
 Now pray to Jove to grant what Greece demands;
 
-Pray in deep silence,[205](#note_205) and with purest hands."[206](#note_206)
+Pray in deep silence, 
 
 ![Illustration: THE EMBASSY TO ACHILLES.](images/image33.png "THE EMBASSY TO ACHILLES.")
 
-THE EMBASSY TO ACHILLES.
+ 
 
 He said; and all approved. The heralds bring
 
@@ -13662,7 +13936,7 @@ Pleased with the solemn harp's harmonious sound.
 
 Of polish'd silver was its costly frame.)
 
-\[pg 166\]
+ 
 
 With this he soothes his angry soul, and sings
 
@@ -13764,7 +14038,7 @@ Though generous plenty crown thy loaded boards,
 
 That, Agamemnon's regal tent affords;
 
-\[pg 167\]
+ 
 
 But greater cares sit heavy on our souls,
 
@@ -13866,7 +14140,7 @@ Yet knows no office, nor has felt the flame;
 
 Twelve steeds unmatched in fleetness and in force,
 
-\[pg 168\]
+ 
 
 And still victorious in the dusty course;
 
@@ -13968,7 +14242,7 @@ If honour and if interest plead in vain,
 
 Yet some redress to suppliant Greece afford,
 
-\[pg 169\]
+ 
 
 And be, amongst her guardian gods, adored.
 
@@ -14036,7 +14310,7 @@ Long sleepless nights in heavy arms I stood,
 
 And sweat laborious days in dust and blood.
 
-I sack'd twelve ample cities on the main,[207](#note_207)
+I sack'd twelve ample cities on the main, 
 
 And twelve lay smoking on the Trojan plain:
 
@@ -14062,7 +14336,7 @@ My spouse alone must bless his lustful nights:
 
 The woman, let him (as he may) enjoy;
 
-\[pg 170\]
+ 
 
 But what's the quarrel, then, of Greece to Troy?
 
@@ -14120,13 +14394,13 @@ Then shall you see our parting vessels crown'd,
 
 And hear with oars the Hellespont resound.
 
-The third day hence shall Pthia greet our sails,[208](#note_208)
+The third day hence shall Pthia greet our sails, 
 
 If mighty Neptune send propitious gales;
 
 Pthia to her Achilles shall restore
 
-\[pg 171\]
+ 
 
 The wealth he left for this detested shore:
 
@@ -14174,7 +14448,7 @@ And all his rapine could from others wrest:
 
 Not all the golden tides of wealth that crown
 
-The many-peopled Orchomenian town;[209](#note_209)
+The many-peopled Orchomenian town; 
 
 Not all proud Thebes' unrivall'd walls contain,
 
@@ -14186,7 +14460,7 @@ And pours her heroes through a hundred gates,
 
 Two hundred horsemen and two hundred cars
 
-From each wide portal issuing to the wars);[210](#note_210)
+From each wide portal issuing to the wars); 
 
 Though bribes were heap'd on bribes, in number more
 
@@ -14210,7 +14484,7 @@ I hate alliance with a tyrant's race.
 
 If heaven restore me to my realms with life,
 
-\[pg 172\]
+ 
 
 The reverend Peleus shall elect my wife;
 
@@ -14292,7 +14566,7 @@ His age be sacred, and his will be free."
 
 ![Illustration: GREEK GALLEY.](images/image30.png "GREEK GALLEY.")
 
-GREEK GALLEY.
+ 
 
 The son of Peleus ceased: the chiefs around
 
@@ -14308,7 +14582,7 @@ With accent weak these tender words return'd.
 
 ![Illustration: PROSERPINE.](images/image31.png "PROSERPINE.")
 
-PROSERPINE.
+ 
 
 "Divine Achilles! wilt thou then retire,
 
@@ -14320,7 +14594,7 @@ How shall thy friend, thy Phoenix, stay behind?
 
 The royal Peleus, when from Pthia's coast
 
-\[pg 173\]
+ 
 
 He sent thee early to the Achaian host;
 
@@ -14400,7 +14674,7 @@ By love to thee his bounties I repaid,
 
 And early wisdom to thy soul convey'd:
 
-\[pg 174\]
+ 
 
 Great as thou art, my lessons made thee brave:
 
@@ -14412,7 +14686,7 @@ Still in my arms (an ever-pleasing load)
 
 Or at my knee, by Phoenix wouldst thou stand;
 
-No food was grateful but from Phoenix' hand.[211](#note_211)
+No food was grateful but from Phoenix' hand. 
 
 I pass my watchings o'er thy helpless years,
 
@@ -14472,7 +14746,7 @@ Due honours to the seed of Jove belong,
 
 Due honours calm the fierce, and bend the strong.
 
-\[pg 175\]
+ 
 
 Were these not paid thee by the terms we bring,
 
@@ -14498,7 +14772,7 @@ Hear what our fathers were, and what their praise,
 
 Who conquer'd their revenge in former days.
 
-"Where Calydon on rocky mountains stands[212](#note_212)
+"Where Calydon on rocky mountains stands 
 
 Once fought the Ætolian and Curetian bands;
 
@@ -14568,7 +14842,7 @@ And the red fiends that walk the nightly round.
 
 In vain Ætolia her deliverer waits,
 
-\[pg 176\]
+ 
 
 War shakes her walls, and thunders at her gates.
 
@@ -14670,7 +14944,7 @@ And thus, impatient, to Ulysses spoke:
 
 "Hence let us go—why waste we time in vain?
 
-\[pg 177\]
+ 
 
 See what effect our low submissions gain!
 
@@ -14692,7 +14966,7 @@ The price of blood discharged, the murderer lives:
 
 The haughtiest hearts at length their rage resign,
 
-And gifts can conquer every soul but thine.[213](#note_213)
+And gifts can conquer every soul but thine. 
 
 The gods that unrelenting breast have steel'd,
 
@@ -14764,7 +15038,7 @@ Last, for Patroclus was the couch prepared,
 
 Whose nightly joys the beauteous Iphis shared;
 
-\[pg 178\]
+ 
 
 Achilles to his friend consign'd her charms
 
@@ -14866,7 +15140,7 @@ In the dread front let great Atrides stand,
 
 The first in danger, as in high command."
 
-\[pg 179\]
+ 
 
 Shouts of acclaim the listening heroes raise,
 
@@ -14874,22 +15148,25 @@ Then each to Heaven the due libations pays;
 
 Till sleep, descending o'er the tents, bestows
 
-The grateful blessings of desired repose."[214](#note_214)
+The grateful blessings of desired repose." 
 
 ![Illustration: ACHILLES.](images/image34.png "ACHILLES.")
 
-ACHILLES.
+ 
 
-* * *
 
-\[pg 180\]
 
-BOOK X.
-=======
+---
+
+ 
+
+### BOOK X. THE NIGHT-ADVENTURE OF DIOMED AND ULYSSES.
+
+
 
 ARGUMENT.
 
-THE NIGHT-ADVENTURE OF DIOMED AND ULYSSES.
+
 
 Upon the refusal of Achilles to return to the army, the distress of Agamemnon is described in the most lively manner. He takes no rest that night, but passes through the camp, awaking the leaders, and contriving all possible methods for the public safety. Menelaus, Nestor, Ulysses, and Diomed are employed in raising the rest of the captains. They call a council of war, and determine to send scouts into the enemies' camp, to learn their posture, and discover their intentions. Diomed undertakes this hazardous enterprise, and makes choice of Ulysses for his companion. In their passage they surprise Dolon, whom Hector had sent on a like design to the camp of the Grecians. From him they are informed of the situation of the Trojan and auxiliary forces, and particularly of Rhesus, and the Thracians who were lately arrived. They pass on with success; kill Rhesus, with several of his officers, and seize the famous horses of that prince, with which they return in triumph to the camp.
 
@@ -14899,7 +15176,7 @@ All night the chiefs before their vessels lay,
 
 And lost in sleep the labours of the day:
 
-All but the king: with various thoughts oppress'd,[215](#note_215)
+All but the king: with various thoughts oppress'd, 
 
 His country's cares lay rolling in his breast.
 
@@ -14927,7 +15204,7 @@ Hears in the passing wind their music blow,
 
 And marks distinct the voices of the foe.
 
-\[pg 181\]
+ 
 
 Now looking backwards to the fleet and coast,
 
@@ -15029,7 +15306,7 @@ Ourself to hoary Nestor will repair;
 
 To keep the guards on duty be his care,
 
-\[pg 182\]
+ 
 
 (For Nestor's influence best that quarter guides,
 
@@ -15131,7 +15408,7 @@ Nor think proud Hector's hopes confirm'd by Jove:
 
 How ill agree the views of vain mankind,
 
-\[pg 183\]
+ 
 
 And the wise counsels of the eternal mind!
 
@@ -15153,7 +15430,7 @@ Some other be despatch'd of nimbler feet,
 
 To those tall ships, remotest of the fleet,
 
-Where lie great Ajax and the king of Crete.[216](#note_216)
+Where lie great Ajax and the king of Crete. 
 
 To rouse the Spartan I myself decree;
 
@@ -15231,7 +15508,7 @@ Whatever means of safety can be sought,
 
 Whatever counsels can inspire our thought,
 
-\[pg 184\]
+ 
 
 Whatever methods, or to fly or fight;
 
@@ -15333,7 +15610,7 @@ Springs from the mountains toward the guarded fold:
 
 Through breaking woods her rustling course they hear;
 
-\[pg 185\]
+ 
 
 Loud, and more loud, the clamours strike their ear
 
@@ -15435,7 +15712,7 @@ To raise my hopes, and second my design.
 
 By mutual confidence and mutual aid,
 
-\[pg 186\]
+ 
 
 Great deeds are done, and great discoveries made;
 
@@ -15527,13 +15804,13 @@ A well-proved casque, with leather braces bound,
 
 (Thy gift, Meriones,) his temples crown'd;
 
-Soft wool within; without, in order spread,[217](#note_217)
+Soft wool within; without, in order spread, 
 
 A boar's white teeth grinn'd horrid o'er his head.
 
 This from Amyntor, rich Ormenus' son,
 
-\[pg 187\]
+ 
 
 Autolycus by fraudful rapine won,
 
@@ -15635,7 +15912,7 @@ Dares greatly venture for a rich reward?
 
 Of yonder fleet a bold discovery make,
 
-\[pg 188\]
+ 
 
 What watch they keep, and what resolves they take?
 
@@ -15735,7 +16012,7 @@ But if too swift of foot he flies before,
 
 Confine his course along the fleet and shore,
 
-\[pg 189\]
+ 
 
 Betwixt the camp and him our spears employ,
 
@@ -15837,7 +16114,7 @@ Then thus pale Dolon, with a fearful look:
 
 (Still, as he spoke, his limbs with horror shook:)
 
-\[pg 190\]
+ 
 
 "Hither I came, by Hector's words deceived;
 
@@ -15939,7 +16216,7 @@ Celestial panoply, to grace a god!
 
 Let me, unhappy, to your fleet be borne,
 
-\[pg 191\]
+ 
 
 Or leave me here, a captive's fate to mourn,
 
@@ -16041,7 +16318,7 @@ His thirsty falchion, fat with hostile blood,
 
 Bathed all his footsteps, dyed the fields with gore,
 
-\[pg 192\]
+ 
 
 And a low groan remurmur'd through the shore.
 
@@ -16079,7 +16356,7 @@ A warlike form appear'd before his tent,
 
 Whose visionary steel his bosom tore:
 
-So dream'd the monarch, and awaked no more.[218](#note_218)
+So dream'd the monarch, and awaked no more. 
 
 Ulysses now the snowy steeds detains,
 
@@ -16131,7 +16408,7 @@ And vengeful anger fill'd his sacred breast.
 
 Swift to the Trojan camp descends the power,
 
-\[pg 193\]
+ 
 
 And wakes Hippocoon in the morning-hour;
 
@@ -16169,7 +16446,7 @@ The coursers ply, and thunder towards the fleet.
 
 ![Illustration: DIOMED AND ULYSSES RETURNING WITH THE SPOILS OF RHESUS.](images/image35.png "DIOMED AND ULYSSES RETURNING WITH THE SPOILS OF RHESUS.")
 
-DIOMED AND ULYSSES RETURNING WITH THE SPOILS OF RHESUS.
+ 
 
 Old Nestor first perceived the approaching sound,
 
@@ -16195,7 +16472,7 @@ Perhaps, even now pursued, they seek the shore;
 
 Or, oh! perhaps those heroes are no more."
 
-\[pg 194\]
+ 
 
 Scarce had he spoke, when, lo! the chiefs appear,
 
@@ -16287,22 +16564,25 @@ They sit, rejoicing in her aid divine,
 
 And the crown'd goblet foams with floods of wine.
 
-* * *
 
-\[pg 195\]
 
-BOOK XI.
-========
+---
+
+ 
+
+BOOK XI. THE THIRD BATTLE, AND THE ACTS OF AGAMEMNON.
+
+
 
 ARGUMENT
 
-THE THIRD BATTLE, AND THE ACTS OF AGAMEMNON.
+
 
 Agamemnon, having armed himself, leads the Grecians to battle; Hector prepares the Trojans to receive them, while Jupiter, Juno, and Minerva give the signals of war. Agamemnon bears all before him and Hector is commanded by Jupiter (who sends Iris for that purpose) to decline the engagement, till the king shall be wounded and retire from the field. He then makes a great slaughter of the enemy. Ulysses and Diomed put a stop to him for a time but the latter, being wounded by Paris, is obliged to desert his companion, who is encompassed by the Trojans, wounded, and in the utmost danger, till Menelaus and Ajax rescue him. Hector comes against Ajax, but that hero alone opposes multitudes, and rallies the Greeks. In the meantime Machaon, in the other wing of the army, is pierced with an arrow by Paris, and carried from the fight in Nestor's chariot. Achilles (who overlooked the action from his ship) sent Patroclus to inquire which of the Greeks was wounded in that manner; Nestor entertains him in his tent with an account of the accidents of the day, and a long recital of some former wars which he remembered, tending to put Patroclus upon persuading Achilles to fight for his countrymen, or at least to permit him to do it, clad in Achilles' armour. Patroclus, on his return, meets Eurypylus also wounded, and assists him in that distress.
 
 This book opens with the eight and-twentieth day of the poem, and the same day, with its various actions and adventures is extended through the twelfth, thirteenth, fourteenth, fifteenth, sixteenth, seventeenth, and part of the eighteenth books. The scene lies in the field near the monument of Ilus.
 
-The saffron morn, with early blushes spread,[219](#note_219)
+The saffron morn, with early blushes spread, 
 
 Now rose refulgent from Tithonus' bed;
 
@@ -16322,7 +16602,7 @@ High on Ulysses' bark her horrid stand
 
 She took, and thunder'd through the seas and land.
 
-\[pg 196\]
+ 
 
 Even Ajax and Achilles heard the sound,
 
@@ -16342,7 +16622,7 @@ But breathe revenge, and for the combat burn.
 
 ![Illustration: THE DESCENT OF DISCORD.](images/image36.png "THE DESCENT OF DISCORD.")
 
-THE DESCENT OF DISCORD.
+ 
 
 The king of men his hardy host inspires
 
@@ -16384,7 +16664,7 @@ Like colour'd rainbows o'er a showery cloud
 
 Placed as a sign to man amidst the skies).
 
-\[pg 197\]
+ 
 
 A radiant baldric, o'er his shoulder tied,
 
@@ -16448,7 +16728,7 @@ As with the light the warriors' toils begun.
 
 Even Jove, whose thunder spoke his wrath, distill'd
 
-Red drops of blood o'er all the fatal field;[220](#note_220)
+Red drops of blood o'er all the fatal field; 
 
 The woes of men unwilling to survey,
 
@@ -16478,7 +16758,7 @@ As the red star now shows his sanguine fires
 
 Through the dark clouds, and now in night retires,
 
-\[pg 198\]
+ 
 
 Thus through the ranks appear'd the godlike man,
 
@@ -16500,7 +16780,7 @@ So Greece and Troy the field of war divide,
 
 And falling ranks are strow'd on every side.
 
-None stoop'd a thought to base inglorious flight;[221](#note_221)
+None stoop'd a thought to base inglorious flight; 
 
 But horse to horse, and man to man they fight,
 
@@ -16574,7 +16854,7 @@ Leap'd from the chariot to revenge his king;
 
 But in his front he felt the fatal wound,
 
-\[pg 199\]
+ 
 
 Which pierced his brain, and stretch'd him on the ground.
 
@@ -16588,7 +16868,7 @@ Their snowy limbs and beauteous bodies lie.
 
 Two sons of Priam next to battle move,
 
-The product, one of marriage, one of love:[222](#note_222)
+The product, one of marriage, one of love: 
 
 In the same car the brother-warriors ride;
 
@@ -16670,7 +16950,7 @@ These words, attended with the flood of tears,
 
 The youths address'd to unrelenting ears:
 
-\[pg 200\]
+ 
 
 The vengeful monarch gave this stern reply:
 
@@ -16772,7 +17052,7 @@ So flies a herd of beeves, that hear dismay'd
 
 The lion's roaring through the midnight shade;
 
-\[pg 201\]
+ 
 
 On heaps they tumble with successless haste;
 
@@ -16874,7 +17154,7 @@ New force, new spirit, to each breast returns;
 
 The fight renew'd with fiercer fury burns:
 
-\[pg 202\]
+ 
 
 The king leads on: all fix on him their eye,
 
@@ -16976,7 +17256,7 @@ The thrilling steel transpierced the brawny part,
 
 And through his arm stood forth the barbed dart.
 
-\[pg 203\]
+ 
 
 Surprised the monarch feels, yet void of fear
 
@@ -17078,7 +17358,7 @@ As the bold hunter cheers his hounds to tear
 
 The brindled lion, or the tusky bear:
 
-\[pg 204\]
+ 
 
 With voice and hand provokes their doubting heart,
 
@@ -17180,7 +17460,7 @@ In deep prophetic arts their father skill'd,
 
 Had warn'd his children from the Trojan field.
 
-\[pg 205\]
+ 
 
 Fate urged them on: the father warn'd in vain;
 
@@ -17282,7 +17562,7 @@ Behind the column placed, he bent his bow,
 
 And wing'd an arrow at the unwary foe;
 
-\[pg 206\]
+ 
 
 Just as he stoop'd, Agastrophus's crest
 
@@ -17384,7 +17664,7 @@ He grinds his ivory tusks; he foams with ire;
 
 His sanguine eye-balls glare with living fire;
 
-\[pg 207\]
+ 
 
 By these, by those, on every part is plied;
 
@@ -17486,7 +17766,7 @@ And gladden'd Troy with sight of hostile blood.
 
 Now troops on troops the fainting chief invade,
 
-\[pg 208\]
+ 
 
 Forced he recedes, and loudly calls for aid.
 
@@ -17516,7 +17796,7 @@ Great Ajax, like the god of war, attends,
 
 The prudent chief in sore distress they found,
 
-With bands of furious Trojans compass'd round.[223](#note_223)
+With bands of furious Trojans compass'd round. 
 
 As when some huntsman, with a flying spear,
 
@@ -17574,7 +17854,7 @@ But Hector, from this scene of slaughter far,
 
 Raged on the left, and ruled the tide of war:
 
-\[pg 209\]
+ 
 
 Loud groans proclaim his progress through the plain,
 
@@ -17676,7 +17956,7 @@ Confused, unnerved in Hector's presence grown,
 
 Amazed he stood, with terrors not his own.
 
-\[pg 210\]
+ 
 
 O'er his broad back his moony shield he threw,
 
@@ -17778,7 +18058,7 @@ Thus urged the chief: a generous troop appears,
 
 Who spread their bucklers, and advance their spears,
 
-\[pg 211\]
+ 
 
 To guard their wounded friend: while thus they stand
 
@@ -17880,7 +18160,7 @@ Honey new-press'd, the sacred flour of wheat,
 
 And wholesome garlic, crown'd the savoury treat,
 
-\[pg 212\]
+ 
 
 Next her white hand an antique goblet brings,
 
@@ -17982,7 +18262,7 @@ Then from my fury fled the trembling swains,
 
 And ours was all the plunder of the plains:
 
-\[pg 213\]
+ 
 
 Fifty white flocks, full fifty herds of swine,
 
@@ -18084,7 +18364,7 @@ Soon as the sun, with all-revealing ray,
 
 Flamed in the front of Heaven, and gave the day.
 
-\[pg 214\]
+ 
 
 Bright scenes of arms, and works of war appear;
 
@@ -18186,7 +18466,7 @@ Thus spoke your father at Thessalia's court:
 
 Words now forgot, though now of vast import.
 
-\[pg 215\]
+ 
 
 Ah! try the utmost that a friend can say:
 
@@ -18288,7 +18568,7 @@ And great Machaon, wounded in his tent,
 
 Now wants that succour which so oft he lent."
 
-\[pg 216\]
+ 
 
 To him the chief: "What then remains to do?
 
@@ -18320,18 +18600,21 @@ The wound to torture, and the blood to flow.
 
 ![Illustration: HERCULES.](images/image37.png "HERCULES.")
 
-HERCULES.
+ 
 
-* * *
 
-\[pg 217\]
 
-BOOK XII.
-=========
+---
+
+ 
+
+### BOOK XII. THE BATTLE AT THE GRECIAN WALL.
+
+
 
 ARGUMENT.
 
-THE BATTLE AT THE GRECIAN WALL.
+
 
 The Greeks having retired into their intrenchments, Hector attempts to force them; but it proving impossible to pass the ditch, Polydamas advises to quit their chariots, and manage the attack on foot. The Trojans follow his counsel; and having divided their army into five bodies of foot, begin the assault. But upon the signal of an eagle with a serpent in his talons, which appeared on the left hand of the Trojans, Polydamas endeavours to withdraw them again. This Hector opposes, and continues the attack; in which, after many actions, Sarpedon makes the first breach in the wall. Hector also, casting a stone of vast size, forces open one of the gates, and enters at the head of his troops, who victoriously pursue the Grecians even to their ships.
 
@@ -18375,9 +18658,9 @@ Caresus roaring down the stony hills,
 
 And Xanthus foaming from his fruitful source;
 
-And gulfy Simois, rolling to the main[224](#note_224)
+And gulfy Simois, rolling to the main 
 
-\[pg 218\]
+ 
 
 Helmets, and shields, and godlike heroes slain:
 
@@ -18407,7 +18690,7 @@ No fragment tells where once the wonder stood;
 
 In their old bounds the rivers roll again,
 
-Shine 'twixt the hills, or wander o'er the plain.[225](#note_225)
+Shine 'twixt the hills, or wander o'er the plain. 
 
 But this the gods in later times perform;
 
@@ -18469,7 +18752,7 @@ The foot alone this strong defence could force,
 
 And try the pass impervious to the horse.
 
-\[pg 219\]
+ 
 
 This saw Polydamas; who, wisely brave,
 
@@ -18525,7 +18808,7 @@ And this (if Jove consent) her fatal hour."
 
 ![Illustration: POLYDAMAS ADVISING HECTOR.](images/image38.png "POLYDAMAS ADVISING HECTOR.")
 
-POLYDAMAS ADVISING HECTOR.
+ 
 
 This counsel pleased: the godlike Hector sprung
 
@@ -18539,7 +18822,7 @@ By orders strict the charioteers enjoin'd
 
 Compel the coursers to their ranks behind.
 
-\[pg 220\]
+ 
 
 The forces part in five distinguish'd bands,
 
@@ -18641,7 +18924,7 @@ Whose spreading arms with leafy honours crown'd,
 
 Forbid the tempest, and protect the ground;
 
-\[pg 221\]
+ 
 
 High on the hills appears their stately form,
 
@@ -18743,7 +19026,7 @@ These empty accents mingled with the wind,
 
 Nor moved great Jove's unalterable mind;
 
-\[pg 222\]
+ 
 
 To godlike Hector and his matchless might
 
@@ -18845,7 +19128,7 @@ True to those counsels which I judge the best,
 
 I tell the faithful dictates of my breast.
 
-\[pg 223\]
+ 
 
 To speak his thoughts is every freeman's right,
 
@@ -18947,7 +19230,7 @@ With ardour follow where their leader flies:
 
 Redoubling clamours thunder in the skies.
 
-\[pg 224\]
+ 
 
 Jove breathes a whirlwind from the hills of Ide,
 
@@ -19049,7 +19332,7 @@ Nor Troy could conquer, nor the Greeks would yield,
 
 Till great Sarpedon tower'd amid the field;
 
-\[pg 225\]
+ 
 
 For mighty Jove inspired with martial flame
 
@@ -19095,7 +19378,7 @@ Then casting on his friend an ardent look,
 
 Fired with the thirst of glory, thus he spoke:
 
-"Why boast we, Glaucus! our extended reign,[226](#note_226)
+"Why boast we, Glaucus! our extended reign, 
 
 Where Xanthus' streams enrich the Lycian plain,
 
@@ -19137,7 +19420,7 @@ In fighting fields, nor urge thy soul to war.
 
 But since, alas! ignoble age must come,
 
-\[pg 226\]
+ 
 
 Disease, and death's inexorable doom
 
@@ -19239,7 +19522,7 @@ Till by this arm the foe shall be repell'd:
 
 That done, expect me to complete the day
 
-\[pg 227\]
+ 
 
 Then with his sevenfold shield he strode away.
 
@@ -19341,7 +19624,7 @@ And Ajax sends his javelin at the foe;
 
 Fix'd in his belt the feather'd weapon stood,
 
-\[pg 228\]
+ 
 
 And through his buckler drove the trembling wood;
 
@@ -19411,7 +19694,7 @@ With nice exactness weighs her woolly store,)
 
 Till poised aloft, the resting beam suspends
 
-Each equal weight; nor this, nor that, descends:[227](#note_227)
+Each equal weight; nor this, nor that, descends: 
 
 So stood the war, till Hector's matchless might,
 
@@ -19437,7 +19720,7 @@ A ponderous stone bold Hector heaved to throw,
 
 Pointed above, and rough and gross below:
 
-\[pg 229\]
+ 
 
 Not two strong men the enormous weight could raise,
 
@@ -19469,7 +19752,7 @@ Leap the resounding bars, the flying hinges roar.
 
 Now rushing in, the furious chief appears,
 
-Gloomy as night! and shakes two shining spears:[228](#note_228)
+Gloomy as night! and shakes two shining spears: 
 
 A dreadful gleam from his bright armour came,
 
@@ -19489,18 +19772,21 @@ The shore is heap'd with death, and tumult rends the sky.
 
 ![Illustration: GREEK ALTAR.](images/image39.png "GREEK ALTAR.")
 
-GREEK ALTAR.
+ 
 
-* * *
 
-\[pg 230\]
 
-BOOK XIII.
-==========
+---
+
+ 
+
+### BOOK XIII. THE FOURTH BATTLE CONTINUED, IN WHICH NEPTUNE ASSISTS THE GREEKS: THE ACTS OF IDOMENEUS.
+
+
 
 ARGUMENT.
 
-THE FOURTH BATTLE CONTINUED, IN WHICH NEPTUNE ASSISTS THE GREEKS: THE ACTS OF IDOMENEUS.
+
 
 Neptune, concerned for the loss of the Grecians, upon seeing the fortification forced by Hector, (who had entered the gate near the station of the Ajaces,) assumes the shape of Calchas, and inspires those heroes to oppose him: then, in the form of one of the generals, encourages the other Greeks who had retired to their vessels. The Ajaces form their troops in a close phalanx, and put a stop to Hector and the Trojans. Several deeds of valour are performed; Meriones, losing his spear in the encounter, repairs to seek another at the tent of Idomeneus: this occasions a conversation between those two warriors, who return together to the battle. Idomeneus signalizes his courage above the rest; he kills Othryoneus, Asius, and Alcathous: Deiphobus and Æneas march against him, and at length Idomeneus retires. Menelaus wounds Helenus, and kills Pisander. The Trojans are repulsed on the left wing; Hector still keeps his ground against the Ajaces, till, being galled by the Locrian slingers and archers, Polydamas advises to call a council of war: Hector approves of his advice, but goes first to rally the Trojans; upbraids Paris, rejoins Polydamas, meets Ajax again, and renews the attack.
 
@@ -19524,9 +19810,9 @@ And hardy Thracians tame the savage horse;
 
 And where the far-famed Hippomolgian strays,
 
-Renown'd for justice and for length of days;[229](#note_229)
+Renown'd for justice and for length of days; 
 
-\[pg 231\]
+ 
 
 Thrice happy race! that, innocent of blood,
 
@@ -19628,7 +19914,7 @@ Where, like a tempest, darkening heaven around,
 
 Or fiery deluge that devours the ground,
 
-\[pg 232\]
+ 
 
 The impatient Trojans, in a gloomy throng,
 
@@ -19656,7 +19942,7 @@ But most the Ajaces, adding fire to fire.
 
 ![Illustration: NEPTUNE RISING FROM THE SEA.](images/image40.png "NEPTUNE RISING FROM THE SEA.")
 
-NEPTUNE RISING FROM THE SEA.
+ 
 
 "'Tis yours, O warriors, all our hopes to raise:
 
@@ -19692,7 +19978,7 @@ He touch'd the chiefs, and steel'd their manly souls:
 
 Strength, not their own, the touch divine imparts,
 
-\[pg 233\]
+ 
 
 Prompts their light limbs, and swells their daring hearts.
 
@@ -19794,7 +20080,7 @@ Unseen, unthought, till this amazing day!
 
 Fly we at length from Troy's oft-conquer'd bands?
 
-\[pg 234\]
+ 
 
 And falls our fleet by such inglorious hands?
 
@@ -19896,7 +20182,7 @@ The close compacted legions urged their way:
 
 Fierce they drove on, impatient to destroy;
 
-\[pg 235\]
+ 
 
 Troy charged the first, and Hector first of Troy.
 
@@ -19916,7 +20202,7 @@ Still gathering force, it smokes; and urged amain,
 
 Whirls, leaps, and thunders down, impetuous to the plain:
 
-There stops—so Hector. Their whole force he proved,[230](#note_230)
+There stops—so Hector. Their whole force he proved, 
 
 Resistless when he raged, and, when he stopp'd, unmoved.
 
@@ -19986,7 +20272,7 @@ And blest in bright Medesicaste's arms:
 
 (This nymph, the fruit of Priam's ravish'd joy,
 
-\[pg 236\]
+ 
 
 Allied the warrior to the house of Troy:)
 
@@ -20088,7 +20374,7 @@ And his sad comrades from the battle bore;
 
 Him to the surgeons of the camp he sent:
 
-\[pg 237\]
+ 
 
 That office paid, he issued from his tent
 
@@ -20190,7 +20476,7 @@ And glows with prospects of th' approaching day."
 
 "O prince! (Meriones replies) whose care
 
-\[pg 238\]
+ 
 
 Leads forth the embattled sons of Crete to war;
 
@@ -20292,7 +20578,7 @@ Swift at the word bold Merion snatch'd a spear
 
 And, breathing slaughter, follow'd to the war.
 
-\[pg 239\]
+ 
 
 So Mars armipotent invades the plain,
 
@@ -20394,7 +20680,7 @@ Dire was the gleam of breastplates, helms, and shields,
 
 And polish'd arms emblazed the flaming fields:
 
-\[pg 240\]
+ 
 
 Tremendous scene! that general horror gave,
 
@@ -20498,7 +20784,7 @@ This Asius view'd, unable to contain,
 
 Before his chariot warring on the plain:
 
-\[pg 241\]
+ 
 
 (His crowded coursers, to his squire consign'd,
 
@@ -20600,7 +20886,7 @@ Nor yet from fight Idomeneus withdraws;
 
 Resolved to perish in his country's cause,
 
-\[pg 242\]
+ 
 
 Or find some foe, whom heaven and he shall doom
 
@@ -20702,7 +20988,7 @@ If e'er thy bosom felt fair honour's charms.
 
 Alcathous dies, thy brother and thy friend;
 
-\[pg 243\]
+ 
 
 Come, and the warrior's loved remains defend.
 
@@ -20804,7 +21090,7 @@ There great Idomeneus, Æneas here.
 
 Like gods of war, dispensing fate, they stood,
 
-\[pg 244\]
+ 
 
 And burn'd to drench the ground with mutual blood.
 
@@ -20906,7 +21192,7 @@ Heaps fall on heaps, and heaven and earth resound.
 
 Bold Aphareus by great Æneas bled;
 
-\[pg 245\]
+ 
 
 As toward the chief he turn'd his daring head,
 
@@ -21008,7 +21294,7 @@ Raging with grief, great Menelaus burns,
 
 And fraught with vengeance, to the victor turns:
 
-\[pg 246\]
+ 
 
 That shook the ponderous lance, in act to throw;
 
@@ -21110,7 +21396,7 @@ In such bold feats your impious might approve,
 
 Without th' assistance, or the fear of Jove.
 
-\[pg 247\]
+ 
 
 The violated rites, the ravish'd dame;
 
@@ -21212,7 +21498,7 @@ A chief there was, the brave Euchenor named,
 
 For riches much, and more for virtue famed.
 
-\[pg 248\]
+ 
 
 Who held his seat in Corinth's stately town;
 
@@ -21314,7 +21600,7 @@ O'er their huge limbs the foam descends in snow,
 
 And streams of sweat down their sour foreheads flow.
 
-\[pg 249\]
+ 
 
 A train of heroes followed through the field,
 
@@ -21416,7 +21702,7 @@ Or quit the fleet, and pass unhurt away,
 
 Contented with the conquest of the day.
 
-\[pg 250\]
+ 
 
 I fear, I fear, lest Greece, not yet undone,
 
@@ -21518,7 +21804,7 @@ Deiphobus, and Helenus the seer,
 
 Each now disabled by a hostile spear.
 
-\[pg 251\]
+ 
 
 Go then, successful, where thy soul inspires:
 
@@ -21620,7 +21906,7 @@ Even thou shalt call on Jove, and call in vain;
 
 Even thou shalt wish, to aid thy desperate course,
 
-\[pg 252\]
+ 
 
 The wings of falcons for thy flying horse;
 
@@ -21678,18 +21964,21 @@ Shook the fix'd splendours of the throne of Jove.
 
 ![Illustration: GREEK EARRINGS.](images/image41.png "GREEK EARRINGS.")
 
-GREEK EARRINGS.
+ 
 
-* * *
 
-\[pg 253\]
 
-BOOK XIV.
-=========
+---
 
-ARGUMENT.[231](#note_231)
+ 
 
-JUNO DECEIVES JUPITER BY THE GIRDLE OF VENUS.
+### BOOK XIV. JUNO DECEIVES JUPITER BY THE GIRDLE OF VENUS.
+
+
+
+ARGUMENT. 
+
+
 
 Nestor, sitting at the table with Machaon, is alarmed with the increasing clamour of war, and hastens to Agamemnon; on his way he meets that prince with Diomed and Ulysses, whom he informs of the extremity of the danger. Agamemnon proposes to make their escape by night, which Ulysses withstands; to which Diomed adds his advice, that, wounded as they were, they should go forth and encourage the army with their presence, which advice is pursued. Juno, seeing the partiality of Jupiter to the Trojans, forms a design to over-reach him: she sets off her charms with the utmost care, and (the more surely to enchant him) obtains the magic girdle of Venus. She then applies herself to the god of sleep, and, with some difficulty, persuades him to seal the eyes of Jupiter: this done, she goes to mount Ida, where the god, at first sight, is ravished with her beauty, sinks in her embraces, and is laid asleep. Neptune takes advantage of his slumber, and succours the Greeks: Hector is struck to the ground with a prodigious stone by Ajax, and carried off from the battle: several actions succeed, till the Trojans, much distressed, are obliged to give way: the lesser Ajax signalizes himself in a particular manner.
 
@@ -21727,7 +22016,7 @@ Then snatch'd a lance, and issued from the door.
 
 Soon as the prospect open'd to his view,
 
-\[pg 254\]
+ 
 
 His wounded eyes the scene of sorrow knew;
 
@@ -21769,7 +22058,7 @@ By tardy steps ascending from the fleet:
 
 The king of men, Ulysses the divine,
 
-And who to Tydeus owes his noble line.[232](#note_232)
+And who to Tydeus owes his noble line. 
 
 (Their ships at distance from the battle stand,
 
@@ -21827,7 +22116,7 @@ Even to the ships their conquering arms extend,
 
 And groans of slaughter'd Greeks to heaven ascend.
 
-\[pg 255\]
+ 
 
 On speedy measures then employ your thought
 
@@ -21929,7 +22218,7 @@ Like arrows pierce me, for thy words are wise.
 
 Unwilling as I am to lose the host,
 
-\[pg 256\]
+ 
 
 I force not Greece to quit this hateful coast;
 
@@ -22031,7 +22320,7 @@ But Heaven forsakes not thee: o'er yonder sands
 
 Soon shall thou view the scattered Trojan bands
 
-\[pg 257\]
+ 
 
 Fly diverse; while proud kings, and chiefs renown'd,
 
@@ -22133,7 +22422,7 @@ Last her fair feet celestial sandals grace.
 
 Thus issuing radiant with majestic pace,
 
-\[pg 258\]
+ 
 
 Forth from the dome the imperial goddess moves,
 
@@ -22191,7 +22480,7 @@ She said. With awe divine, the queen of love
 
 Obey'd the sister and the wife of Jove;
 
-And from her fragrant breast the zone embraced,[233](#note_233)
+And from her fragrant breast the zone embraced, 
 
 With various skill and high embroidery graced.
 
@@ -22225,7 +22514,7 @@ O'er fair Emathia's ever-pleasing shore,
 
 O'er Hemus' hills with snows eternal crown'd;
 
-\[pg 259\]
+ 
 
 Nor once her flying foot approach'd the ground.
 
@@ -22233,7 +22522,7 @@ Then taking wing from Athos' lofty steep,
 
 She speeds to Lemnos o'er the rolling deep,
 
-And seeks the cave of Death's half-brother, Sleep.[234](#note_234)
+And seeks the cave of Death's half-brother, Sleep. 
 
 "Sweet pleasing Sleep! (Saturnia thus began)
 
@@ -22311,13 +22600,13 @@ Nor for the deed expect a vulgar prize;
 
 For know, thy loved-one shall be ever thine,
 
-The youngest Grace, Pasithae the divine."[235](#note_235)
+The youngest Grace, Pasithae the divine." 
 
 "Swear then (he said) by those tremendous floods
 
 That roar through hell, and bind the invoking gods:
 
-\[pg 260\]
+ 
 
 Let the great parent earth one hand sustain,
 
@@ -22341,7 +22630,7 @@ Whom mortals name the dread Titanian gods.
 
 ![Illustration: SLEEP ESCAPING FROM THE WRATH OF JUPITER.](images/image42.png "SLEEP ESCAPING FROM THE WRATH OF JUPITER.")
 
-SLEEP ESCAPING FROM THE WRATH OF JUPITER.
+ 
 
 Then swift as wind, o'er Lemnos' smoky isle
 
@@ -22371,7 +22660,7 @@ Sat Sleep, in likeness of the bird of night.
 
 But call'd Cymindis by the race of earth.)
 
-\[pg 261\]
+ 
 
 To Ida's top successful Juno flies;
 
@@ -22447,7 +22736,7 @@ Not thus I burn'd for either Theban dame:
 
 Nor Phoenix' daughter, beautiful and young,
 
-Whence godlike Rhadamanth and Minos sprung.[236](#note_236)
+Whence godlike Rhadamanth and Minos sprung. 
 
 Not thus I burn'd for fair Latona's face,
 
@@ -22459,7 +22748,7 @@ As now my veins receive the pleasing fire."
 
 He spoke; the goddess with the charming eyes
 
-\[pg 262\]
+ 
 
 Glows with celestial red, and thus replies:
 
@@ -22511,7 +22800,7 @@ Thick new-born violets a soft carpet spread,
 
 And clustering lotos swell'd the rising bed,
 
-And sudden hyacinths the turf bestrow,[237](#note_237)
+And sudden hyacinths the turf bestrow, 
 
 And flamy crocus made the mountain glow
 
@@ -22553,7 +22842,7 @@ On human lids to drop the balmy dew.
 
 Neptune, with zeal increased, renews his care,
 
-\[pg 263\]
+ 
 
 And towering in the foremost ranks of war,
 
@@ -22591,7 +22880,7 @@ Myself, ye Greeks! myself will lead the way."
 
 ![Illustration: GREEK SHIELD.](images/image43.png "GREEK SHIELD.")
 
-GREEK SHIELD.
+ 
 
 The troops assent; their martial arms they change:
 
@@ -22637,7 +22926,7 @@ Not half so loud the bellowing deeps resound,
 
 When stormy winds disclose the dark profound;
 
-\[pg 264\]
+ 
 
 Less loud the winds that from the Æolian hall
 
@@ -22717,7 +23006,7 @@ And thicker javelins intercept the sky.
 
 In vain an iron tempest hisses round;
 
-He lies protected, and without a wound.[238](#note_238)
+He lies protected, and without a wound. 
 
 Polydamas, Agenor the divine,
 
@@ -22727,7 +23016,7 @@ And each bold leader of the Lycian band,
 
 With covering shields (a friendly circle) stand,
 
-\[pg 265\]
+ 
 
 His mournful followers, with assistant care,
 
@@ -22829,7 +23118,7 @@ Say, is this chief extended on the plain
 
 A worthy vengeance for Prothoenor slain?
 
-\[pg 266\]
+ 
 
 Mark well his port! his figure and his face
 
@@ -22931,7 +23220,7 @@ O say, when Neptune made proud Ilion yield,
 
 What chief, what hero first embrued the field?
 
-\[pg 267\]
+ 
 
 Of all the Grecians what immortal name,
 
@@ -22967,18 +23256,21 @@ Skill'd in pursuit, and swiftest in the chase.
 
 ![Illustration: BACCHUS.](images/image44.png "BACCHUS.")
 
-BACCHUS.
+ 
 
-* * *
 
-\[pg 268\]
 
-BOOK XV.
-========
+---
+
+ 
+
+### BOOK XV. THE FIFTH BATTLE AT THE SHIPS; AND THE ACTS OF AJAX.
+
+
 
 ARGUMENT.
 
-THE FIFTH BATTLE AT THE SHIPS; AND THE ACTS OF AJAX.
+
 
 Jupiter, awaking, sees the Trojans repulsed from the trenches, Hector in a swoon, and Neptune at the head of the Greeks: he is highly incensed at the artifice of Juno, who appeases him by her submissions; she is then sent to Iris and Apollo. Juno, repairing to the assembly of the gods, attempts, with extraordinary address, to incense them against Jupiter; in particular she touches Mars with a violent resentment; he is ready to take arms, but is prevented by Minerva. Iris and Apollo obey the orders of Jupiter; Iris commands Neptune to leave the battle, to which, after much reluctance and passion, he consents. Apollo reinspires Hector with vigour, brings him back to the battle, marches before him with his aegis, and turns the fortune of the fight. He breaks down great part of the Grecian wall: the Trojans rush in, and attempt to fire the first line of the fleet, but are, as yet, repelled by the greater Ajax with a prodigious slaughter.
 
@@ -23026,7 +23318,7 @@ Canst thou, unhappy in thy wiles, withstand
 
 Our power immense, and brave the almighty hand?
 
-\[pg 269\]
+ 
 
 Hast thou forgot, when, bound and fix'd on high,
 
@@ -23128,7 +23420,7 @@ What youths he slaughters under Ilion's walls!
 
 Even my loved son, divine Sarpedon, falls!
 
-\[pg 270\]
+ 
 
 Vanquish'd at last by Hector's lance he lies.
 
@@ -23172,7 +23464,7 @@ There sat the powers in awful synod placed;
 
 They bow'd, and made obeisance as she pass'd
 
-Through all the brazen dome: with goblets crown'd[239](#note_239)
+Through all the brazen dome: with goblets crown'd 
 
 They hail her queen; the nectar streams around.
 
@@ -23228,7 +23520,7 @@ Submiss, immortals! all he wills, obey:
 
 And thou, great Mars, begin and show the way.
 
-\[pg 271\]
+ 
 
 Behold Ascalaphus! behold him die,
 
@@ -23330,7 +23622,7 @@ Swift as the wind, to Ida's hills they came,
 
 (Fair nurse of fountains, and of savage game)
 
-\[pg 272\]
+ 
 
 There sat the eternal; he whose nod controls
 
@@ -23432,7 +23724,7 @@ Far in the distant clouds let him control,
 
 And awe the younger brothers of the pole;
 
-\[pg 273\]
+ 
 
 There to his children his commands be given,
 
@@ -23534,7 +23826,7 @@ There Hector seated by the stream he sees,
 
 His sense returning with the coming breeze;
 
-\[pg 274\]
+ 
 
 Again his pulses beat, his spirits rise;
 
@@ -23636,7 +23928,7 @@ Skill'd to direct the javelin's distant flight,
 
 And bold to combat in the standing fight,
 
-\[pg 275\]
+ 
 
 Not more in councils famed for solid sense,
 
@@ -23738,7 +24030,7 @@ Impending Phoebus pours around them fear,
 
 And Troy and Hector thunder in the rear.
 
-\[pg 276\]
+ 
 
 Heaps fall on heaps: the slaughter Hector leads,
 
@@ -23788,7 +24080,7 @@ On rush'd bold Hector, gloomy as the night;
 
 Forbids to plunder, animates the fight,
 
-Points to the fleet: "For, by the gods! who flies,[240](#note_240)
+Points to the fleet: "For, by the gods! who flies, 
 
 Who dares but linger, by this hand he dies;
 
@@ -23826,7 +24118,7 @@ Before them flamed the shield, and march'd the god.
 
 Then with his hand he shook the mighty wall;
 
-\[pg 277\]
+ 
 
 And lo! the turrets nod, the bulwarks fall:
 
@@ -23928,7 +24220,7 @@ A mournful witness of this scene of woe;
 
 I haste to urge him by his country's care
 
-\[pg 278\]
+ 
 
 To rise in arms, and shine again in war.
 
@@ -24030,7 +24322,7 @@ To fight our wars he left his native air.
 
 This death deplored, to Hector's rage we owe;
 
-\[pg 279\]
+ 
 
 Revenge, revenge it on the cruel foe.
 
@@ -24132,7 +24424,7 @@ Shall find its match—No more: 'tis ours to fight."
 
 Then Teucer laid his faithless bow aside;
 
-\[pg 280\]
+ 
 
 The fourfold buckler o'er his shoulder tied;
 
@@ -24234,7 +24526,7 @@ Chief of the foot, of old Antenor's race.
 
 Polydamas laid Otus on the sand,
 
-\[pg 281\]
+ 
 
 The fierce commander of the Epeian band.
 
@@ -24336,7 +24628,7 @@ In one sad sepulchre, one common fall."
 
 Hector (this said) rush'd forward on the foes:
 
-\[pg 282\]
+ 
 
 With equal ardour Melanippus glows:
 
@@ -24438,7 +24730,7 @@ Fierce to fulfil the stern decrees of Jove:
 
 The sire of gods, confirming Thetis' prayer,
 
-\[pg 283\]
+ 
 
 The Grecian ardour quench'd in deep despair;
 
@@ -24502,7 +24794,7 @@ The Grecian phalanx, moveless as a tower,
 
 On all sides batter'd, yet resists his power:
 
-So some tall rock o'erhangs the hoary main,[241](#note_241)
+So some tall rock o'erhangs the hoary main, 
 
 By winds assail'd, by billows beat in vain,
 
@@ -24530,7 +24822,7 @@ So pale the Greeks the eyes of Hector meet,
 
 The chief so thunders, and so shakes the fleet.
 
-\[pg 284\]
+ 
 
 As when a lion, rushing from his den,
 
@@ -24632,7 +24924,7 @@ The mist of darkness Jove around them threw
 
 She clear'd, restoring all the war to view;
 
-\[pg 285\]
+ 
 
 A sudden ray shot beaming o'er the plain,
 
@@ -24726,9 +25018,9 @@ And each contends, as his were all the war.
 
 First seized a ship on that contested strand;
 
-\[pg 286\]
+ 
 
-The same which dead Protesilaus bore,[242](#note_242)
+The same which dead Protesilaus bore, 
 
 The first that touch'd the unhappy Trojan shore:
 
@@ -24758,7 +25050,7 @@ Grasps the high stern, and gives this loud command:
 
 ![Illustration: AJAX DEFENDING THE GREEK SHIPS.](images/image45.png "AJAX DEFENDING THE GREEK SHIPS.")
 
-AJAX DEFENDING THE GREEK SHIPS.
+ 
 
 "Haste, bring the flames! that toil of ten long years
 
@@ -24792,7 +25084,7 @@ Yet, where the oars are placed, he stands to wait
 
 What chief approaching dares attempt his fate:
 
-\[pg 287\]
+ 
 
 Even to the last his naval charge defends,
 
@@ -24844,18 +25136,21 @@ Sent by great Ajax to the shades of hell.
 
 ![Illustration: CASTOR AND POLLUX.](images/image46.png "CASTOR AND POLLUX.")
 
-CASTOR AND POLLUX.
+ 
 
-* * *
 
-\[pg 288\]
 
-BOOK XVI.
-=========
+---
+
+ 
+
+### BOOK XVI. THE SIXTH BATTLE, THE ACTS AND DEATH OF PATROCLUS
+
+
 
 ARGUMENT
 
-THE SIXTH BATTLE, THE ACTS AND DEATH OF PATROCLUS
+
 
 Patroclus (in pursuance of the request of Nestor in the eleventh book) entreats Achilles to suffer him to go to the assistance of the Greeks with Achilles' troops and armour. He agrees to it, but at the same time charges him to content himself with rescuing the fleet, without further pursuit of the enemy. The armour, horses, soldiers, and officers are described. Achilles offers a libation for the success of his friend, after which Patroclus leads the Myrmidons to battle. The Trojans, at the sight of Patroclus in Achilles' armour, taking him for that hero, are cast into the uttermost consternation; he beats them off from the vessels, Hector himself flies, Sarpedon is killed, though Jupiter was averse to his fate. Several other particulars of the battle are described; in the heat of which, Patroclus, neglecting the orders of Achilles, pursues the foe to the walls of Troy, where Apollo repulses and disarms him, Euphorbus wounds him, and Hector kills him, which concludes the book.
 
@@ -24873,9 +25168,9 @@ From the tall rock the sable waters flow.
 
 Divine Pelides, with compassion moved.
 
-Thus spoke, indulgent, to his best beloved:[243](#note_243)
+Thus spoke, indulgent, to his best beloved: 
 
-\[pg 289\]
+ 
 
 "Patroclus, say, what grief thy bosom bears,
 
@@ -24967,7 +25262,7 @@ A soul well suiting that tempestuous kind,
 
 So rough thy manners, so untamed thy mind.
 
-\[pg 290\]
+ 
 
 "If some dire oracle thy breast alarm,
 
@@ -25069,7 +25364,7 @@ No more your general calls his heroes on:
 
 Hector, alone, I hear; his dreadful breath
 
-\[pg 291\]
+ 
 
 Commands your slaughter, or proclaims your death.
 
@@ -25171,7 +25466,7 @@ O'er the high stern the curling volumes rise,
 
 And sheets of rolling smoke involve the skies.
 
-\[pg 292\]
+ 
 
 Divine Achilles view'd the rising flames,
 
@@ -25253,13 +25548,13 @@ Achilles speeds from tent to tent, and warms
 
 His hardy Myrmidons to blood and arms.
 
-\[pg 293\]
+ 
 
 All breathing death, around the chief they stand,
 
 A grim, terrific, formidable band:
 
-Grim as voracious wolves, that seek the springs[244](#note_244)
+Grim as voracious wolves, that seek the springs 
 
 When scalding thirst their burning bowels wrings;
 
@@ -25347,7 +25642,7 @@ Soon as Achilles with superior care
 
 Had call'd the chiefs, and order'd all the war,
 
-\[pg 294\]
+ 
 
 This stern remembrance to his troops he gave:
 
@@ -25379,7 +25674,7 @@ Glut all your hearts, and weary all your hands!"
 
 ![Illustration: DIANA.](images/image48.png "DIANA.")
 
-DIANA.
+ 
 
 Thus while he roused the fire in every breast,
 
@@ -25429,7 +25724,7 @@ Which never man had stained with ruddy wine,
 
 Nor raised in offerings to the power divine,
 
-\[pg 295\]
+ 
 
 But Peleus' son; and Peleus' son to none
 
@@ -25531,7 +25826,7 @@ Who thus inflames them with heroic fires:
 
 Be mindful of your deeds in ancient days;
 
-\[pg 296\]
+ 
 
 Your godlike master let your acts proclaim,
 
@@ -25633,7 +25928,7 @@ Tore all the brawn, and rent the nerves away;
 
 In darkness, and in death, the warrior lay.
 
-\[pg 297\]
+ 
 
 In equal arms two sons of Nestor stand,
 
@@ -25735,7 +26030,7 @@ Thus on the foe the Greeks impetuous came;
 
 Troy fled, unmindful of her former fame.
 
-\[pg 298\]
+ 
 
 But still at Hector godlike Ajax aim'd,
 
@@ -25837,7 +26132,7 @@ Loud roars the deluge till it meets the main;
 
 And trembling man sees all his labours vain!
 
-\[pg 299\]
+ 
 
 And now the chief (the foremost troops repell'd)
 
@@ -25939,7 +26234,7 @@ They cuff, they tear, they raise a screaming cry;
 
 The desert echoes, and the rocks reply:
 
-\[pg 300\]
+ 
 
 The warriors thus opposed in arms, engage
 
@@ -25949,7 +26244,7 @@ Jove view'd the combat: whose event foreseen,
 
 He thus bespoke his sister and his queen:
 
-"The hour draws on; the destinies ordain,[245](#note_245)
+"The hour draws on; the destinies ordain, 
 
 My godlike son shall press the Phrygian plain:
 
@@ -26011,7 +26306,7 @@ Then touch'd with grief, the weeping heavens distill'd
 
 A shower of blood o'er all the fatal field:
 
-\[pg 301\]
+ 
 
 The god, his eyes averting from the plain,
 
@@ -26113,7 +26408,7 @@ Tell them, I charged them with my latest breath
 
 Not unrevenged to bear Sarpedon's death.
 
-\[pg 302\]
+ 
 
 What grief, what shame, must Glaucus undergo,
 
@@ -26215,7 +26510,7 @@ Inflaming thus the rage of all their hosts.
 
 Oh too forgetful of the friends of Troy!
 
-\[pg 303\]
+ 
 
 Those generous friends, who, from their country far,
 
@@ -26317,7 +26612,7 @@ Fierce to the van of fight Patroclus came,
 
 And, like an eagle darting at his game,
 
-\[pg 304\]
+ 
 
 Sprung on the Trojan and the Lycian band.
 
@@ -26419,7 +26714,7 @@ Not empty boasts the sons of Troy repel,
 
 Your swords must plunge them to the shades of hell.
 
-\[pg 305\]
+ 
 
 To speak, beseems the council; but to dare
 
@@ -26521,7 +26816,7 @@ Then thus to Phoebus, in the realms above,
 
 Spoke from his throne the cloud-compelling Jove:
 
-\[pg 306\]
+ 
 
 "Descend, my Phoebus! on the Phrygian plain,
 
@@ -26549,7 +26844,7 @@ Those unavailing honours we may give!"
 
 ![Illustration: SLEEP AND DEATH CONVEYING THE BODY OF SARPEDON TO LYCIA.](images/image49.png "SLEEP AND DEATH CONVEYING THE BODY OF SARPEDON TO LYCIA.")
 
-SLEEP AND DEATH CONVEYING THE BODY OF SARPEDON TO LYCIA.
+ 
 
 Apollo bows, and from mount Ida's height,
 
@@ -26585,7 +26880,7 @@ With foaming coursers, and with loosen'd reins.
 
 Fierce on the Trojan and the Lycian crew,
 
-\[pg 307\]
+ 
 
 Ah blind to fate! thy headlong fury flew
 
@@ -26625,7 +26920,7 @@ Now Troy had stoop'd beneath his matchless power,
 
 But flaming Phoebus kept the sacred tower
 
-Thrice at the battlements Patroclus strook;[246](#note_246)
+Thrice at the battlements Patroclus strook; 
 
 His blazing aegis thrice Apollo shook;
 
@@ -26671,7 +26966,7 @@ Should soon convince thee of so false a fear.
 
 Turn thee, ah turn thee to the field of fame,
 
-\[pg 308\]
+ 
 
 And in Patroclus' blood efface thy shame.
 
@@ -26773,7 +27068,7 @@ In dreadful shock the mingled hosts engage.
 
 Darts shower'd on darts, now round the carcase ring;
 
-\[pg 309\]
+ 
 
 Now flights of arrows bounding from the string:
 
@@ -26875,7 +27170,7 @@ Nor, though disarm'd, Patroclus' fury stood:
 
 But swift withdrew the long-protended wood.
 
-\[pg 310\]
+ 
 
 And turn'd him short, and herded in the crowd.
 
@@ -26977,7 +27272,7 @@ Even now on life's last verge I see thee stand,
 
 I see thee fall, and by Achilles' hand."
 
-\[pg 311\]
+ 
 
 He faints: the soul unwilling wings her way,
 
@@ -27019,16 +27314,19 @@ The immortal coursers were the gift of Jove.
 
 ÆSCULAPIUS.
 
-* * *
 
-\[pg 312\]
 
-BOOK XVII.
-==========
+---
+
+ 
+
+### BOOK XVII. THE SEVENTH BATTLE, FOR THE BODY OF PATROCLUS.—THE ACTS OF MENELAUS.
+
+
 
 ARGUMENT.
 
-THE SEVENTH BATTLE, FOR THE BODY OF PATROCLUS.—THE ACTS OF MENELAUS.
+
 
 Menelaus, upon the death of Patroclus, defends his body from the enemy: Euphorbus, who attempts it, is slain. Hector advancing, Menelaus retires; but soon returns with Ajax, and drives him off. This, Glaucus objects to Hector as a flight, who thereupon puts on the armour he had won from Patroclus, and renews the battle. The Greeks give way, till Ajax rallies them: Aeneas sustains the Trojans. Aeneas and Hector Attempt the chariot of Achilles, which is borne off by Automedon. The horses of Achilles deplore the loss of Patroclus: Jupiter covers his body with a thick darkness: the noble prayer of Ajax on that occasion. Menelaus sends Antilochus to Achilles, with the news of Patroclus' death: then returns to the fight, where, though attacked with the utmost fury, he and Meriones, assisted by the Ajaces, bear off the body to the ships.
 
@@ -27070,7 +27368,7 @@ The Trojan thus: the Spartan monarch burn'd
 
 With generous anguish, and in scorn return'd:
 
-\[pg 313\]
+ 
 
 "Laugh'st thou not, Jove! from thy superior throne,
 
@@ -27172,7 +27470,7 @@ Proud of his deed, and glorious in the prize,
 
 Affrighted Troy the towering victor flies:
 
-\[pg 314\]
+ 
 
 Flies, as before some mountain lion's ire
 
@@ -27192,7 +27490,7 @@ And urged great Hector to dispute the prize;
 
 (In Mentes' shape, beneath whose martial care
 
-The rough Ciconians learn'd the trade of war;)[247](#note_247)
+The rough Ciconians learn'd the trade of war;) 
 
 "Forbear (he cried) with fruitless speed to chase
 
@@ -27272,7 +27570,7 @@ Slow he recedes, and sighing quits the dead.
 
 So from the fold the unwilling lion parts,
 
-\[pg 315\]
+ 
 
 Forced by loud clamours, and a storm of darts;
 
@@ -27374,7 +27672,7 @@ Thy friend Sarpedon proves thy base neglect;
 
 Say, shall our slaughter'd bodies guard your walls,
 
-\[pg 316\]
+ 
 
 While unreveng'd the great Sarpedon falls?
 
@@ -27476,7 +27774,7 @@ The radiant spoils to sacred Ilion bore.
 
 There his own mail unbraced the field bestrow'd;
 
-\[pg 317\]
+ 
 
 His train to Troy convey'd the massy load.
 
@@ -27578,7 +27876,7 @@ Tor this, our wealth, our products, you enjoy,
 
 And glean the relics of exhausted Troy.
 
-\[pg 318\]
+ 
 
 Now then, to conquer or to die prepare;
 
@@ -27680,7 +27978,7 @@ Nor less resolved, the firm Achaian band
 
 With brazen shields in horrid circle stand.
 
-\[pg 319\]
+ 
 
 Jove, pouring darkness o'er the mingled fight,
 
@@ -27696,7 +27994,7 @@ Nor dooms his carcase to the birds of air.
 
 ![Illustration: FIGHT FOR THE BODY OF PATROCLUS.](images/image51.png "FIGHT FOR THE BODY OF PATROCLUS.")
 
-FIGHT FOR THE BODY OF PATROCLUS.
+ 
 
 The first attack the Grecians scarce sustain,
 
@@ -27748,7 +28046,7 @@ And ill requites his parents' tender care.
 
 Lamented youth! in life's first bloom he fell,
 
-\[pg 320\]
+ 
 
 Sent by great Ajax to the shades of hell.
 
@@ -27852,7 +28150,7 @@ Who view'd his fall, and, grieving at the chance,
 
 Swift to revenge it sent his angry lance;
 
-\[pg 321\]
+ 
 
 The whirling lance, with vigorous force address'd,
 
@@ -27954,7 +28252,7 @@ Drops follow drops, the clouds on clouds arise,
 
 And carnage clogs their hands, and darkness fills their eyes.
 
-\[pg 322\]
+ 
 
 As when a slaughter'd bull's yet reeking hide,
 
@@ -28030,9 +28328,9 @@ The pensive steeds of great Achilles stood:
 
 Their godlike master slain before their eyes,
 
-They wept, and shared in human miseries.[248](#note_248)
+They wept, and shared in human miseries. 
 
-\[pg 323\]
+ 
 
 In vain Automedon now shakes the rein,
 
@@ -28134,7 +28432,7 @@ Approach'd the chariot, and the chief address'd:
 
 Alone, unaided, in the thickest war?
 
-\[pg 324\]
+ 
 
 Alas! thy friend is slain, and Hector wields
 
@@ -28236,11 +28534,11 @@ It pierced his belt, emboss'd with curious art,
 
 Then in the lower belly struck the dart.
 
-\[pg 325\]
+ 
 
 As when a ponderous axe, descending full,
 
-Cleaves the broad forehead of some brawny bull:[249](#note_249)
+Cleaves the broad forehead of some brawny bull: 
 
 Struck 'twixt the horns, he springs with many a bound,
 
@@ -28330,7 +28628,7 @@ What more desires my soul, than here unmoved
 
 To guard the body of the man I loved?
 
-\[pg 326\]
+ 
 
 Ah, would Minerva send me strength to rear
 
@@ -28432,7 +28730,7 @@ Grasps his once formidable lance in vain.
 
 As Hector follow'd, Idomen address'd
 
-\[pg 327\]
+ 
 
 The flaming javelin to his manly breast;
 
@@ -28534,7 +28832,7 @@ But let us perish in the face of day!"
 
 With tears the hero spoke, and at his prayer
 
-\[pg 328\]
+ 
 
 The god relenting clear'd the clouded air;
 
@@ -28636,7 +28934,7 @@ From his fair eyes the tears began to flow:
 
 Big with the mighty grief, he strove to say
 
-\[pg 329\]
+ 
 
 What sorrow dictates, but no word found way.
 
@@ -28738,7 +29036,7 @@ As when two mules, along the rugged road,
 
 From the steep mountain with exerted strength
 
-\[pg 330\]
+ 
 
 Drag some vast beam, or mast's unwieldy length;
 
@@ -28784,18 +29082,21 @@ The work of death, and still the battle bleeds.
 
 ![Illustration: VULCAN FROM AN ANTIQUE GEM.](images/image52.png "VULCAN FROM AN ANTIQUE GEM.")
 
-VULCAN FROM AN ANTIQUE GEM.
+ 
 
-* * *
 
-\[pg 331\]
 
-BOOK XVIII.
-===========
+---
+
+ 
+
+### BOOK XVIII. THE GRIEF OF ACHILLES, AND NEW ARMOUR MADE HIM BY VULCAN.
+
+
 
 ARGUMENT.
 
-THE GRIEF OF ACHILLES, AND NEW ARMOUR MADE HIM BY VULCAN.
+
 
 The news of the death of Patroclus is brought to Achilles by Antilochus. Thetis, hearing his lamentations, comes with all her sea- nymphs to comfort him. The speeches of the mother and son on this occasion. Iris appears to Achilles by the command of Juno, and orders him to show himself at the head of the intrenchments. The sight of him turns the fortunes of the day, and the body of Patroclus is carried off by the Greeks. The Trojans call a council, where Hector and Polydamas disagree in their opinions: but the advice of the former prevails, to remain encamped in the field. The grief of Achilles over the body of Patroclus.
 
@@ -28803,7 +29104,7 @@ Thetis goes to the palace of Vulcan to obtain new arms for her son. The descript
 
 The latter part of the nine-and-twentieth day, and the night ensuing, take up this book: the scene is at Achilles' tent on the sea-shore, from whence it changes to the palace of Vulcan.
 
-Thus like the rage of fire the combat burns,[250](#note_250)
+Thus like the rage of fire the combat burns, 
 
 And now it rises, now it sinks by turns.
 
@@ -28839,7 +29140,7 @@ In vain I charged him soon to quit the plain,
 
 And warn'd to shun Hectorean force in vain!"
 
-\[pg 332\]
+ 
 
 Thus while he thinks, Antilochus appears,
 
@@ -28885,7 +29186,7 @@ Hangs on his arms, amidst his frantic woe,
 
 And oft prevents the meditated blow.
 
-Far in the deep abysses of the main,[251](#note_251)
+Far in the deep abysses of the main, 
 
 With hoary Nereus, and the watery train,
 
@@ -28937,7 +29238,7 @@ All these, and all that deep in ocean held
 
 Their sacred seats, the glimmering grotto fill'd;
 
-\[pg 333\]
+ 
 
 Each beat her ivory breast with silent woe,
 
@@ -29039,7 +29340,7 @@ For soon, alas! that wretched offspring slain,
 
 New woes, new sorrows, shall create again.
 
-\[pg 334\]
+ 
 
 'Tis not in fate the alternate now to give;
 
@@ -29141,7 +29442,7 @@ The host to succour, and thy friends to save,
 
 Is worthy thee; the duty of the brave.
 
-\[pg 335\]
+ 
 
 But canst thou, naked, issue to the plains?
 
@@ -29181,7 +29482,7 @@ And treads the brazen threshold of the gods.
 
 ![Illustration: THETIS ORDERING THE NEREIDS TO DESCEND INTO THE SEA.](images/image53.png "THETIS ORDERING THE NEREIDS TO DESCEND INTO THE SEA.")
 
-THETIS ORDERING THE NEREIDS TO DESCEND INTO THE SEA.
+ 
 
 And now the Greeks from furious Hector's force,
 
@@ -29205,7 +29506,7 @@ Thrice to the skies the Trojan clamours flew:
 
 As oft the Ajaces his assault sustain;
 
-\[pg 336\]
+ 
 
 But check'd, he turns; repuls'd, attacks again.
 
@@ -29307,7 +29608,7 @@ A stream of glory flamed above his head.
 
 As when from some beleaguer'd town arise
 
-\[pg 337\]
+ 
 
 The smokes, high curling to the shaded skies;
 
@@ -29409,7 +29710,7 @@ Skill'd to discern the future by the past,
 
 The son of Panthus, thus express'd his fears
 
-\[pg 338\]
+ 
 
 (The friend of Hector, and of equal years;
 
@@ -29419,7 +29720,7 @@ One wise in council, one in action brave):
 
 ![Illustration: JUNO COMMANDING THE SUN TO SET.](images/image54.png "JUNO COMMANDING THE SUN TO SET.")
 
-JUNO COMMANDING THE SUN TO SET.
+ 
 
 "In free debate, my friends, your sentence speak;
 
@@ -29473,7 +29774,7 @@ Let us on counsel for our guard depend;
 
 The town her gates and bulwarks shall defend.
 
-\[pg 339\]
+ 
 
 When morning dawns, our well-appointed powers,
 
@@ -29575,7 +29876,7 @@ When the grim savage, to his rifled den
 
 Too late returning, snuffs the track of men,
 
-\[pg 340\]
+ 
 
 And o'er the vales and o'er the forest bounds;
 
@@ -29591,7 +29892,7 @@ When to console Menoetius' feeble age,
 
 I vowed his much-loved offspring to restore,
 
-Charged with rich spoils, to fair Opuntia's shore?[252](#note_252)
+Charged with rich spoils, to fair Opuntia's shore? 
 
 But mighty Jove cuts short, with just disdain,
 
@@ -29675,7 +29976,7 @@ And thou the mother of that martial line?"
 
 "What words are these? (the imperial dame replies,
 
-\[pg 341\]
+ 
 
 While anger flash'd from her majestic eyes)
 
@@ -29693,7 +29994,7 @@ Not wreak my vengeance on one guilty land?"
 
 ![Illustration: TRIPOD.](images/image55.png "TRIPOD.")
 
-TRIPOD.
+ 
 
 So they. Meanwhile the silver-footed dame
 
@@ -29743,7 +30044,7 @@ And, smiling, thus the watery queen address'd:
 
 All hail, and welcome! whatsoe'er the cause;
 
-\[pg 342\]
+ 
 
 Till now a stranger, in a happy hour
 
@@ -29751,7 +30052,7 @@ Approach, and taste the dainties of the bower."
 
 ![Illustration: THETIS AND EURYNOME RECEIVING THE INFANT VULCAN.](images/image56.png "THETIS AND EURYNOME RECEIVING THE INFANT VULCAN.")
 
-THETIS AND EURYNOME RECEIVING THE INFANT VULCAN.
+ 
 
 High on a throne, with stars of silver graced,
 
@@ -29807,7 +30108,7 @@ Locks in their chests his instruments of trade.
 
 Then with a sponge the sooty workman dress'd
 
-\[pg 343\]
+ 
 
 His brawny arms embrown'd, and hairy breast.
 
@@ -29841,7 +30142,7 @@ And Vulcan's joy and duty to obey."
 
 ![Illustration: VULCAN AND CHARIS RECEIVING THETIS.](images/image57.png "VULCAN AND CHARIS RECEIVING THETIS.")
 
-VULCAN AND CHARIS RECEIVING THETIS.
+ 
 
 To whom the mournful mother thus replies:
 
@@ -29871,7 +30172,7 @@ Like some fair plant beneath my careful hand
 
 He grew, he flourish'd, and he graced the land:
 
-\[pg 344\]
+ 
 
 To Troy I sent him! but his native shore
 
@@ -29953,9 +30254,9 @@ Then first he form'd the immense and solid shield;
 
 Rich various artifice emblazed the field;
 
-Its utmost verge a threefold circle bound;[253](#note_253)
+Its utmost verge a threefold circle bound; 
 
-\[pg 345\]
+ 
 
 A silver chain suspends the massy round;
 
@@ -30019,7 +30320,7 @@ The appointed heralds still the noisy bands,
 
 And form a ring, with sceptres in their hands:
 
-On seats of stone, within the sacred place,[254](#note_254)
+On seats of stone, within the sacred place, 
 
 The reverend elders nodded o'er the case;
 
@@ -30031,11 +30332,11 @@ Two golden talents lay amidst, in sight,
 
 The prize of him who best adjudged the right.
 
-Another part (a prospect differing far)[255](#note_255)
+Another part (a prospect differing far) 
 
 Glow'd with refulgent arms, and horrid war.
 
-\[pg 346\]
+ 
 
 Two mighty hosts a leaguer'd town embrace,
 
@@ -30105,9 +30406,9 @@ And the whole war came out, and met the eye;
 
 And each bold figure seem'd to live or die.
 
-A field deep furrow'd next the god design'd,[256](#note_256)
+A field deep furrow'd next the god design'd, 
 
-\[pg 347\]
+ 
 
 The third time labour'd by the sweating hind;
 
@@ -30203,7 +30504,7 @@ He roar'd: in vain the dogs, the men withstood;
 
 They tore his flesh, and drank his sable blood.
 
-\[pg 348\]
+ 
 
 The dogs (oft cheer'd in vain) desert the prey,
 
@@ -30279,18 +30580,21 @@ She, as a falcon cuts the aerial way,
 
 Swift from Olympus' snowy summit flies,
 
-And bears the blazing present through the skies.[257](#note_257)
+And bears the blazing present through the skies. 
 
-* * *
 
-\[pg 349\]
 
-BOOK XIX.
-=========
+---
+
+ 
+
+### BOOK XIX. THE RECONCILIATION OF ACHILLES AND AGAMEMNON.
+
+
 
 ARGUMENT.
 
-THE RECONCILIATION OF ACHILLES AND AGAMEMNON.
+
 
 Thetis brings to her son the armour made by Vulcan. She preserves the body of his friend from corruption, and commands him to assemble the army, to declare his resentment at an end. Agamemnon and Achilles are solemnly reconciled: the speeches, presents, and ceremonies on that occasion. Achilles is with great difficulty persuaded to refrain from the battle till the troops have refreshed themselves by the advice of Ulysses. The presents are conveyed to the tent of Achilles, where Briseis laments over the body of Patroclus. The hero obstinately refuses all repast, and gives himself up to lamentations for his friend. Minerva descends to strengthen him, by the order of Jupiter. He arms for the fight: his appearance described. He addresses himself to his horses, and reproaches them with the death of Patroclus. One of them is miraculously endued with voice, and inspired to prophesy his fate: but the hero, not astonished by that prodigy, rushes with fury to the combat.
 
@@ -30336,7 +30640,7 @@ Unmoved the hero kindles at the show,
 
 And feels with rage divine his bosom glow;
 
-\[pg 350\]
+ 
 
 From his fierce eyeballs living flames expire,
 
@@ -30376,7 +30680,7 @@ And heaven with strength supply the mighty rage!"
 
 ![Illustration: THETIS BRINGING THE ARMOUR TO ACHILLES.](images/image58.png "THETIS BRINGING THE ARMOUR TO ACHILLES.")
 
-THETIS BRINGING THE ARMOUR TO ACHILLES.
+ 
 
 Then in the nostrils of the slain she pour'd
 
@@ -30402,7 +30706,7 @@ Studious to see the terror of the plain,
 
 Long lost to battle, shine in arms again.
 
-\[pg 351\]
+ 
 
 Tydides and Ulysses first appear,
 
@@ -30504,7 +30808,7 @@ Of old, she stalk'd amid the bright abodes;
 
 And Jove himself, the sire of men and gods,
 
-\[pg 352\]
+ 
 
 The world's great ruler, felt her venom'd dart;
 
@@ -30572,7 +30876,7 @@ Ordain'd with man's contentious race to dwell.
 
 Full oft the god his son's hard toils bemoan'd,
 
-Cursed the dire fury, and in secret groan'd.[258](#note_258)
+Cursed the dire fury, and in secret groan'd. 
 
 Even thus, like Jove himself, was I misled,
 
@@ -30592,7 +30896,7 @@ Resume thy arms, and shine again in war."
 
 " O king of nations! whose superior sway
 
-\[pg 353\]
+ 
 
 (Returns Achilles) all our hosts obey!
 
@@ -30694,7 +30998,7 @@ These to select, Ulysses, be thy care:
 
 In order rank'd let all our gifts appear,
 
-\[pg 354\]
+ 
 
 And the fair train of captives close the rear:
 
@@ -30796,7 +31100,7 @@ And all at once on haughty Troy descend."
 
 And now the delegates Ulysses sent,
 
-\[pg 355\]
+ 
 
 To bear the presents from the royal tent:
 
@@ -30898,7 +31202,7 @@ March'd onward, bending with the gifts they bore.
 
 Those in the tents the squires industrious spread:
 
-\[pg 356\]
+ 
 
 The foaming coursers to the stalls they led;
 
@@ -31000,7 +31304,7 @@ What more if hoary Peleus were deceased?
 
 Who now, perhaps, in Phthia dreads to hear
 
-\[pg 357\]
+ 
 
 His son's sad fate, and drops a tender tear.
 
@@ -31064,7 +31368,7 @@ The wide air floating to her ample wings,
 
 To great Achilles she her flight address'd,
 
-And pour'd divine ambrosia in his breast,[259](#note_259)
+And pour'd divine ambrosia in his breast, 
 
 With nectar sweet, (refection of the gods!)
 
@@ -31094,7 +31398,7 @@ Thick beats the centre as the coursers bound;
 
 With splendour flame the skies, and laugh the fields around,
 
-\[pg 358\]
+ 
 
 Full in the midst, high-towering o'er the rest,
 
@@ -31196,7 +31500,7 @@ High o'er the host, all terrible he stands,
 
 And thunders to his steeds these dread commands:
 
-\[pg 359\]
+ 
 
 "Xanthus and Balius! of Podarges' strain,
 
@@ -31264,18 +31568,21 @@ Now perish Troy!" He said, and rush'd to fight.
 
 ![Illustration: HERCULES.](images/image59.png "HERCULES.")
 
-HERCULES.
+ 
 
-* * *
 
-\[pg 360\]
 
-BOOK XX.
-========
+---
+
+ 
+
+### BOOK XX. THE BATTLE OF THE GODS, AND THE ACTS OF ACHILLES.
+
+
 
 ARGUMENT.
 
-THE BATTLE OF THE GODS, AND THE ACTS OF ACHILLES.
+
 
 Jupiter, upon Achilles' return to the battle, calls a council of the gods, and permits them to assist either party. The terrors of the combat described, when the deities are engaged. Apollo encourages Æneas to meet Achilles. After a long conversation, these two heroes encounter; but Æneas is preserved by the assistance of Neptune. Achilles falls upon the rest of the Trojans, and is upon the point of killing Hector, but Apollo conveys him away in a cloud. Achilles pursues the Trojans with a great slaughter.
 
@@ -31329,7 +31636,7 @@ And question'd thus the sire of men and gods:
 
 And grasps the thunder in his awful hands,
 
-\[pg 361\]
+ 
 
 Thus to convene the whole ethereal state?
 
@@ -31431,7 +31738,7 @@ Now shouts to Simois, from her beauteous hill;
 
 The mountain shook, the rapid stream stood still.
 
-\[pg 362\]
+ 
 
 Above, the sire of gods his thunder rolls,
 
@@ -31449,7 +31756,7 @@ Troy's turrets totter on the rocking plain,
 
 And the toss'd navies beat the heaving main.
 
-Deep in the dismal regions of the dead,[260](#note_260)
+Deep in the dismal regions of the dead, 
 
 The infernal monarch rear'd his horrid head,
 
@@ -31459,11 +31766,11 @@ His dark dominions open to the day,
 
 And pour in light on Pluto's drear abodes,
 
-Abhorr'd by men, and dreadful even to gods.[261](#note_261)
+Abhorr'd by men, and dreadful even to gods. 
 
 ![Illustration: THE GODS DESCENDING TO BATTLE.](images/image60.png "THE GODS DESCENDING TO BATTLE.")
 
-THE GODS DESCENDING TO BATTLE.
+ 
 
 Such war the immortals wage; such horrors rend
 
@@ -31483,7 +31790,7 @@ The quiver'd Dian, sister of the day,
 
 (Her golden arrows sounding at her side,)
 
-\[pg 363\]
+ 
 
 Saturnia, majesty of heaven, defied.
 
@@ -31585,7 +31892,7 @@ And thus, assembling all the powers, she said:
 
 Lo great Æneas rushing to the war!
 
-\[pg 364\]
+ 
 
 Against Pelides he directs his course,
 
@@ -31601,7 +31908,7 @@ We, the great armament of heaven, came down.
 
 Hereafter let him fall, as Fates design,
 
-That spun so short his life's illustrious line:[262](#note_262)
+That spun so short his life's illustrious line: 
 
 But lest some adverse god now cross his way,
 
@@ -31609,7 +31916,7 @@ Give him to know what powers assist this day:
 
 For how shall mortal stand the dire alarms,
 
-When heaven's refulgent host appear in arms?"[263](#note_263)
+When heaven's refulgent host appear in arms?" 
 
 Thus she; and thus the god whose force can make
 
@@ -31679,7 +31986,7 @@ Amid both hosts (a dreadful space) appear,
 
 There great Achilles; bold Æneas, here.
 
-\[pg 365\]
+ 
 
 With towering strides Aeneas first advanced;
 
@@ -31781,7 +32088,7 @@ Such we disdain; the best may be defied
 
 With mean reproaches, and unmanly pride;
 
-\[pg 366\]
+ 
 
 Unworthy the high race from which we came
 
@@ -31813,7 +32120,7 @@ Dardania's walls he raised; for Ilion, then,
 
 Was not. The natives were content to till
 
-The shady foot of Ida's fountful hill.[264](#note_264)
+The shady foot of Ida's fountful hill. 
 
 From Dardanus great Erichthonius springs,
 
@@ -31839,7 +32146,7 @@ These lightly skimming, when they swept the plain,
 
 Nor plied the grass, nor bent the tender grain;
 
-And when along the level seas they flew,[265](#note_265)
+And when along the level seas they flew, 
 
 Scarce on the surface curl'd the briny dew.
 
@@ -31869,7 +32176,7 @@ And Priam, bless'd with Hector, brave and bold;
 
 Clytius and Lampus, ever-honour'd pair;
 
-\[pg 367\]
+ 
 
 And Hicetaon, thunderbolt of war.
 
@@ -31971,7 +32278,7 @@ Draws his broad blade, and at Æneas flies:
 
 With force collected, heaves a mighty stone:
 
-\[pg 368\]
+ 
 
 A mass enormous! which in modern days
 
@@ -31999,7 +32306,7 @@ Sure, though he wars for Troy, he claims our aid.
 
 Fate wills not this; nor thus can Jove resign
 
-The future father of the Dardan line:[266](#note_266)
+The future father of the Dardan line: 
 
 The first great ancestor obtain'd his grace,
 
@@ -32039,7 +32346,7 @@ Through all the whistling darts his course he bends,
 
 Swift interposed between the warrior flies,
 
-And casts thick darkness o'er Achilles' eyes.[267](#note_267)
+And casts thick darkness o'er Achilles' eyes. 
 
 From great Æneas' shield the spear he drew,
 
@@ -32053,7 +32360,7 @@ Smooth-gliding without step, above the heads
 
 Of warring heroes, and of bounding steeds:
 
-\[pg 369\]
+ 
 
 Till at the battle's utmost verge they light,
 
@@ -32155,7 +32462,7 @@ That fire, that steel, your Hector should withstand,
 
 And brave that vengeful heart, that dreadful hand."
 
-\[pg 370\]
+ 
 
 Thus (breathing rage through all) the hero said;
 
@@ -32245,13 +32552,13 @@ The victim bull; the rocks re-bellow round,
 
 And ocean listens to the grateful sound.
 
-Then fell on Polydore his vengeful rage,[268](#note_268)
+Then fell on Polydore his vengeful rage, 
 
 The youngest hope of Priam's stooping age:
 
 (Whose feet for swiftness in the race surpass'd:)
 
-\[pg 371\]
+ 
 
 Of all his sons, the dearest, and the last.
 
@@ -32353,7 +32660,7 @@ If any power assist Achilles' hand.
 
 Fly then inglorious! but thy flight this day
 
-\[pg 372\]
+ 
 
 Whole hecatombs of Trojan ghosts shall pay."
 
@@ -32455,7 +32762,7 @@ Fires the high woods, and blazes to the skies,
 
 This way and that, the spreading torrent roars:
 
-\[pg 373\]
+ 
 
 So sweeps the hero through the wasted shores;
 
@@ -32493,18 +32800,21 @@ Such is the lust of never-dying fame!
 
 ![Illustration: CENTAUR.](images/image61.png "CENTAUR.")
 
-CENTAUR.
+ 
 
-* * *
 
-\[pg 374\]
 
-BOOK XXI.
-=========
+---
+
+ 
+
+### BOOK XXI. THE BATTLE IN THE RIVER SCAMANDER. 
+
+
 
 ARGUMENT.
 
-THE BATTLE IN THE RIVER SCAMANDER.[269](#note_269)
+
 
 The Trojans fly before Achilles, some towards the town, others to the river Scamander: he falls upon the latter with great slaughter: takes twelve captives alive, to sacrifice to the shade of Patroclus; and kills Lycaon and Asteropeus. Scamander attacks him with all his waves: Neptune and Pallas assist the hero: Simois joins Scamander: at length Vulcan, by the instigation of Juno, almost dries up the river. This Combat ended, the other gods engage each other. Meanwhile Achilles continues the slaughter, drives the rest into Troy: Agenor only makes a stand, and is conveyed away in a cloud by Apollo; who (to delude Achilles) takes upon him Agenor's shape, and while he pursues him in that disguise, gives the Trojans an opportunity of retiring into their city.
 
@@ -32534,7 +32844,7 @@ With cries promiscuous all the banks resound,
 
 And here, and there, in eddies whirling round,
 
-\[pg 375\]
+ 
 
 The flouncing steeds and shrieking warriors drown'd.
 
@@ -32636,7 +32946,7 @@ And knock'd his faltering knees, the hero said.
 
 "Ye mighty gods! what wonders strike my view!
 
-\[pg 376\]
+ 
 
 Is it in vain our conquering arms subdue?
 
@@ -32738,7 +33048,7 @@ The youth address'd to unrelenting ears:
 
 Patroclus dead, whoever meets me, dies:
 
-\[pg 377\]
+ 
 
 In vain a single Trojan sues for grace;
 
@@ -32840,7 +33150,7 @@ On him Achilles rush'd; he fearless stood,
 
 And shook two spears, advancing from the flood;
 
-\[pg 378\]
+ 
 
 The flood impell'd him, on Pelides' head
 
@@ -32942,7 +33252,7 @@ Even Achelous might contend in vain,
 
 And all the roaring billows of the main.
 
-\[pg 379\]
+ 
 
 The eternal ocean, from whose fountains flow
 
@@ -33046,7 +33356,7 @@ While all before, the billows ranged on high,
 
 Now bursting on his head with thundering sound,
 
-\[pg 380\]
+ 
 
 The falling deluge whelms the hero round:
 
@@ -33060,7 +33370,7 @@ A spreading elm, that overhung the flood;
 
 He seized a bending bough, his steps to stay;
 
-The plant uprooted to his weight gave way.[270](#note_270)
+The plant uprooted to his weight gave way. 
 
 Heaving the bank, and undermining all;
 
@@ -33140,7 +33450,7 @@ And still indignant bounds above the waves.
 
 Tired by the tides, his knees relax with toil;
 
-\[pg 381\]
+ 
 
 Wash'd from beneath him slides the slimy soil;
 
@@ -33152,7 +33462,7 @@ Forth bursts the hero with an angry groan:
 
 No power to avert his miserable end?
 
-Prevent, O Jove! this ignominious date,[271](#note_271)
+Prevent, O Jove! this ignominious date, 
 
 And make my future life the sport of fate.
 
@@ -33238,7 +33548,7 @@ With equal rage, indignant Xanthus roars,
 
 And lifts his billows, and o'erwhelms his shores.
 
-\[pg 382\]
+ 
 
 Then thus to Simois! "Haste, my brother flood;
 
@@ -33282,7 +33592,7 @@ These his cold rites, and this his watery tomb."
 
 ![Illustration: ACHILLES CONTENDING WITH THE RIVERS.](images/image62.png "ACHILLES CONTENDING WITH THE RIVERS.")
 
-ACHILLES CONTENDING WITH THE RIVERS.
+ 
 
 He said; and on the chief descends amain,
 
@@ -33300,7 +33610,7 @@ Fear touch'd the queen of heaven: she saw dismay'd,
 
 She call'd aloud, and summon'd Vulcan's aid.
 
-\[pg 383\]
+ 
 
 "Rise to the war! the insulting flood requires
 
@@ -33378,7 +33688,7 @@ He ceased; wide conflagration blazing round;
 
 The bubbling waters yield a hissing sound.
 
-As when the flames beneath a cauldron rise,[272](#note_272)
+As when the flames beneath a cauldron rise, 
 
 To melt the fat of some rich sacrifice,
 
@@ -33392,7 +33702,7 @@ And choked with vapours feels his bottom glow.
 
 To Juno then, imperial queen of air,
 
-\[pg 384\]
+ 
 
 The burning river sends his earnest prayer:
 
@@ -33494,7 +33804,7 @@ How far Minerva's force transcends thy own?
 
 Juno, whom thou rebellious darest withstand,
 
-\[pg 385\]
+ 
 
 Corrects thy folly thus by Pallas' hand;
 
@@ -33590,9 +33900,9 @@ Our latent godhead, and the prize denied:
 
 Mad as he was, he threaten'd servile bands,
 
-And doom'd us exiles far in barbarous lands.[273](#note_273)
+And doom'd us exiles far in barbarous lands. 
 
-\[pg 386\]
+ 
 
 Incensed, we heavenward fled with swiftest wing,
 
@@ -33696,7 +34006,7 @@ Yet still her heart against the marble beats.
 
 To her Latona hastes with tender care;
 
-\[pg 387\]
+ 
 
 Whom Hermes viewing, thus declines the war:
 
@@ -33798,7 +34108,7 @@ The opening folds; the sounding hinges rung.
 
 Phoebus rush'd forth, the flying bands to meet;
 
-\[pg 388\]
+ 
 
 Struck slaughter back, and cover'd the retreat,
 
@@ -33900,7 +34210,7 @@ Roused from his thicket by a storm of darts:
 
 Untaught to fear or fly, he hears the sounds
 
-\[pg 389\]
+ 
 
 Of shouting hunters, and of clamorous hounds;
 
@@ -33992,16 +34302,19 @@ Pale Troy against Achilles shuts her gate:
 
 And nations breathe, deliver'd from their fate.
 
-* * *
 
-\[pg 390\]
 
-BOOK XXII.
-==========
+---
+
+ 
+
+### BOOK XXII. THE DEATH OF HECTOR.
+
+
 
 ARGUMENT.
 
-THE DEATH OF HECTOR.
+
 
 The Trojans being safe within the walls, Hector only stays to oppose Achilles. Priam is struck at his approach, and tries to persuade his son to re-enter the town. Hecuba joins her entreaties, but in vain. Hector consults within himself what measures to take; but at the advance of Achilles, his resolution fails him, and he flies. Achilles pursues him thrice round the walls of Troy. The gods debate concerning the fate of Hector; at length Minerva descends to the aid of Achilles. She deludes Hector in the shape of Deiphobus; he stands the combat, and is slain. Achilles drags the dead body at his chariot in the sight of Priam and Hecuba. Their lamentations, tears, and despair. Their cries reach the ears of Andromache, who, ignorant of this, was retired into the inner part of the palace: she mounts up to the walls, and beholds her dead husband. She swoons at the spectacle. Her excess of grief and lamentation.
 
@@ -34047,7 +34360,7 @@ What boots thee now, that Troy forsook the plain?
 
 Vain thy past labour, and thy present vain:
 
-\[pg 391\]
+ 
 
 Safe in their walls are now her troops bestow'd,
 
@@ -34081,7 +34394,7 @@ Him, as he blazing shot across the field,
 
 The careful eyes of Priam first beheld.
 
-Not half so dreadful rises to the sight,[274](#note_274)
+Not half so dreadful rises to the sight, 
 
 Through the thick gloom of some tempestuous night,
 
@@ -34137,7 +34450,7 @@ Two, while I speak, my eyes in vain explore,
 
 Two from one mother sprung, my Polydore,
 
-\[pg 392\]
+ 
 
 And loved Lycaon; now perhaps no more!
 
@@ -34239,7 +34552,7 @@ And thus, fast-falling the salt tears, she said:
 
 "Have mercy on me, O my son! revere
 
-\[pg 393\]
+ 
 
 The words of age; attend a parent's prayer!
 
@@ -34285,7 +34598,7 @@ And his red eyeballs glare with living fire.
 
 Beneath a turret, on his shield reclined,
 
-He stood, and question'd thus his mighty mind:[275](#note_275)
+He stood, and question'd thus his mighty mind: 
 
 "Where lies my way? to enter in the wall?
 
@@ -34339,7 +34652,7 @@ Which Troy shall, sworn, produce; that injured Greece
 
 May share our wealth, and leave our walls in peace.
 
-\[pg 394\]
+ 
 
 But why this thought? Unarm'd if I should go,
 
@@ -34421,7 +34734,7 @@ Whose polish'd bed receives the falling rills;
 
 Where Trojan dames (ere yet alarm'd by Greece)
 
-Wash'd their fair garments in the days of peace.[276](#note_276)
+Wash'd their fair garments in the days of peace. 
 
 By these they pass'd, one chasing, one in flight:
 
@@ -34435,7 +34748,7 @@ No vulgar victim must reward the day:
 
 The prize contended was great Hector's life.
 
-\[pg 395\]
+ 
 
 As when some hero's funerals are decreed
 
@@ -34537,7 +34850,7 @@ Their sinking limbs the fancied course forsake,
 
 Nor this can fly, nor that can overtake:
 
-\[pg 396\]
+ 
 
 No less the labouring heroes pant and strain:
 
@@ -34639,7 +34952,7 @@ Come then, the glorious conflict let us try,
 
 Let the steel sparkle, and the javelin fly;
 
-\[pg 397\]
+ 
 
 Or let us stretch Achilles on the field,
 
@@ -34741,7 +35054,7 @@ To thee, presumptuous as thou art, unknown,
 
 Or what must prove my fortune, or thy own.
 
-\[pg 398\]
+ 
 
 Boasting is but an art, our fears to blind,
 
@@ -34819,7 +35132,7 @@ Nodding at every step: (Vulcanian frame!)
 
 And as he moved, his figure seem'd on flame.
 
-As radiant Hesper shines with keener light,[277](#note_277)
+As radiant Hesper shines with keener light, 
 
 Far-beaming o'er the silver host of night,
 
@@ -34837,7 +35150,7 @@ Securely cased the warrior's body o'er.
 
 One space at length he spies, to let in fate,
 
-\[pg 399\]
+ 
 
 Where 'twixt the neck and throat the jointed plate
 
@@ -34927,9 +35240,9 @@ And angry gods shall wreak this wrong on thee;
 
 Phoebus and Paris shall avenge my fate,
 
-And stretch thee here before the Scaean gate."[278](#note_278)
+And stretch thee here before the Scaean gate." 
 
-\[pg 400\]
+ 
 
 He ceased. The Fates suppress'd his labouring breath,
 
@@ -35031,7 +35344,7 @@ Proud on his car the insulting victor stood,
 
 And bore aloft his arms, distilling blood.
 
-\[pg 401\]
+ 
 
 He smites the steeds; the rapid chariot flies;
 
@@ -35133,7 +35446,7 @@ And all the eyes of Ilion stream'd around.
 
 Amidst her matrons Hecuba appears:
 
-\[pg 402\]
+ 
 
 (A mourning princess, and a train in tears;)
 
@@ -35187,7 +35500,7 @@ And thus, astonish'd, to her maids she calls:
 
 ![Illustration: THE BATH.](images/image63.png "THE BATH.")
 
-THE BATH.
+ 
 
 "Ah follow me! (she cried) what plaintive noise
 
@@ -35203,7 +35516,7 @@ Some strange disaster, some reverse of fate
 
 Far be the omen which my thoughts suggest!
 
-\[pg 403\]
+ 
 
 But much I fear my Hector's dauntless breast
 
@@ -35253,7 +35566,7 @@ She faints, or but recovers to complain.
 
 ![Illustration: ANDROMACHE FAINTING ON THE WALL.](images/image64.png "ANDROMACHE FAINTING ON THE WALL.")
 
-ANDROMACHE FAINTING ON THE WALL.
+ 
 
 "O wretched husband of a wretched wife!
 
@@ -35271,7 +35584,7 @@ Why was my birth to great Aetion owed,
 
 And why was all that tender care bestow'd?
 
-\[pg 404\]
+ 
 
 Would I had never been!—O thou, the ghost
 
@@ -35343,7 +35656,7 @@ Sunk soft in down upon the nurse's breast,
 
 Must—ah what must he not? Whom Ilion calls
 
-Astyanax, from her well-guarded walls,[279](#note_279)
+Astyanax, from her well-guarded walls, 
 
 Is now that name no more, unhappy boy!
 
@@ -35369,16 +35682,19 @@ So spake the mournful dame: her matrons hear,
 
 Sigh back her sighs, and answer tear with tear.
 
-* * *
 
-\[pg 405\]
 
-BOOK XXIII.
-===========
+---
+
+ 
+
+### BOOK XXIII. FUNERAL GAMES IN HONOUR OF PATROCLUS. 
+
+
 
 ARGUMENT.
 
-FUNERAL GAMES IN HONOUR OF PATROCLUS.[280](#note_280)
+
 
 Achilles and the Myrmidons do honours to the body of Patroclus. After the funeral feast he retires to the sea-shore, where, falling asleep, the ghost of his friend appears to him, and demands the rites of burial; the next morning the soldiers are sent with mules and waggons to fetch wood for the pyre. The funeral procession, and the offering their hair to the dead. Achilles sacrifices several animals, and lastly twelve Trojan captives, at the pile; then sets fire to it. He pays libations to the Winds, which (at the instance of Iris) rise, and raise the flames. When the pile has burned all night, they gather the bones, place them in an urn of gold, and raise the tomb. Achilles institutes the funeral games: the chariot-race, the fight of the caestus, the wrestling, the foot-race, the single combat, the discus, the shooting with arrows, the darting the javelin: the various descriptions of which, and the various success of the several antagonists, make the greatest part of the book.
 
@@ -35412,9 +35728,9 @@ Ere yet from rest or food we seek relief,
 
 Some rites remain, to glut our rage of grief."
 
-\[pg 406\]
+ 
 
-The troops obey'd; and thrice in order led[281](#note_281)
+The troops obey'd; and thrice in order led 
 
 (Achilles first) their coursers round the dead;
 
@@ -35488,7 +35804,7 @@ With kindled flames the tripod-vase surround:
 
 To cleanse his conquering hands from hostile gore,
 
-They urged in vain; the chief refused, and swore:[282](#note_282)
+They urged in vain; the chief refused, and swore: 
 
 "No drop shall touch me, by almighty Jove!
 
@@ -35506,7 +35822,7 @@ Howe'er, reluctant as I am, I stay
 
 And share your feast; but with the dawn of day,
 
-\[pg 407\]
+ 
 
 (O king of men!) it claims thy royal care,
 
@@ -35604,9 +35920,9 @@ That golden urn, thy goddess-mother gave,
 
 May mix our ashes in one common grave."
 
-"And is it thou? (he answers) To my sight[283](#note_283)
+"And is it thou? (he answers) To my sight 
 
-\[pg 408\]
+ 
 
 Once more return'st thou from the realms of night?
 
@@ -35622,7 +35938,7 @@ He said, and with his longing arms essay'd
 
 In vain to grasp the visionary shade!
 
-Like a thin smoke he sees the spirit fly,[284](#note_284)
+Like a thin smoke he sees the spirit fly, 
 
 And hears a feeble, lamentable cry.
 
@@ -35670,15 +35986,15 @@ Axes to cut, and ropes to sling the load.
 
 First march the heavy mules, securely slow,
 
-O'er hills, o'er dales, o'er crags, o'er rocks they go:[285](#note_285)
+O'er hills, o'er dales, o'er crags, o'er rocks they go: 
 
 Jumping, high o'er the shrubs of the rough ground,
 
 Rattle the clattering cars, and the shock'd axles bound
 
-But when arrived at Ida's spreading woods,[286](#note_286)
+But when arrived at Ida's spreading woods, 
 
-\[pg 409\]
+ 
 
 (Fair Ida, water'd with descending floods,)
 
@@ -35738,7 +36054,7 @@ But great Achilles stands apart in prayer,
 
 And from his head divides the yellow hair;
 
-Those curling locks which from his youth he vow'd,[287](#note_287)
+Those curling locks which from his youth he vow'd, 
 
 And sacred grew, to Sperchius' honour'd flood:
 
@@ -35766,7 +36082,7 @@ So vow'd my father, but he vow'd in vain;
 
 No more Achilles sees his native plain;
 
-\[pg 410\]
+ 
 
 In that vain hope these hairs no longer grow,
 
@@ -35794,7 +36110,7 @@ He said: the people to their ships return:
 
 While those deputed to inter the slain
 
-Heap with a rising pyramid the plain.[288](#note_288)
+Heap with a rising pyramid the plain. 
 
 A hundred foot in length, a hundred wide,
 
@@ -35822,7 +36138,7 @@ Fall two, selected to attend their lord,
 
 Then last of all, and horrible to tell,
 
-Sad sacrifice! twelve Trojan captives fell.[289](#note_289)
+Sad sacrifice! twelve Trojan captives fell. 
 
 On these the rage of fire victorious preys,
 
@@ -35830,7 +36146,7 @@ Involves and joins them in one common blaze.
 
 Smear'd with the bloody rites, he stands on high,
 
-And calls the spirit with a dreadful cry:[290](#note_290)
+And calls the spirit with a dreadful cry: 
 
 "All hail, Patroclus! let thy vengeful ghost
 
@@ -35856,7 +36172,7 @@ She watch'd him all the night and all the day,
 
 And drove the bloodhounds from their destined prey.
 
-\[pg 411\]
+ 
 
 Nor sacred Phoebus less employ'd his care;
 
@@ -35868,7 +36184,7 @@ Against the solar beam and Sirian fire.
 
 ![Illustration: THE FUNERAL PILE OF PATROCLUS.](images/image65.png "THE FUNERAL PILE OF PATROCLUS.")
 
-THE FUNERAL PILE OF PATROCLUS.
+ 
 
 Nor yet the pile, where dead Patroclus lies,
 
@@ -35922,7 +36238,7 @@ Let on Patroclus' pile your blast be driven,
 
 And bear the blazing honours high to heaven."
 
-\[pg 412\]
+ 
 
 Swift as the word she vanish'd from their view;
 
@@ -36024,7 +36340,7 @@ The Greeks obey; where yet the embers glow,
 
 Wide o'er the pile the sable wine they throw,
 
-\[pg 413\]
+ 
 
 And deep subsides the ashy heap below.
 
@@ -36126,7 +36442,7 @@ The steeds of Tros beneath his yoke compell'd
 
 (Which late obey'd the Dardan chiefs command,
 
-\[pg 414\]
+ 
 
 When scarce a god redeem'd him from his hand).
 
@@ -36228,7 +36544,7 @@ While thy strict hand his fellow's head restrains,
 
 And turns him short; till, doubling as they roll,
 
-\[pg 415\]
+ 
 
 The wheel's round naves appear to brush the goal.
 
@@ -36330,7 +36646,7 @@ And, hovering o'er, their stretching shadows sees.
 
 Then had he lost, or left a doubtful prize;
 
-\[pg 416\]
+ 
 
 But angry Phoebus to Tydides flies,
 
@@ -36432,7 +36748,7 @@ He flies more fast, and throws up all the rein.
 
 Far as an able arm the disk can send,
 
-\[pg 417\]
+ 
 
 When youthful rivals their full force extend,
 
@@ -36534,7 +36850,7 @@ Eumelus' steeds, high bounding in the chase,
 
 Still, as at first, unrivall'd lead the race:
 
-\[pg 418\]
+ 
 
 I well discern him, as he shakes the rein,
 
@@ -36636,7 +36952,7 @@ Slow dragged the steeds his batter'd chariot on:
 
 Achilles saw, and pitying thus begun:
 
-\[pg 419\]
+ 
 
 "Behold! the man whose matchless art surpass'd
 
@@ -36738,7 +37054,7 @@ And vindicate by oath th' ill-gotten prize?
 
 Rise if thou darest, before thy chariot stand,
 
-\[pg 420\]
+ 
 
 The driving scourge high-lifted in thy hand;
 
@@ -36840,7 +37156,7 @@ For ever snatch'd from our desiring eyes!
 
 Take thou this token of a grateful heart,
 
-\[pg 421\]
+ 
 
 Though 'tis not thine to hurl the distant dart,
 
@@ -36942,7 +37258,7 @@ Two heroes equal to this hardy fight;
 
 Who dare the foe with lifted arms provoke,
 
-\[pg 422\]
+ 
 
 And rush beneath the long-descending stroke.
 
@@ -36954,7 +37270,7 @@ This mule his dauntless labours shall repay,
 
 The vanquish'd bear the massy bowl away."
 
-This dreadful combat great Epeus chose;[291](#note_291)
+This dreadful combat great Epeus chose; 
 
 High o'er the crowd, enormous bulk! he rose,
 
@@ -37012,7 +37328,7 @@ And poises high in air his iron hands;
 
 With clashing gauntlets now they fiercely close,
 
-\[pg 423\]
+ 
 
 Their crackling jaws re-echo to the blows,
 
@@ -37044,7 +37360,7 @@ And dragging his disabled legs along;
 
 Nodding, his head hangs down his shoulder o'er;
 
-His mouth and nostrils pour the clotted gore;[292](#note_292)
+His mouth and nostrils pour the clotted gore; 
 
 Wrapp'd round in mists he lies, and lost to thought;
 
@@ -37106,7 +37422,7 @@ Thus to Ulysses spoke great Telamon:
 
 Prove we our force, and Jove the rest decree."
 
-\[pg 424\]
+ 
 
 He said; and, straining, heaved him off the ground
 
@@ -37208,7 +37524,7 @@ As closely following as the running thread
 
 The spindle follows, and displays the charms
 
-\[pg 425\]
+ 
 
 Of the fair spinster's breast and moving arms:
 
@@ -37310,7 +37626,7 @@ The son of Nestor, worthy of his sire.
 
 Next these a buckler, spear, and helm, he brings;
 
-\[pg 426\]
+ 
 
 Cast on the plain, the brazen burden rings:
 
@@ -37412,7 +37728,7 @@ For ploughshares, wheels, and all the rural trade."
 
 Stern Polypoetes stepp'd before the throng,
 
-\[pg 427\]
+ 
 
 And great Leonteus, more than mortal strong;
 
@@ -37514,7 +37830,7 @@ A moment hung, and spread her pinions there,
 
 Then sudden dropp'd, and left her life in air.
 
-\[pg 428\]
+ 
 
 From the pleased crowd new peals of thunder rise,
 
@@ -37562,18 +37878,21 @@ The glittering charger to Talthybius' hands.
 
 ![Illustration: CERES.](images/image65a.png "CERES.")
 
-CERES.
+ 
 
-* * *
 
-\[pg 429\]
 
-BOOK XXIV.
-==========
+---
+
+ 
+
+### BOOK XXIV. THE REDEMPTION OF THE BODY OF HECTOR.
+
+
 
 ARGUMENT.
 
-THE REDEMPTION OF THE BODY OF HECTOR.
+
 
 The gods deliberate about the redemption of Hector's body. Jupiter sends Thetis to Achilles, to dispose him for the restoring it, and Iris to Priam, to encourage him to go in person and treat for it. The old king, notwithstanding the remonstrances of his queen, makes ready for the journey, to which he is encouraged by an omen from Jupiter. He sets forth in his chariot, with a waggon loaded with presents, under the charge of Idaeus the herald. Mercury descends in the shape of a young man, and conducts him to the pavilion of Achilles. Their conversation on the way. Priam finds Achilles at his table, casts himself at his feet, and begs for the body of his son: Achilles, moved with compassion, grants his request, detains him one night in his tent, and the next morning sends him home with the body: the Trojans run out to meet him. The lamentations of Andromache, Hecuba, and Helen, with the solemnities of the funeral.
 
@@ -37615,7 +37934,7 @@ And now supine, now prone, the hero lay,
 
 Now shifts his side, impatient for the day:
 
-\[pg 430\]
+ 
 
 Then starting up, disconsolate he goes
 
@@ -37669,7 +37988,7 @@ To heaven assembled, thus Apollo spoke:
 
 ![Illustration: HECTOR'S BODY AT THE CAR OF ACHILLES.](images/image66.png "HECTOR'S BODY AT THE CAR OF ACHILLES.")
 
-HECTOR'S BODY AT THE CAR OF ACHILLES.
+ 
 
 "Unpitying powers! how oft each holy fane
 
@@ -37685,7 +38004,7 @@ The last sad honours of a funeral fire?
 
 Is then the dire Achilles all your care?
 
-\[pg 431\]
+ 
 
 That iron heart, inflexibly severe;
 
@@ -37727,7 +38046,7 @@ He violates the laws of man and god."
 
 ![Illustration: THE JUDGMENT OF PARIS.](images/image67.png "THE JUDGMENT OF PARIS.")
 
-THE JUDGMENT OF PARIS.
+ 
 
 "If equal honours by the partial skies
 
@@ -37749,7 +38068,7 @@ Springs from a goddess by a man's embrace
 
 A man divine, and chosen friend of heaven)
 
-\[pg 432\]
+ 
 
 To grace those nuptials, from the bright abode
 
@@ -37851,7 +38170,7 @@ And touch with momentary flight the skies.
 
 There in the lightning's blaze the sire they found,
 
-\[pg 433\]
+ 
 
 And all the gods in shining synod round.
 
@@ -37953,7 +38272,7 @@ Jove orders Iris to the Trojan towers:
 
 "Haste, winged goddess! to the sacred town,
 
-\[pg 434\]
+ 
 
 And urge her monarch to redeem his son.
 
@@ -37987,7 +38306,7 @@ Some sense of duty, some desire to save."
 
 ![Illustration: IRIS ADVISES PRIAM TO OBTAIN THE BODY OF HECTOR.](images/image68.png "IRIS ADVISES PRIAM TO OBTAIN THE BODY OF HECTOR.")
 
-IRIS ADVISES PRIAM TO OBTAIN THE BODY OF HECTOR.
+ 
 
 Then down her bow the winged Iris drives,
 
@@ -38021,7 +38340,7 @@ And thus in whispers greets his trembling ears:
 
 From Jove I come, Jove makes thee still his care;
 
-\[pg 435\]
+ 
 
 For Hector's sake these walls he bids thee leave,
 
@@ -38123,7 +38442,7 @@ Doom'd from the hour his luckless life begun,
 
 To dogs, to vultures, and to Peleus' son!
 
-\[pg 436\]
+ 
 
 Oh! in his dearest blood might I allay
 
@@ -38225,7 +38544,7 @@ He said, and feebly drives his friends away:
 
 The sorrowing friends his frantic rage obey.
 
-\[pg 437\]
+ 
 
 Next on his sons his erring fury falls,
 
@@ -38249,7 +38568,7 @@ You, the disgrace of Priam's house, remain!
 
 Mestor the brave, renown'd in ranks of war,
 
-With Troilus, dreadful on his rushing car,[293](#note_293)
+With Troilus, dreadful on his rushing car, 
 
 And last great Hector, more than man divine,
 
@@ -38321,7 +38640,7 @@ His grace restore thee to our roof and arms.
 
 Since victor of thy fears, and slighting mine,
 
-\[pg 438\]
+ 
 
 Heaven, or thy soul, inspires this bold design;
 
@@ -38423,7 +38742,7 @@ And gaze upon him as they gazed their last.
 
 Now forward fares the father on his way,
 
-\[pg 439\]
+ 
 
 Through the lone fields, and back to Ilion they.
 
@@ -38443,7 +38762,7 @@ Go, guard the sire: the observing foe prevent,
 
 And safe conduct him to Achilles' tent."
 
-The god obeys, his golden pinions binds,[294](#note_294)
+The god obeys, his golden pinions binds, 
 
 And mounts incumbent on the wings of winds,
 
@@ -38483,7 +38802,7 @@ A man's approach, and thus to Priam cries:
 
 This hard adventure claims thy utmost care!
 
-\[pg 440\]
+ 
 
 For much I fear destruction hovers nigh:
 
@@ -38585,7 +38904,7 @@ For him I serve, of Myrmidonian race;
 
 One ship convey'd us from our native place;
 
-\[pg 441\]
+ 
 
 Polyctor is my sire, an honour'd name,
 
@@ -38687,7 +39006,7 @@ Respecting him, my soul abjures the offence;
 
 And as the crime, I dread the consequence.
 
-\[pg 442\]
+ 
 
 Thee, far as Argos, pleased I could convey;
 
@@ -38789,7 +39108,7 @@ And, prostrate now before Achilles laid,
 
 Sudden (a venerable sight!) appears;
 
-\[pg 443\]
+ 
 
 Embraced his knees, and bathed his hands in tears;
 
@@ -38813,7 +39132,7 @@ Each look'd on other, none the silence broke,
 
 Till thus at last the kingly suppliant spoke:
 
-"Ah think, thou favour'd of the powers divine![295](#note_295)
+"Ah think, thou favour'd of the powers divine! 
 
 Think of thy father's age, and pity mine!
 
@@ -38861,7 +39180,7 @@ Him too thy rage has slain! beneath thy steel,
 
 Unhappy in his country's cause he fell!
 
-\[pg 444\]
+ 
 
 "For him through hostile camps I bent my way,
 
@@ -38963,7 +39282,7 @@ He wanders, outcast both of earth and heaven.
 
 The happiest taste not happiness sincere;
 
-\[pg 445\]
+ 
 
 But find the cordial draught is dash'd with care.
 
@@ -39065,7 +39384,7 @@ The sire obey'd him, trembling and o'eraw'd.
 
 Achilles, like a lion, rush'd abroad:
 
-\[pg 446\]
+ 
 
 Automedon and Alcimus attend,
 
@@ -39113,7 +39432,7 @@ O friend! forgive me, that I thus fulfil
 
 The gifts the father gave, be ever thine,
 
-To grace thy manes, and adorn thy shrine."[296](#note_296)
+To grace thy manes, and adorn thy shrine." 
 
 He said, and, entering, took his seat of state;
 
@@ -39147,7 +39466,7 @@ In one sad day beheld the Stygian shades;
 
 Those by Apollo's silver bow were slain,
 
-\[pg 447\]
+ 
 
 These, Cynthia's arrows stretch'd upon the plain:
 
@@ -39249,7 +39568,7 @@ Till now, encouraged by the grace you give,
 
 I share thy banquet, and consent to live."
 
-\[pg 448\]
+ 
 
 With that, Achilles bade prepare the bed,
 
@@ -39351,7 +39670,7 @@ He joins the mules, directs them with his hand,
 
 And moves in silence through the hostile land.
 
-\[pg 449\]
+ 
 
 When now to Xanthus' yellow stream they drove,
 
@@ -39453,7 +39772,7 @@ Thou to the dismal realms for ever gone!
 
 And I abandon'd, desolate, alone!
 
-\[pg 450\]
+ 
 
 An only son, once comfort of our pains,
 
@@ -39489,7 +39808,7 @@ Or son, or brother, by great Hector slain,
 
 In Hector's blood his vengeance shall enjoy,
 
-And hurl thee headlong from the towers of Troy.[297](#note_297)
+And hurl thee headlong from the towers of Troy. 
 
 For thy stern father never spared a foe:
 
@@ -39511,7 +39830,7 @@ Which never, never could be lost in air,
 
 Fix'd in my heart, and oft repeated there!"
 
-\[pg 451\]
+ 
 
 Thus to her weeping maids she makes her moan,
 
@@ -39557,7 +39876,7 @@ Fast from the shining sluices of her eyes
 
 Fall the round crystal drops, while thus she cries.
 
-"Ah, dearest friend! in whom the gods had join'd[298](#note_298)
+"Ah, dearest friend! in whom the gods had join'd 
 
 Tne mildest manners with the bravest mind,
 
@@ -39609,11 +39928,11 @@ And fell the forests for a funeral pyre;
 
 Twelve days, nor foes nor secret ambush dread;
 
-Achilles grants these honours to the dead."[299](#note_299)
+Achilles grants these honours to the dead." 
 
 ![Illustration: FUNERAL OF HECTOR.](images/image69.png "FUNERAL OF HECTOR.")
 
-FUNERAL OF HECTOR.
+ 
 
 He spoke, and, at his word, the Trojan train
 
@@ -39621,7 +39940,7 @@ Their mules and oxen harness to the wain,
 
 Pour through the gates, and fell'd from Ida's crown,
 
-\[pg 452\]
+ 
 
 Roll back the gather'd forests to the town.
 
@@ -39671,14 +39990,17 @@ And sadly shared the last sepulchral feast.
 
 Such honours Ilion to her hero paid,
 
-And peaceful slept the mighty Hector's shade.[300](#note_300)
+And peaceful slept the mighty Hector's shade. 
 
-* * *
 
-\[pg 453\]
 
-CONCLUDING NOTE.
-================
+---
+
+ 
+
+### CONCLUDING NOTE.
+
+
 
 We have now passed through the Iliad, and seen the anger of Achilles, and the terrible effects of it, at an end, as that only was the subject of the poem, and the nature of epic poetry would not permit our author to proceed to the event of the war, it perhaps may be acceptable to the common reader to give a short account of what happened to Troy and the chief actors in this poem after the conclusion of it.
 
@@ -39708,16 +40030,14 @@ A. POPE
 
 Ton theon de eupoiia—to mae epi pleon me procophai en poiaetikn kai allois epitaeoeimasi en ois isos a kateschethaen, ei aesthomaen emautan euodos proionta.
 
-M. AUREL ANTON de Seipso, lib. i. Section 17.
+---
 
-END OF THE ILLIAD
 
-* * *
+### FOOTNOTES
 
-Footnotes
-=========
 
-[1.](#noteref_1)
+
+ 
 
 "What," says Archdeacon Wilberforce, "is the natural root of loyalty as distinguished from such mere selfish desire of personal security as is apt to take its place in civilized times, but that consciousness of a natural bond among the families of men which gives a fellow-feeling to whole clans and nations, and thus enlists their affections in behalf of those time-honoured representatives of their ancient blood, in whose success they feel a personal interest? Hence the delight when we recognize an act of nobility or justice in our hereditary princes
 
@@ -39729,81 +40049,81 @@ Projice tela manu sanguis meus'
 
 "Somewhat similar may be seen in the disposition to idolize those great lawgivers of man's race, who have given expression, in the immortal language of song, to the deeper inspirations of our nature. The thoughts of Homer or of Shakespere are the universal inheritance of the human race. In this mutual ground every man meets his brother, they have been bet forth by the providence of God to vindicate for all of us what nature could effect, and that, in these representatives of our race, we might recognize our common benefactors.'—Doctrine of the Incarnation, pp. 9, 10.
 
-[2.](#noteref_2)
+ 
 
 Eikos de min aen kai mnaemoruna panton grapherthai. Vit. Hom. in Schweigh Herodot t. iv. p. 299, sq. Section 6. I may observe that this Life has been paraphrased in English by my learned young friend Kenneth R. H. Mackenzie, and appended to my prose translation of the Odyssey. The present abridgement however, will contain all that is of use to the reader, for the biographical value of the treatise is most insignificant.
 
-[3.](#noteref_3)
+ 
 
 —I.e. both of composing and reciting verses for as Blair observes, "The first poets sang their own verses." Sextus Empir. adv. Mus. p. 360 ed. Fabric. Ou hamelei ge toi kai oi poiaetai melopoioi legontai, kai ta Omaerou epae to palai pros lyran aedeto.
 
 "The voice," observes Heeren, "was always accompanied by some instrument. The bard was provided with a harp on which he played a prelude, to elevate and inspire his mind, and with which he accompanied the song when begun. His voice probably preserved a medium between singing and recitation; the words, and not the melody were regarded by the listeners, hence it was necessary for him to remain intelligible to all. In countries where nothing similar is found, it is difficult to represent such scenes to the mind; but whoever has had an opportunity of listening to the improvisation of Italy, can easily form an idea of Demodocus and Phemius."—Ancient Greece, p. 94.
 
-[4.](#noteref_4)
+ 
 
 "Should it not be, since my arrival? asks Mackenzie, observing that "poplars can hardly live so long". But setting aside the fact that we must not expect consistency in a mere romance, the ancients had a superstitious belief in the great age of trees which grew near places consecrated by the presence of gods and great men. See Cicero de Legg II I, sub init., where he speaks of the plane tree under which Socrates used to walk and of the tree at Delos, where Latona gave birth to Apollo. This passage is referred to by Stephanus of Byzantium, s. v. N. T. p. 490, ed. de Pinedo. I omit quoting any of the dull epigrams ascribed to Homer for, as Mr. Justice Talfourd rightly observes, "The authenticity of these fragments depends upon that of the pseudo Herodotean Life of Homer, from which they are taken." Lit of Greece, pp. 38 in Encycl. Metrop. Cf. Coleridge, Classic Poets, p. 317.
 
-[5.](#noteref_5)
+ 
 
 It is quoted as the work of Cleobulus, by Diogenes Laert. Vit. Cleob. p. 62, ed. Casaub.
 
-[6.](#noteref_6)
+ 
 
 I trust I am justified in employing this as an equivalent for the Greek leschai.
 
-[7.](#noteref_7)
+ 
 
 Os ei tous, Homerous doxei trephein autois, omilon pollon te kai achreoin exousin. enteuthen de kai tounoma Homeros epekrataese to Melaesigenei apo taes symphoraes oi gar Kumaioi tous tuphlous Homerous legousin. Vit. Hom. l. c. p. 311. The etymology has been condemned by recent scholars. See Welcker, Epische Cyclus, p. 127, and Mackenzie's note, p. xiv.
 
-[8.](#noteref_8)
+ 
 
 Thestorides, thnetoisin anoiston poleon per, ouden aphrastoteron peletai noou anthropoisin. Ibid. p. 315. During his stay at Phocoea, Homer is said to have composed the Little Iliad, and the Phocoeid. See Muller's Hist. of Lit., vi. Section 3. Welcker, l. c. pp. 132, 272, 358, sqq., and Mure, Gr. Lit. vol. ii. p. 284, sq.
 
-[9.](#noteref_9)
+ 
 
 This is so pretty a picture of early manners and hospitality, that it is almost a pity to find that it is obviously a copy from the Odyssey. See the fourteenth book. In fact, whoever was the author of this fictitious biography, he showed some tact in identifying Homer with certain events described in his poems, and in eliciting from them the germs of something like a personal narrative.
 
-[10.](#noteref_10)
+ 
 
 Dia logon estionto. A common metaphor. So Plato calls the parties conversing daitumones, or estiatores. Tim. i. p. 522 A. Cf. Themist. Orat. vi. p. 168, and xvi. p. 374, ed. Petav So diaegaemasi sophois omou kai terpnois aedio taen Thoinaen tois hestiomenois epoiei, Choricius in Fabric. Bibl. Gr. T. viii. P. 851. logois gar estia, Athenaeus vii p 275, A
 
-[11.](#noteref_11)
+ 
 
 It was at Bolissus, and in the house of this Chian citizen, that Homer is said to have written the Batrachomyomachia, or Battle of the Frogs and Mice, the Epicichlidia, and some other minor works.
 
-[12.](#noteref_12)
+ 
 
 Chandler, Travels, vol. i. p. 61, referred to in the Voyage Pittoresque dans la Grece, vol. i. P. 92, where a view of the spot is given of which the author candidly says,— "Je ne puis repondre d'une exactitude scrupuleuse dans la vue generale que j'en donne, car etant alle seul pour l'examiner je perdis mon crayon, et je fus oblige de m'en fier a ma memoire. Je ne crois cependant pas avoir trop a me plaindre d'elle en cette occasion."
 
-[13.](#noteref_13)
+ 
 
 A more probable reason for this companionship, and for the character of Mentor itself, is given by the allegorists, viz.: the assumption of Mentor's form by the guardian deity of the wise Ulysses, Minerva. The classical reader may compare Plutarch, Opp. t. ii. p. 880; Xyland. Heraclid. Pont. Alleg. Hom. p. 531-5, of Gale's Opusc. Mythol. Dionys. Halic. de Hom. Poes. c. 15; Apul. de Deo Socrat. s. f.
 
-[14.](#noteref_14)
+ 
 
 Vit. Hom. Section 28.
 
-[15.](#noteref_15)
+ 
 
 The riddle is given in Section 35. Compare Mackenzie's note, p. xxx.
 
-[16.](#noteref_16)
+ 
 
 Heeren's Ancient Greece, p. 96.
 
-[17.](#noteref_17)
+ 
 
 Compare Sir E. L. Bulwer's Caxtons v. i. p. 4.
 
-[18.](#noteref_18)
+ 
 
 Pericles and Aspasia, Letter lxxxiv., Works, vol ii. p. 387.
 
-[19.](#noteref_19)
+ 
 
 Quarterly Review, No. lxxxvii., p. 147.
 
-[20.](#noteref_20)
+ 
 
 Viz., the following beautiful passage, for the translation of which I am indebted to Coleridge, Classic Poets, p. 286.
 
@@ -39823,97 +40143,97 @@ Sweetest he sings—and dwells on Chios' rocky shore.'"
 
 See Thucyd. iii, 104.
 
-[21.](#noteref_21)
+ 
 
 Longin., de Sublim., ix. Section 26. Othen en tae Odysseia pareikasai tis an kataduomeno ton Omaeron haelio, oo dixa taes sphodrotaetos paramenei to megethos
 
-[22.](#noteref_22)
+ 
 
 See Tatian, quoted in Fabric. Bibl. Gr. v. II t. ii. Mr. Mackenzie has given three brief but elaborate papers on the different writers on the subject, which deserve to be consulted. See Notes and Queries, vol. v. pp. 99, 171, and 221. His own views are moderate, and perhaps as satisfactory, on the whole, as any of the hypotheses hitherto put forth. In fact, they consist in an attempt to blend those hypotheses into something like consistency, rather than in advocating any individual theory.
 
-[23.](#noteref_23)
+ 
 
 Letters to Phileleuth; Lips.
 
-[24.](#noteref_24)
+ 
 
 Hist. of Greece, vol. ii. p. 191, sqq.
 
-[25.](#noteref_25)
+ 
 
 It is, indeed not easy to calculate the height to which the memory may be cultivated. To take an ordinary case, we might refer to that of any first rate actor, who must be prepared, at a very short warning, to 'rhapsodize,' night after night, parts which when laid together, would amount to an immense number of lines. But all this is nothing to two instances of our own day. Visiting at Naples a gentleman of the highest intellectual attainments, and who held a distinguished rank among the men of letters in the last century, he informed us that the day before he had passed much time in examining a man, not highly educated, who had learned to repeat the whole Gierusalemme of Tasso, not only to recite it consecutively, but also to repeat those stanzas in utter defiance of the sense, either forwards or backwards, or from the eighth line to the first, alternately the odd and even lines—in short, whatever the passage required; the memory, which seemed to cling to the words much more than to the sense, had it at such perfect command, that it could produce it under any form. Our informant went on to state that this singular being was proceeding to learn the Orlando Furioso in the same manner. But even this instance is less wonderful than one as to which we may appeal to any of our readers that happened some twenty years ago to visit the town of Stirling, in Scotland. No such person can have forgotten the poor, uneducated man Blind Jamie who could actually repeat, after a few minutes consideration any verse required from any part of the Bible—even the obscurest and most unimportant enumeration of mere proper names not excepted. We do not mention these facts as touching the more difficult part of the question before us, but facts they are; and if we find so much difficulty in calculating the extent to which the mere memory may be cultivated, are we, in these days of multifarious reading, and of countless distracting affairs, fair judges of the perfection to which the invention and the memory combined may attain in a simpler age, and among a more single minded people?—Quarterly Review, l. c., p. 143, sqq.
 
 Heeren steers between the two opinions, observing that, "The Dschungariade of the Calmucks is said to surpass the poems of Homer in length, as much as it stands beneath them in merit, and yet it exists only in the memory of a people which is not unacquainted with writing. But the songs of a nation are probably the last things which are committed to writing, for the very reason that they are remembered."— Ancient Greece. p. 100.
 
-[26.](#noteref_26)
+ 
 
 Vol. II p. 198, sqq.
 
-[27.](#noteref_27)
+ 
 
 Quarterly Review, l. c., p. 131 sq.
 
-[28.](#noteref_28)
+ 
 
 Betrachtungen uber die Ilias. Berol. 1841. See Grote, p. 204. Notes and Queries, vol. v. p. 221.
 
-[29.](#noteref_29)
+ 
 
 Prolegg. pp. xxxii., xxxvi., &c.
 
-[30.](#noteref_30)
+ 
 
 Vol. ii. p. 214 sqq.
 
-[31.](#noteref_31)
+ 
 
 "Who," says Cicero, de Orat. iii. 34, "was more learned in that age, or whose eloquence is reported to have been more perfected by literature than that of Peisistratus, who is said first to have disposed the books of Homer in the order in which we now have them?" Compare Wolf's Prolegomena, Section 33
 
-[32.](#noteref_32)
+ 
 
 "The first book, together with the eighth, and the books from the eleventh to the twenty-second inclusive, seems to form the primary organization of the poem, then properly an Achilleis."—Grote, vol. ii. p. 235
 
-[33.](#noteref_33)
+ 
 
 K. R. H. Mackenzie, Notes and Queries, p. 222 sqq.
 
-[34.](#noteref_34)
+ 
 
 See his Epistle to Raphelingius, in Schroeder's edition, 4to., Delphis, 1728.
 
-[35.](#noteref_35)
+ 
 
 Ancient Greece, p. 101.
 
-[36.](#noteref_36)
+ 
 
 The best description of this monument will be found in Vaux's "Antiquities of the British Museum," p. 198 sq. The monument itself (Towneley Sculptures, No. 123) is well known.
 
-[37.](#noteref_37)
+ 
 
 Coleridge, Classic Poets, p. 276.
 
-[38.](#noteref_38)
+ 
 
 Preface to her Homer.
 
-[39.](#noteref_39)
+ 
 
 Hesiod. Opp. et Dier. Lib. I. vers. 155, &c.
 
-[40.](#noteref_40)
+ 
 
 The following argument of the Iliad, corrected in a few particulars, is translated from Bitaube, and is, perhaps, the neatest summary that has ever been drawn up:—"A hero, injured by his general, and animated with a noble resentment, retires to his tent; and for a season withdraws himself and his troops from the war. During this interval, victory abandons the army, which for nine years has been occupied in a great enterprise, upon the successful termination of which the honour of their country depends. The general, at length opening his eyes to the fault which he had committed, deputes the principal officers of his army to the incensed hero, with commission to make compensation for the injury, and to tender magnificent presents. The hero, according to the proud obstinacy of his character, persists in his animosity; the army is again defeated, and is on the verge of entire destruction. This inexorable man has a friend; this friend weeps before him, and asks for the hero's arms, and for permission to go to the war in his stead. The eloquence of friendship prevails more than the intercession of the ambassadors or the gifts of the general. He lends his armour to his friend, but commands him not to engage with the chief of the enemy's army, because he reserves to himself the honour of that combat, and because he also fears for his friend's life. The prohibition is forgotten; the friend listens to nothing but his courage; his corpse is brought back to the hero, and the hero's arms become the prize of the conqueror. Then the hero, given up to the most lively despair, prepares to fight; he receives from a divinity new armour, is reconciled with his general and, thirsting for glory and revenge, enacts prodigies of valour, recovers the victory, slays the enemy's chief, honours his friend with superb funeral rites, and exercises a cruel vengeance on the body of his destroyer; but finally appeased by the tears and prayers of the father of the slain warrior, restores to the old man the corpse of his son, which he buries with due solemnities.'—Coleridge, p. 177, sqq.
 
-[41.](#noteref_41)
+ 
 
 Vultures: Pope is more accurate than the poet he translates, for Homer writes "a prey to dogs and to all kinds of birds. But all kinds of birds are not carnivorous.
 
-[42.](#noteref_42)
+ 
 
 —i.e. during the whole time of their striving the will of Jove was being gradually accomplished.
 
-[43.](#noteref_43)
+ 
 
 Compare Milton's "Paradise Lost" i. 6
 
@@ -39923,27 +40243,27 @@ Of Horeb, or of Sinai, didst inspire
 
 That shepherd."
 
-[44.](#noteref_44)
+ 
 
 —Latona's son: i.e. Apollo.
 
-[45.](#noteref_45)
+ 
 
 —King of men: Agamemnon.
 
-[46.](#noteref_46)
+ 
 
 —Brother kings: Menelaus and Agamemnon.
 
-[47.](#noteref_47)
+ 
 
 —Smintheus an epithet taken from sminthos, the Phrygian name for a mouse, was applied to Apollo for having put an end to a plague of mice which had harassed that territory. Strabo, however, says, that when the Teucri were migrating from Crete, they were told by an oracle to settle in that place, where they should not be attacked by the original inhabitants of the land, and that, having halted for the night, a number of field-mice came and gnawed away the leathern straps of their baggage, and thongs of their armour. In fulfilment of the oracle, they settled on the spot, and raised a temple to Sminthean Apollo. Grote, "History of Greece," i. p. 68, remarks that the "worship of Sminthean Apollo, in various parts of the Troad and its neighboring territory, dates before the earliest period of Aeolian colonization."
 
-[48.](#noteref_48)
+ 
 
 —Cilla, a town of Troas near Thebe, so called from Cillus, a sister of Hippodamia, slain by OEnomaus.
 
-[49.](#noteref_49)
+ 
 
 A mistake. It should be,
 
@@ -39951,39 +40271,39 @@ A mistake. It should be,
 
 for the custom of decorating temples with garlands was of later date.
 
-[50.](#noteref_50)
+ 
 
 —Bent was his bow "The Apollo of Homer, it must be borne in mind, is a different character from the deity of the same name in the later classical pantheon. Throughout both poems, all deaths from unforeseen or invisible causes, the ravages of pestilence, the fate of the young child or promising adult, cut off in the germ of infancy or flower of youth, of the old man dropping peacefully into the grave, or of the reckless sinner suddenly checked in his career of crime, are ascribed to the arrows of Apollo or Diana. The oracular functions of the god rose naturally out of the above fundamental attributes, for who could more appropriately impart to mortals what little foreknowledge Fate permitted of her decrees than the agent of her most awful dispensations? The close union of the arts of prophecy and song explains his additional office of god of music, while the arrows with which he and his sister were armed, symbols of sudden death in every age, no less naturally procured him that of god of archery. Of any connection between Apollo and the Sun, whatever may have existed in the more esoteric doctrine of the Greek sanctuaries, there is no trace in either Iliad or Odyssey."—Mure, "History of Greek Literature," vol. i. p. 478, sq.
 
-[51.](#noteref_51)
+ 
 
 It has frequently been observed, that most pestilences begin with animals, and that Homer had this fact in mind.
 
-[52.](#noteref_52)
+ 
 
 —Convened to council. The public assembly in the heroic times is well characterized by Grote, vol. ii. p 92. "It is an assembly for talk. Communication and discussion to a certain extent by the chiefs in person, of the people as listeners and sympathizers—often for eloquence, and sometimes for quarrel—but here its ostensible purposes end."
 
-[53.](#noteref_53)
+ 
 
 Old Jacob Duport, whose "Gnomologia Homerica" is full of curious and useful things, quotes several passages of the ancients, in which reference is made to these words of Homer, in maintenance of the belief that dreams had a divine origin and an import in which men were interested.
 
-[54.](#noteref_54)
+ 
 
 Rather, "bright-eyed." See the German critics quoted by Arnold.
 
-[55.](#noteref_55)
+ 
 
 The prize given to Ajax was Tecmessa, while Ulysses received Laodice, the daughter of Cycnus.
 
-[56.](#noteref_56)
+ 
 
 The Myrmidons dwelt on the southern borders of Thessaly, and took their origin from Myrmido, son of Jupiter and Eurymedusa. It is fancifully supposed that the name was derived from myrmaex, an ant, "because they imitated the diligence of the ants, and like them were indefatigable, continually employed in cultivating the earth; the change from ants to men is founded merely on the equivocation of their name, which resembles that of the ant: they bore a further resemblance to these little animals, in that instead of inhabiting towns or villages, at first they commonly resided in the open fields, having no other retreats but dens and the cavities of trees, until Ithacus brought them together, and settled them in more secure and comfortable habitations."—Anthon's "Lempriere."
 
-[57.](#noteref_57)
+ 
 
 Eustathius, after Heraclides Ponticus and others, allegorizes this apparition, as if the appearance of Minerva to Achilles, unseen by the rest, was intended to point out the sudden recollection that he would gain nothing by intemperate wrath, and that it were best to restrain his anger, and only gratify it by withdrawing his services. The same idea is rather cleverly worked out by Apuleius, "De Deo Socratis."
 
-[58.](#noteref_58)
+ 
 
 Compare Milton, "Paradise Lost," bk. ii:
 
@@ -39993,27 +40313,27 @@ Dropp'd manna."
 
 So Proverbs v. 3, "For the lips of a strange woman drop as an honey-comb."
 
-[59.](#noteref_59)
+ 
 
 Salt water was chiefly used in lustrations, from its being supposed to possess certain fiery particles. Hence, if sea-water could not be obtained, salt was thrown into the fresh water to be used for the lustration. Menander, in Clem. Alex. vii. p.713, hydati perriranai, embalon alas, phakois.
 
-[60.](#noteref_60)
+ 
 
 The persons of heralds were held inviolable, and they were at liberty to travel whither they would without fear of molestation. Pollux, Onom. viii. p. 159. The office was generally given to old men, and they were believed to be under the especial protection of Jove and Mercury.
 
-[61.](#noteref_61)
+ 
 
 His mother, Thetis, the daughter of Nereus and Doris, who was courted by Neptune and Jupiter. When, however, it was known that the son to whom she would give birth must prove greater than his father, it was determined to wed her to a mortal, and Peleus, with great difficulty, succeeded in obtaining her hand, as she eluded him by assuming various forms. Her children were all destroyed by fire through her attempts to see whether they were immortal, and Achilles would have shared the same fate had not his father rescued him. She afterwards rendered him invulnerable by plunging him into the waters of the Styx, with the exception of that part of the heel by which she held him. Hygin. Fab. 54
 
-[62.](#noteref_62)
+ 
 
 Thebe was a city of Mysia, north of Adramyttium.
 
-[63.](#noteref_63)
+ 
 
 That is, defrauds me of the prize allotted me by their votes.
 
-[64.](#noteref_64)
+ 
 
 Quintus Calaber goes still further in his account of the service rendered to Jove by Thetis:
 
@@ -40021,19 +40341,19 @@ Quintus Calaber goes still further in his account of the service rendered to Jov
 
 She loosed"—Dyce's "Calaber," s. 58.
 
-[65.](#noteref_65)
+ 
 
 —To Fates averse. Of the gloomy destiny reigning throughout the Homeric poems, and from which even the gods are not exempt, Schlegel well observes, "This power extends also to the world of gods— for the Grecian gods are mere powers of nature—and although immeasurably higher than mortal man, yet, compared with infinitude, they are on an equal footing with himself."—'Lectures on the Drama' v. p. 67.
 
-[66.](#noteref_66)
+ 
 
 It has been observed that the annual procession of the sacred ship so often represented on Egyptian monuments, and the return of the deity from Ethiopia after some days' absence, serves to show the Ethiopian origin of Thebes, and of the worship of Jupiter Ammon. "I think," says Heeren, after quoting a passage from Diodorus about the holy ship, "that this procession is represented in one of the great sculptured reliefs on the temple of Karnak. The sacred ship of Ammon is on the shore with its whole equipment, and is towed along by another boat. It is therefore on its voyage. This must have been one of the most celebrated festivals, since, even according to the interpretation of antiquity, Homer alludes to it when he speaks of Jupiter's visit to the Ethiopians, and his twelve days' absence."—Long, "Egyptian Antiquities" vol. 1 p. 96. Eustathius, vol. 1 p. 98, sq. (ed. Basil) gives this interpretation, and likewise an allegorical one, which we will spare the reader.
 
-[67.](#noteref_67)
+ 
 
 —Atoned, i.e. reconciled. This is the proper and most natural meaning of the word, as may be seen from Taylor's remarks in Calmet's Dictionary, p.110, of my edition.
 
-[68.](#noteref_68)
+ 
 
 That is, drawing back their necks while they cut their throats. "If the sacrifice was in honour of the celestial gods, the throat was bent upwards towards heaven; but if made to the heroes, or infernal deities, it was killed with its throat toward the ground."— "Elgin Marbles," vol i. p.81.
 
@@ -40053,15 +40373,15 @@ Restore their strength with meat, and cheer their souls with wine."
 
 Dryden's "Virgil," i. 293.
 
-[69.](#noteref_69)
+ 
 
 —Crown'd, i.e. filled to the brim. The custom of adorning goblets with flowers was of later date.
 
-[70.](#noteref_70)
+ 
 
 —He spoke, &c. "When a friend inquired of Phidias what pattern he had formed his Olympian Jupiter, he is said to have answered by repeating the lines of the first Iliad in which the poet represents the majesty of the god in the most sublime terms; thereby signifying that the genius of Homer had inspired him with it. Those who beheld this statue are said to have been so struck with it as to have asked whether Jupiter had descended from heaven to show himself to Phidias, or whether Phidias had been carried thither to contemplate the god."— "Elgin Marbles," vol. xii p.124.
 
-[71.](#noteref_71)
+ 
 
 "So was his will
 
@@ -40071,11 +40391,11 @@ That shook heav'n's whole circumference, confirm'd."
 
 "Paradise Lost" ii. 351.
 
-[72.](#noteref_72)
+ 
 
 —A double bowl, i.e. a vessel with a cup at both ends, something like the measures by which a halfpenny or pennyworth of nuts is sold. See Buttmann, Lexic. p. 93 sq.
 
-[73.](#noteref_73)
+ 
 
 "Paradise Lost," i. 44.
 
@@ -40085,7 +40405,7 @@ Hurl'd headlong flaming from th ethereal sky,
 
 With hideous ruin and combustion"
 
-[74.](#noteref_74)
+ 
 
 The occasion on which Vulcan incurred Jove's displeasure was this—After Hercules, had taken and pillaged Troy, Juno raised a storm, which drove him to the island of Cos, having previously cast Jove into a sleep, to prevent him aiding his son. Jove, in revenge, fastened iron anvils to her feet, and hung her from the sky, and Vulcan, attempting to relieve her, was kicked down from Olympus in the manner described. The allegorists have gone mad in finding deep explanations for this amusing fiction. See Heraclides, 'Ponticus," p. 463 sq., ed Gale. The story is told by Homer himself in Book xv. The Sinthians were a race of robbers, the ancient inhabitants of Lemnos which island was ever after sacred to Vulcan.
 
@@ -40109,11 +40429,11 @@ On Lemnos, th' Aegean isle thus they relate."
 
 "Paradise Lost," i. 738
 
-[75.](#noteref_75)
+ 
 
 It is ingeniously observed by Grote, vol i p. 463, that "The gods formed a sort of political community of their own which had its hierarchy, its distribution of ranks and duties, its contentions for power and occasional revolutions, its public meetings in the agora of Olympus, and its multitudinous banquets or festivals."
 
-[76.](#noteref_76)
+ 
 
 Plato, Rep. iii. p. 437, was so scandalized at this deception of Jupiter's, and at his other attacks on the character of the gods, that he would fain sentence him to an honourable banishment. (See Minucius Felix, Section 22.) Coleridge, Introd. p. 154, well observes, that the supreme father of gods and men had a full right to employ a lying spirit to work out his ultimate will. Compare "Paradise Lost," v. 646:
 
@@ -40121,7 +40441,7 @@ Plato, Rep. iii. p. 437, was so scandalized at this deception of Jupiter's, and 
 
 All but the unsleeping eyes of God to rest."
 
-[77.](#noteref_77)
+ 
 
 —Dream ought to be spelt with a capital letter, being, I think, evidently personified as the god of dreams. See Anthon and others.
 
@@ -40131,7 +40451,7 @@ Rush'd from the skies, the bane of her and Troy."
 
 Dyce's "Select Translations from Quintus Calaber," p.10.
 
-[78.](#noteref_78)
+ 
 
 "Sleep'st thou, companion dear, what sleep can close
 
@@ -40139,13 +40459,13 @@ Thy eye-lids?"
 
 —"Paradise Lost," v. 673.
 
-[79.](#noteref_79)
+ 
 
 This truly military sentiment has been echoed by the approving voice of many a general and statesman of antiquity. See Pliny's Panegyric on Trajan. Silius neatly translates it,
 
 "Turpe duci totam somno consumere noctem."
 
-[80.](#noteref_80)
+ 
 
 —The same in habit, &c.
 
@@ -40155,7 +40475,7 @@ His former youthful mien and shape he wears."
 
 Dryden's Virgil, iv. 803.
 
-[81.](#noteref_81)
+ 
 
 "As bees in spring-time, when
 
@@ -40175,11 +40495,11 @@ Their state affairs. So thick the very crowd
 
 Swarm'd and were straiten'd."—"Paradise Lost" i. 768.
 
-[82.](#noteref_82)
+ 
 
 It was the herald's duty to make the people sit down. "A standing agora is a symptom of manifest terror (II. Xviii. 246) an evening agora, to which men came elevated by wine, is also the forerunner of mischief ('Odyssey,' iii. 138)."—Grote, ii. p. 91, note.
 
-[83.](#noteref_83)
+ 
 
 This sceptre, like that of Judah (Genesis xlix. 10), is a type of the supreme and far-spread dominion of the house of the Atrides. See Thucydides i. 9. "It is traced through the hands of Hermes, he being the wealth giving god, whose blessing is most efficacious in furthering the process of acquisition."—Grote, i. p. 212. Compare Quintus Calaber (Dyce's Selections, p. 43).
 
@@ -40205,11 +40525,11 @@ By Ilus he to great Laomedon
 
 Gave it, and last to Priam's lot it fell."
 
-[84.](#noteref_84)
+ 
 
 Grote, i, p. 393, states the number of the Grecian forces at upwards of 100,000 men. Nichols makes a total of 135,000.
 
-[85.](#noteref_85)
+ 
 
 "As thick as when a field
 
@@ -40219,63 +40539,63 @@ His bearded grove of ears, which way the wind
 
 Sways them."—Paradise Lost," iv. 980, sqq.
 
-[86.](#noteref_86)
+ 
 
 This sentiment used to be a popular one with some of the greatest tyrants, who abused it into a pretext for unlimited usurpation of power. Dion, Caligula, and Domitian were particularly fond of it, and, in an extended form, we find the maxim propounded by Creon in the Antigone of Sophocles. See some important remarks of Heeren, "Ancient Greece," ch. vi. p. 105.
 
-[87.](#noteref_87)
+ 
 
 It may be remarked, that the character of Thersites, revolting and contemptible as it is, serves admirably to develop the disposition of Ulysses in a new light, in which mere cunning is less prominent. Of the gradual and individual development of Homer's heroes, Schlegel well observes, "In bas-relief the figures are usually in profile, and in the epos all are characterized in the simplest manner in relief; they are not grouped together, but follow one another; so Homer's heroes advance, one by one, in succession before us. It has been remarked that the Iliad is not definitively closed, but that we are left to suppose something both to precede and to follow it. The bas-relief is equally without limit, and may be continued ad infinitum, either from before or behind, on which account the ancients preferred for it such subjects as admitted of an indefinite extension, sacrificial processions, dances, and lines of combatants, and hence they also exhibit bas-reliefs on curved surfaces, such as vases, or the frieze of a rotunda, where, by the curvature, the two ends are withdrawn from our sight, and where, while we advance, one object appears as another disappears. Reading Homer is very much like such a circuit; the present object alone arresting our attention, we lose sight of what precedes, and do not concern ourselves about what is to follow."—"Dramatic Literature," p. 75.
 
-[88.](#noteref_88)
+ 
 
 "There cannot be a clearer indication than this description —so graphic in the original poem—of the true character of the Homeric agora. The multitude who compose it are listening and acquiescent, not often hesitating, and never refractory to the chief. The fate which awaits a presumptuous critic, even where his virulent reproaches are substantially well-founded, is plainly set forth in the treatment of Thersites; while the unpopularity of such a character is attested even more by the excessive pains which Homer takes to heap upon him repulsive personal deformities, than by the chastisement of Odysseus he is lame, bald, crook-backed, of misshapen head, and squinting vision."—Grote, vol. i. p. 97.
 
-[89.](#noteref_89)
+ 
 
 According to Pausanias, both the sprig and the remains of the tree were exhibited in his time. The tragedians, Lucretius and others, adopted a different fable to account for the stoppage at Aulis, and seem to have found the sacrifice of Iphigena better suited to form the subject of a tragedy. Compare Dryden's "Æneid," vol. iii. sqq.
 
-[90.](#noteref_90)
+ 
 
 —Full of his god, i.e., Apollo, filled with the prophetic spirit. "The god" would be more simple and emphatic.
 
-[91.](#noteref_91)
+ 
 
 Those critics who have maintained that the "Catalogue of Ships" is an interpolation, should have paid more attention to these lines, which form a most natural introduction to their enumeration.
 
-[92.](#noteref_92)
+ 
 
 The following observation will be useful to Homeric readers: "Particular animals were, at a later time, consecrated to particular deities. To Jupiter, Ceres, Juno, Apollo, and Bacchus victims of advanced age might be offered. An ox of five years old was considered especially acceptable to Jupiter. A black bull, a ram, or a boar pig, were offerings for Neptune. A heifer, or a sheep, for Minerva. To Ceres a sow was sacrificed, as an enemy to corn. The goat to Bacchus, because he fed on vines. Diana was propitiated with a stag; and to Venus the dove was consecrated. The infernal and evil deities were to be appeased with black victims. The most acceptable of all sacrifices was the heifer of a year old, which had never borne the yoke. It was to be perfect in every limb, healthy, and without blemish."—"Elgin Marbles," vol. i. p. 78.
 
-[93.](#noteref_93)
+ 
 
 —Idomeneus, son of Deucalion, was king of Crete. Having vowed, during a tempest, on his return from Troy, to sacrifice to Neptune the first creature that should present itself to his eye on the Cretan shore, his son fell a victim to his rash vow.
 
-[94.](#noteref_94)
+ 
 
 —Tydeus' son, i.e. Diomed.
 
-[95.](#noteref_95)
+ 
 
 That is, Ajax, the son of Oileus, a Locrian. He must be distinguished from the other, who was king of Salamis.
 
-[96.](#noteref_96)
+ 
 
 A great deal of nonsense has been written to account for the word unbid, in this line. Even Plato, "Sympos." p. 315, has found some curious meaning in what, to us, appears to need no explanation. Was there any heroic rule of etiquette which prevented one brother-king visiting another without a formal invitation?
 
-[97.](#noteref_97)
+ 
 
 Fresh water fowl, especially swans, were found in great numbers about the Asian Marsh, a fenny tract of country in Lydia, formed by the river Cayster, near its mouth. See Virgil, "Georgics," vol. i. 383, sq.
 
-[98.](#noteref_98)
+ 
 
 —Scamander, or Scamandros, was a river of Troas, rising, according to Strabo, on the highest part of Mount Ida, in the same hill with the Granicus and the OEdipus, and falling into the sea at Sigaeum; everything tends to identify it with Mendere, as Wood, Rennell, and others maintain; the Mendere is 40 miles long, 300 feet broad, deep in the time of flood, nearly dry in the summer. Dr. Clarke successfully combats the opinion of those who make the Scamander to have arisen from the springs of Bounabarshy, and traces the source of the river to the highest mountain in the chain of Ida, now Kusdaghy; receives the Simois in its course; towards its mouth it is very muddy, and flows through marshes. Between the Scamander and Simois, Homer's Troy is supposed to have stood: this river, according to Homer, was called Xanthus by the gods, Scamander by men. The waters of the Scamander had the singular property of giving a beautiful colour to the hair or wool of such animals as bathed in them; hence the three goddesses, Minerva, Juno, and Venus, bathed there before they appeared before Paris to obtain the golden apple: the name Xanthus, "yellow," was given to the Scamander, from the peculiar colour of its waters, still applicable to the Mendere, the yellow colour of whose waters attracts the attention of travellers.
 
-[99.](#noteref_99)
+ 
 
 It should be "his chest like Neptune." The torso of Neptune, in the "Elgin Marbles," No. 103, (vol. ii. p. 26,) is remarkable for its breadth and massiveness of development.
 
-[100.](#noteref_100)
+ 
 
 "Say first, for heav'n hides nothing from thy view."
 
@@ -40291,19 +40611,19 @@ Debil aura di fama appena giunge."
 
 —"Gier. Lib." iv. 19.
 
-[101.](#noteref_101)
+ 
 
 "The Catalogue is, perhaps, the portion of the poem in favour of which a claim to separate authorship has been most plausibly urged. Although the example of Homer has since rendered some such formal enumeration of the forces engaged, a common practice in epic poems descriptive of great warlike adventures, still so minute a statistical detail can neither be considered as imperatively required, nor perhaps such as would, in ordinary cases, suggest itself to the mind of a poet. Yet there is scarcely any portion of the Iliad where both historical and internal evidence are more clearly in favour of a connection from the remotest period, with the remainder of the work. The composition of the Catalogue, whensoever it may have taken place, necessarily presumes its author's acquaintance with a previously existing Iliad. It were impossible otherwise to account for the harmony observable in the recurrence of so vast a number of proper names, most of them historically unimportant, and not a few altogether fictitious: or of so many geographical and genealogical details as are condensed in these few hundred lines, and incidentally scattered over the thousands which follow: equally inexplicable were the pointed allusions occurring in this episode to events narrated in the previous and subsequent text, several of which could hardly be of traditional notoriety, but through the medium of the Iliad."—Mure, "Language and Literature of Greece," vol. i. p. 263.
 
-[102.](#noteref_102)
+ 
 
 —Twice Sixty: "Thucydides observes that the Boeotian vessels, which carried one hundred and twenty men each, were probably meant to be the largest in the fleet, and those of Philoctetes, carrying fifty each, the smallest. The average would be eighty-five, and Thucydides supposes the troops to have rowed and navigated themselves; and that very few, besides the chiefs, went as mere passengers or landsmen. In short, we have in the Homeric descriptions the complete picture of an Indian or African war canoe, many of which are considerably larger than the largest scale assigned to those of the Greeks. If the total number of the Greek ships be taken at twelve hundred, according to Thucydides, although in point of fact there are only eleven hundred and eighty-six in the Catalogue, the amount of the army, upon the foregoing average, will be about a hundred and two thousand men. The historian considers this a small force as representing all Greece. Bryant, comparing it with the allied army at Platae, thinks it so large as to prove the entire falsehood of the whole story; and his reasonings and calculations are, for their curiosity, well worth a careful perusal."—Coleridge, p. 211, sq.
 
-[103.](#noteref_103)
+ 
 
 The mention of Corinth is an anachronism, as that city was called Ephyre before its capture by the Dorians. But Velleius, vol. i. p. 3, well observes, that the poet would naturally speak of various towns and cities by the names by which they were known in his own time.
 
-[104.](#noteref_104)
+ 
 
 "Adam, the goodliest man of men since born,
 
@@ -40311,19 +40631,19 @@ His sons, the fairest of her daughters Eve.'
 
 —"Paradise Lost," iv. 323.
 
-[105.](#noteref_105)
+ 
 
 —Æsetes' tomb. Monuments were often built on the sea-coast, and of a considerable height, so as to serve as watch-towers or land marks. See my notes to my prose translations of the "Odyssey," ii. p. 21, or on Eur. "Alcest." vol. i. p. 240.
 
-[106.](#noteref_106)
+ 
 
 —Zeleia, another name for Lycia. The inhabitants were greatly devoted to the worship of Apollo. See Muller, "Dorians," vol. i. p. 248.
 
-[107.](#noteref_107)
+ 
 
 —Barbarous tongues. "Various as were the dialects of the Greeks—and these differences existed not only between the several tribes, but even between neighbouring cities—they yet acknowledged in their language that they formed but one nation were but branches of the same family. Homer has 'men of other tongues:' and yet Homer had no general name for the Greek nation."—Heeren, "Ancient Greece," Section vii. p. 107, sq.
 
-[108.](#noteref_108)
+ 
 
 The cranes.
 
@@ -40339,7 +40659,7 @@ Lorenzo de Medici, in Roscoe's Life, Appendix.
 
 See Cary's Dante: "Hell," canto v.
 
-[109.](#noteref_109)
+ 
 
 Silent, breathing rage.
 
@@ -40351,7 +40671,7 @@ Moved on in silence."
 
 "Paradise Lost," book i. 559.
 
-[110.](#noteref_110)
+ 
 
 "As when some peasant in a bushy brake
 
@@ -40363,27 +40683,27 @@ His rising crest, blue neck, and rolling eyes"
 
 Dryden's Virgil, ii. 510.
 
-[111.](#noteref_111)
+ 
 
 Dysparis, i.e. unlucky, ill fated, Paris. This alludes to the evils which resulted from his having been brought up, despite the omens which attended his birth.
 
-[112.](#noteref_112)
+ 
 
 The following scene, in which Homer has contrived to introduce so brilliant a sketch of the Grecian warriors, has been imitated by Euripides, who in his "Phoenissae" represents Antigone surveying the opposing champions from a high tower, while the paedagogus describes their insignia and details their histories.
 
-[113.](#noteref_113)
+ 
 
 —No wonder, &c. Zeuxis, the celebrated artist, is said to have appended these lines to his picture of Helen, as a motto. Valer Max. iii. 7.
 
-[114.](#noteref_114)
+ 
 
 The early epic was largely occupied with the exploits and sufferings of women, or heroines, the wives and daughters of the Grecian heroes. A nation of courageous, hardy, indefatigable women, dwelling apart from men, permitting only a short temporary intercourse, for the purpose of renovating their numbers, burning out their right breast with a view of enabling themselves to draw the bow freely; this was at once a general type, stimulating to the fancy of the poet, and a theme eminently popular with his hearers. We find these warlike females constantly reappearing in the ancient poems, and universally accepted as past realities in the Iliad. When Priam wishes to illustrate emphatically the most numerous host in which he ever found himself included, he tells us that it was assembled in Phrygia, on the banks of the Sangarius, for the purpose of resisting the formidable Amazons. When Bellerophon is to be employed in a deadly and perilous undertaking, by those who prudently wished to procure his death, he is despatched against the Amazons.—Grote, vol. i p. 289.
 
-[115.](#noteref_115)
+ 
 
 —Antenor, like Æneas, had always been favourable to the restoration of Helen. Liv 1. 2.
 
-[116.](#noteref_116)
+ 
 
 "His lab'ring heart with sudden rapture seized
 
@@ -40409,27 +40729,27 @@ Like thunders rolling from a distant cloud."
 
 Merrick's "Tryphiodorus," 148, 99.
 
-[117.](#noteref_117)
+ 
 
 Duport, "Gnomol. Homer," p. 20, well observes that this comparison may also be sarcastically applied to the frigid style of oratory. It, of course, here merely denotes the ready fluency of Ulysses.
 
-[118.](#noteref_118)
+ 
 
 —Her brothers' doom. They perished in combat with Lynceus and Idas, whilst besieging Sparta. See Hygin. Poet Astr. 32, 22. Virgil and others, however, make them share immortality by turns.
 
-[119.](#noteref_119)
+ 
 
 Idreus was the arm-bearer and charioteer of king Priam, slain during this war. Cf. Æn, vi. 487.
 
-[120.](#noteref_120)
+ 
 
 —Scaea's gates, rather Scaean gates, i.e. the left-hand gates.
 
-[121.](#noteref_121)
+ 
 
 This was customary in all sacrifices. Hence we find Iras descending to cut off the hair of Dido, before which she could not expire.
 
-[122.](#noteref_122)
+ 
 
 —Nor pierced.
 
@@ -40443,7 +40763,7 @@ And faintly tinkled on the brazen shield."
 
 Dryden's Virgil, ii. 742.
 
-[123.](#noteref_123)
+ 
 
 Reveal'd the queen.
 
@@ -40461,23 +40781,23 @@ And, by her graceful walk, the queen of love is known."
 
 Dryden's Virgil, i. 556.
 
-[124.](#noteref_124)
+ 
 
 —Cranae's isle, i.e. Athens. See the "Schol." and Alberti's "Hesychius," vol. ii. p. 338. This name was derived from one of its early kings, Cranaus.
 
-[125.](#noteref_125)
+ 
 
 —The martial maid. In the original, "Minerva Alalcomeneis," i.e. the defender, so called from her temple at Alalcomene in Boeotia.
 
-[126.](#noteref_126)
+ 
 
 "Anything for a quiet life!"
 
-[127.](#noteref_127)
+ 
 
 —Argos. The worship of Juno at Argos was very celebrated in ancient times, and she was regarded as the patron deity of that city. Apul. Met., vi. p. 453; Servius on Virg. Æn., i. 28.
 
-[128.](#noteref_128)
+ 
 
 —A wife and sister.
 
@@ -40489,7 +40809,7 @@ Dryden's "Virgil," i. 70.
 
 So Apuleius, l. c. speaks of her as "Jovis germana et conjux, and so Horace, Od. iii. 3, 64, "conjuge me Jovis et sorore."
 
-[129.](#noteref_129)
+ 
 
 "Thither came Uriel, gleaming through the even
 
@@ -40505,21 +40825,21 @@ Impetuous winds."
 
 —"Paradise Lost," iv. 555.
 
-[130.](#noteref_130)
+ 
 
 —Æsepus' flood. A river of Mysia, rising from Mount Cotyius, in the southern part of the chain of Ida.
 
-[131.](#noteref_131)
+ 
 
 —Zelia, a town of Troas, at the foot of Ida.
 
-[132.](#noteref_132)
+ 
 
 —Podaleirius and Machaon are the leeches of the Grecian army, highly prized and consulted by all the wounded chiefs. Their medical renown was further prolonged in the subsequent poem of Arktinus, the Iliou Persis, wherein the one was represented as unrivalled in surgical operations, the other as sagacious in detecting and appreciating morbid symptoms. It was Podaleirius who first noticed the glaring eyes and disturbed deportment which preceded the suicide of Ajax.
 
 "Galen appears uncertain whether Asklepius (as well as Dionysus) was originally a god, or whether he was first a man and then became afterwards a god; but Apollodorus professed to fix the exact date of his apotheosis. Throughout all the historical ages the descendants of Asklepius were numerous and widely diffused. The many families or gentes, called Asklepiads, who devoted themselves to the study and practice of medicine, and who principally dwelt near the temples of Asklepius, whither sick and suffering men came to obtain relief—all recognized the god not merely as the object of their common worship, but also as their actual progenitor."—Grote vol. i. p. 248.
 
-[133.](#noteref_133)
+ 
 
 "The plant she bruises with a stone, and stands
 
@@ -40535,7 +40855,7 @@ At once the blood is stanch'd, the youth revives."
 
 "Orlando Furioso," book 1.
 
-[134.](#noteref_134)
+ 
 
 —Well might I wish.
 
@@ -40553,19 +40873,19 @@ Whom with three lives Feronia did endue."
 
 Dryden's Virgil, viii. 742.
 
-[135.](#noteref_135)
+ 
 
 —Sthenelus, a son of Capaneus, one of the Epigoni. He was one of the suitors of Helen, and is said to have been one of those who entered Troy inside the wooden horse.
 
-[136.](#noteref_136)
+ 
 
 —Forwarn'd the horrors. The same portent has already been mentioned. To this day, modern nations are not wholly free from this superstition.
 
-[137.](#noteref_137)
+ 
 
 —Sevenfold city, Boeotian Thebes, which had seven gates.
 
-[138.](#noteref_138)
+ 
 
 —As when the winds.
 
@@ -40581,7 +40901,7 @@ The muddy billow o'er the clouds is thrown."
 
 Dryden's Virgil, vii. 736.
 
-[139.](#noteref_139)
+ 
 
 "Stood
 
@@ -40591,19 +40911,19 @@ His stature reach'd the sky."
 
 —"Paradise Lost," iv. 986.
 
-[140.](#noteref_140)
+ 
 
 The Abantes seem to have been of Thracian origin.
 
-[141.](#noteref_141)
+ 
 
 I may, once for all, remark that Homer is most anatomically correct as to the parts of the body in which a wound would be immediately mortal.
 
-[142.](#noteref_142)
+ 
 
 —Ænus, a fountain almost proverbial for its coldness.
 
-[143.](#noteref_143)
+ 
 
 Compare Tasso, Gier. Lib., xx. 7:
 
@@ -40615,7 +40935,7 @@ Gl' empie d' honor la faccia, e vi riduce
 
 Di giovinezza il bel purpureo lume."
 
-[144.](#noteref_144)
+ 
 
 "Or deluges, descending on the plains,
 
@@ -40629,7 +40949,7 @@ Flocks, folds, and trees, an undistinguish'd prey."
 
 Dryden's Virgil ii. 408.
 
-[145.](#noteref_145)
+ 
 
 —From mortal mists.
 
@@ -40639,7 +40959,7 @@ Michael from Adam's eyes the film removed."
 
 "Paradise Lost," xi. 411.
 
-[146.](#noteref_146)
+ 
 
 —The race of those.
 
@@ -40655,11 +40975,11 @@ Whose wombs conceived a more than mortal birth.
 
 Dryden's Virgil, vii. 386, sqq.
 
-[147.](#noteref_147)
+ 
 
 The belief in the existence of men of larger stature in earlier times, is by no means confined to Homer.
 
-[148.](#noteref_148)
+ 
 
 —Such stream, i.e. the ichor, or blood of the gods.
 
@@ -40669,31 +40989,31 @@ Sanguine, such as celestial spirits may bleed."
 
 "Paradise Lost," vi. 339.
 
-[149.](#noteref_149)
+ 
 
 This was during the wars with the Titans.
 
-[150.](#noteref_150)
+ 
 
 —Amphitryon's son, Hercules, born to Jove by Alcmena, the wife of Amphitryon.
 
-[151.](#noteref_151)
+ 
 
 —Ægiale daughter of Adrastus. The Cyclic poets (See Anthon's Lempriere, s. v.) assert Venus incited her to infidelity, in revenge for the wound she had received from her husband.
 
-[152.](#noteref_152)
+ 
 
 —Pherae, a town of Pelasgiotis, in Thessaly.
 
-[153.](#noteref_153)
+ 
 
 —Tlepolemus, son of Hercules and Astyochia. Having left his native country, Argos, in consequence of the accidental murder of Liscymnius, he was commanded by an oracle to retire to Rhodes. Here he was chosen king, and accompanied the Trojan expedition. After his death, certain games were instituted at Rhodes in his honour, the victors being rewarded with crowns of poplar.
 
-[154.](#noteref_154)
+ 
 
 These heroes' names have since passed into a kind of proverb, designating the oi polloi or mob.
 
-[155.](#noteref_155)
+ 
 
 —Spontaneous open.
 
@@ -40711,7 +41031,7 @@ On golden hinges turning."
 
 —"Paradise Lost," v. 250.
 
-[156.](#noteref_156)
+ 
 
 "Till Morn,
 
@@ -40721,15 +41041,15 @@ Unbarr'd the gates of light."
 
 —"Paradise Lost," vi, 2.
 
-[157.](#noteref_157)
+ 
 
 —Far as a shepherd. "With what majesty and pomp does Homer exalt his deities! He here measures the leap of the horses by the extent of the world. And who is there, that, considering the exceeding greatness of the space would not with reason cry out that 'If the steeds of the deity were to take a second leap, the world would want room for it'?"—Longinus, Section 8.
 
-[158.](#noteref_158)
+ 
 
 "No trumpets, or any other instruments of sound, are used in the Homeric action itself; but the trumpet was known, and is introduced for the purpose of illustration as employed in war. Hence arose the value of a loud voice in a commander; Stentor was an indispensable officer... In the early Saracen campaigns frequent mention is made of the service rendered by men of uncommonly strong voices; the battle of Honain was restored by the shouts and menaces of Abbas, the uncle of Mohammed," &c.—Coleridge, p. 213.
 
-[159.](#noteref_159)
+ 
 
 "Long had the wav'ring god the war delay'd,
 
@@ -40737,27 +41057,27 @@ While Greece and Troy alternate own'd his aid."
 
 Merrick's "Tryphiodorus," vi. 761, sq.
 
-[160.](#noteref_160)
+ 
 
 —Paeon seems to have been to the gods, what Podaleirius and Machaon were to the Grecian heroes.
 
-[161.](#noteref_161)
+ 
 
 —Arisbe, a colony of the Mitylenaeans in Troas.
 
-[162.](#noteref_162)
+ 
 
 —Pedasus, a town near Pylos.
 
-[163.](#noteref_163)
+ 
 
 —Rich heaps of brass. "The halls of Alkinous and Menelaus glitter with gold, copper, and electrum; while large stocks of yet unemployed metal—gold, copper, and iron are stored up in the treasure-chamber of Odysseus and other chiefs. Coined money is unknown in the Homeric age—the trade carried on being one of barter. In reference also to the metals, it deserves to be remarked, that the Homeric descriptions universally suppose copper, and not iron, to be employed for arms, both offensive and defensive. By what process the copper was tempered and hardened, so as to serve the purpose of the warrior, we do not know; but the use of iron for these objects belongs to a later age."—Grote, vol. ii. p. 142.
 
-[164.](#noteref_164)
+ 
 
 —Oh impotent, &c. "In battle, quarter seems never to have been given, except with a view to the ransom of the prisoner. Agamemnon reproaches Menelaus with unmanly softness, when he is on the point of sparing a fallen enemy, and himself puts the suppliant to the sword."—Thirlwall, vol. i. p. 181
 
-[165.](#noteref_165)
+ 
 
 "The ruthless steel, impatient of delay,
 
@@ -40773,7 +41093,7 @@ And they who ne'er offended find a foe?"
 
 Rowe's Lucan, bk. ii.
 
-[166.](#noteref_166)
+ 
 
 "Meantime the Trojan dames, oppress'd with woe,
 
@@ -40787,31 +41107,31 @@ And rich embroider'd vests for presents bear."
 
 Dryden's Virgil, i. 670
 
-[167.](#noteref_167)
+ 
 
 The manner in which this episode is introduced, is well illustrated by the following remarks of Mure, vol. i. p.298: "The poet's method of introducing his episode, also, illustrates in a curious manner his tact in the dramatic department of his art. Where, for example, one or more heroes are despatched on some commission, to be executed at a certain distance of time or place, the fulfilment of this task is not, as a general rule, immediately described. A certain interval is allowed them for reaching the appointed scene of action, which interval is dramatised, as it were, either by a temporary continuation of the previous narrative, or by fixing attention for a while on some new transaction, at the close of which the further account of the mission is resumed."
 
-[168.](#noteref_168)
+ 
 
 —With tablets sealed. These probably were only devices of a hieroglyphical character. Whether writing was known in the Homeric times is utterly uncertain. See Grote, vol ii. p. 192, sqq.
 
-[169.](#noteref_169)
+ 
 
 —Solymaean crew, a people of Lycia.
 
-[170.](#noteref_170)
+ 
 
 From this "melancholy madness" of Bellerophon, hypochondria received the name of "Morbus Bellerophonteus." See my notes in my prose translation, p. 112. The "Aleian field," i.e. "the plain of wandering," was situated between the rivers Pyramus and Pinarus, in Cilicia.
 
-[171.](#noteref_171)
+ 
 
 —His own, of gold. This bad bargain has passed into a common proverb. See Aulus Gellius, ii, 23.
 
-[172.](#noteref_172)
+ 
 
 —Scaean, i e. left hand.
 
-[173.](#noteref_173)
+ 
 
 —In fifty chambers.
 
@@ -40823,15 +41143,15 @@ The ports of plated gold, and hung with spoils."
 
 Dryden's Virgil, ii.658
 
-[174.](#noteref_174)
+ 
 
 —O would kind earth, &c. "It is apparently a sudden, irregular burst of popular indignation to which Hector alludes, when he regrets that the Trojans had not spirit enough to cover Paris with a mantle of stones. This, however, was also one of the ordinary formal modes of punishment for great public offences. It may have been originally connected with the same feeling—the desire of avoiding the pollution of bloodshed—which seems to have suggested the practice of burying prisoners alive, with a scantling of food by their side. Though Homer makes no mention of this horrible usage, the example of the Roman Vestals affords reasons for believing that, in ascribing it to the heroic ages, Sophocles followed an authentic tradition."—Thirlwall's Greece, vol. i. p. 171, sq.
 
-[175.](#noteref_175)
+ 
 
 —Paris' lofty dome. "With respect to the private dwellings, which are oftenest described, the poet's language barely enables us to form a general notion of their ordinary plan, and affords no conception of the style which prevailed in them or of their effect on the eye. It seems indeed probable, from the manner in which he dwells on their metallic ornaments that the higher beauty of proportion was but little required or understood, and it is, perhaps, strength and convenience, rather than elegance, that he means to commend, in speaking of the fair house which Paris had built for himself with the aid of the most skilful masons of Troy."—Thirlwall's Greece, vol. i. p. 231.
 
-[176.](#noteref_176)
+ 
 
 —The wanton courser.
 
@@ -40845,31 +41165,31 @@ Va tragl' armenti, o al fiume usato, o a l'herba."
 
 Gier, Lib. ix. 75.
 
-[177.](#noteref_177)
+ 
 
 —Casque. The original word is stephanae, about the meaning of which there is some little doubt. Some take it for a different kind of cap or helmet, others for the rim, others for the cone, of the helmet.
 
-[178.](#noteref_178)
+ 
 
 —Athenian maid: Minerva.
 
-[179.](#noteref_179)
+ 
 
 —Celadon, a river of Elis.
 
-[180.](#noteref_180)
+ 
 
 —Oileus, i.e. Ajax, the son of Oileus, in contradistinction to Ajax, son of Telamon.
 
-[181.](#noteref_181)
+ 
 
 —In the general's helm. It was customary to put the lots into a helmet, in which they were well shaken up; each man then took his choice.
 
-[182.](#noteref_182)
+ 
 
 —God of Thrace. Mars, or Mavors, according to his Thracian epithet. Hence "Mavortia Moenia."
 
-[183.](#noteref_183)
+ 
 
 —Grimly he smiled.
 
@@ -40885,7 +41205,7 @@ Grinning with ghastly feature."
 
 —Carey's Dante: Hell, v.
 
-[184.](#noteref_184)
+ 
 
 "Sete o guerrieri, incomincio Pindoro,
 
@@ -40897,15 +41217,15 @@ Le ragioni, e 'l riposo, e de la notte."
 
 —Gier. Lib. vi. 51.
 
-[185.](#noteref_185)
+ 
 
 It was an ancient style of compliment to give a larger portion of food to the conqueror, or person to whom respect was to be shown. See Virg. Æn. viii. 181. Thus Benjamin was honoured with a "double portion." Gen. xliii. 34.
 
-[186.](#noteref_186)
+ 
 
 —Embattled walls. "Another essential basis of mechanical unity in the poem is the construction of the rampart. This takes place in the seventh book. The reason ascribed for the glaring improbability that the Greeks should have left their camp and fleet unfortified during nine years, in the midst of a hostile country, is a purely poetical one: 'So long as Achilles fought, the terror of his name sufficed to keep every foe at a distance.' The disasters consequent on his secession first led to the necessity of other means of protection. Accordingly, in the battles previous to the eighth book, no allusion occurs to a rampart; in all those which follow it forms a prominent feature. Here, then, in the anomaly as in the propriety of the Iliad, the destiny of Achilles, or rather this peculiar crisis of it, forms the pervading bond of connexion to the whole poem."—Mure, vol. i., p. 257.
 
-[187.](#noteref_187)
+ 
 
 —What cause of fear, &c.
 
@@ -40915,15 +41235,15 @@ Thy boasted thunders, and thy thoughtless reign?"
 
 Dryden's Virgil, iv. 304.
 
-[188.](#noteref_188)
+ 
 
 —In exchange. These lines are referred to by Theophilus, the Roman lawyer, iii. tit. xxiii. Section 1, as exhibiting the most ancient mention of barter.
 
-[189.](#noteref_189)
+ 
 
 "A similar bond of connexion, in the military details of the narrative, is the decree issued by Jupiter, at the commencement of the eighth book, against any further interference of the gods in the battles. In the opening of the twentieth book this interdict is withdrawn. During the twelve intermediate books it is kept steadily in view. No interposition takes place but on the part of the specially authorised agents of Jove, or on that of one or two contumacious deities, described as boldly setting his commands at defiance, but checked and reprimanded for their disobedience; while the other divine warriors, who in the previous and subsequent cantos are so active in support of their favourite heroes, repeatedly allude to the supreme edict as the cause of their present inactivity."—Mure, vol. i. p 257. See however, Muller, "Greek Literature," ch. v. Section 6, and Grote, vol. ii. p. 252.
 
-[190.](#noteref_190)
+ 
 
 "As far removed from God and light of heaven,
 
@@ -40939,7 +41259,7 @@ Tanto e piu in su de la stellata spera"
 
 "Some of the epithets which Homer applies to the heavens seem to imply that he considered it as a solid vault of metal. But it is not necessary to construe these epithets so literally, nor to draw any such inference from his description of Atlas, who holds the lofty pillars which keep earth and heaven asunder. Yet it would seem, from the manner in which the height of heaven is compared with the depth of Tartarus, that the region of light was thought to have certain bounds. The summit of the Thessalian Olympus was regarded as the highest point on the earth, and it is not always carefully distinguished from the aerian regions above The idea of a seat of the gods—perhaps derived from a more ancient tradition, in which it was not attached to any geographical site—seems to be indistinctly blended in the poet's mind with that of the real mountain."—Thirlwall's Greece, vol. i. p. 217, sq.
 
-[191.](#noteref_191)
+ 
 
 "Now lately heav'n, earth, another world
 
@@ -40949,7 +41269,7 @@ To that side heav'n."
 
 —"Paradise Lost," ii. 1004.
 
-[192.](#noteref_192)
+ 
 
 —His golden scales.
 
@@ -40981,7 +41301,7 @@ The latter quick up flew, and kick'd the beam."
 
 "Paradise Lost," iv. 496.
 
-[193.](#noteref_193)
+ 
 
 —And now, &c.
 
@@ -40995,15 +41315,15 @@ Had not th' Almighty Father, where he sits
 
 —"Paradise Lost," vi. 669.
 
-[194.](#noteref_194)
+ 
 
 —Gerenian Nestor. The epithet Gerenian either refers to the name of a place in which Nestor was educated, or merely signifies honoured, revered. See Schol. Venet. in II. B. 336; Strabo, viii. p. 340.
 
-[195.](#noteref_195)
+ 
 
 —Ægae, Helice. Both these towns were conspicuous for their worship of Neptune.
 
-[196.](#noteref_196)
+ 
 
 —As full blown, &c.
 
@@ -41015,7 +41335,7 @@ Gl' occhi, e cader siu 'l tergo il collo mira."
 
 Gier. Lib. ix. 85.
 
-[197.](#noteref_197)
+ 
 
 —Ungrateful, because the cause in which they were engaged was unjust.
 
@@ -41031,7 +41351,7 @@ Averse beheld the ungrateful sacrifice."
 
 Merrick's Tryphiodorus, vi. 527, sqq.
 
-[198.](#noteref_198)
+ 
 
 "As when about the silver moon, when aire is free from winde,
 
@@ -41047,55 +41367,55 @@ And all the signs in heaven are seene, that glad the shepherd's heart."
 
 Chapman.
 
-[199.](#noteref_199)
+ 
 
 This flight of the Greeks, according to Buttmann, Lexil. p. 358, was not a supernatural flight caused by the gods, but "a great and general one, caused by Hector and the Trojans, but with the approval of Jove."
 
-[200.](#noteref_200)
+ 
 
 Grote, vol. ii. p. 91, after noticing the modest calmness and respect with which Nestor addresses Agamemnon, observes, "The Homeric Council is a purely consultative body, assembled not with any power of peremptorily arresting mischievous resolves of the king, but solely for his information and guidance."
 
-[201.](#noteref_201)
+ 
 
 In the heroic times, it is not unfrequent for the king to receive presents to purchase freedom from his wrath, or immunity from his exactions. Such gifts gradually became regular, and formed the income of the German, (Tacit. Germ. Section 15) Persian, (Herodot. iii.89), and other kings. So, too, in the middle ages, 'The feudal aids are the beginning of taxation, of which they for a long time answered the purpose.' (Hallam, Middle Ages, ch. x. pt. 1, p. 189) This fact frees Achilles from the apparent charge of sordidness. Plato, however, (De Rep. vi. 4), says, "We cannot commend Phoenix, the tutor of Achilles, as if he spoke correctly, when counselling him to accept of presents and assist the Greeks, but, without presents, not to desist from his wrath, nor again, should we commend Achilles himself, or approve of his being so covetous as to receive presents from Agamemnon," &c.
 
-[202.](#noteref_202)
+ 
 
 It may be observed, that, brief as is the mention of Briseis in the Iliad, and small the part she plays—what little is said is pre-eminently calculated to enhance her fitness to be the bride of Achilles. Purity, and retiring delicacy, are features well contrasted with the rough, but tender disposition of the hero.
 
-[203.](#noteref_203)
+ 
 
 —Laodice. Iphianassa, or Iphigenia, is not mentioned by Homer, among the daughters of Agamemnon.
 
-[204.](#noteref_204)
+ 
 
 "Agamemnon, when he offers to transfer to Achilles seven towns inhabited by wealthy husbandmen, who would enrich their lord by presents and tribute, seems likewise to assume rather a property in them, than an authority over them. And the same thing may be intimated when it is said that Peleus bestowed a great people, the Dolopes of Phthia, on Phoenix."—Thirlwall's Greece, vol. i Section 6, p. 162, note.
 
-[205.](#noteref_205)
+ 
 
 —Pray in deep silence. Rather: "use well-omened words;" or, as Kennedy has explained it, "Abstain from expressions unsuitable to the solemnity of the occasion, which, by offending the god, might defeat the object of their supplications."
 
-[206.](#noteref_206)
+ 
 
 —Purest hands. This is one of the most ancient superstitions respecting prayer, and one founded as much in nature as in tradition.
 
-[207.](#noteref_207)
+ 
 
 It must be recollected, that the war at Troy was not a settled siege, and that many of the chieftains busied themselves in piratical expeditions about its neighborhood. Such a one was that of which Achilles now speaks. From the following verses, it is evident that fruits of these maraudings went to the common support of the expedition, and not to the successful plunderer.
 
-[208.](#noteref_208)
+ 
 
 —Pthia, the capital of Achilles' Thessalian domains.
 
-[209.](#noteref_209)
+ 
 
 —Orchomenian town. The topography of Orchomenus, in Boeotia, "situated," as it was, "on the northern bank of the lake Æpais, which receives not only the river Cephisus from the valleys of Phocis, but also other rivers from Parnassus and Helicon" (Grote, vol. p. 181), was a sufficient reason for its prosperity and decay. "As long as the channels of these waters were diligently watched and kept clear, a large portion of the lake was in the condition of alluvial land, pre-eminently rich and fertile. But when the channels came to be either neglected, or designedly choked up by an enemy, the water accumulated in such a degree as to occupy the soil of more than one ancient islet, and to occasion the change of the site of Orchomenus itself from the plain to the declivity of Mount Hyphanteion." (Ibid.)
 
-[210.](#noteref_210)
+ 
 
 The phrase "hundred gates," &c., seems to be merely expressive of a great number. See notes to my prose translation, p. 162.
 
-[211.](#noteref_211)
+ 
 
 Compare the following pretty lines of Quintus Calaber (Dyce's Select Translations, p 88).—
 
@@ -41133,19 +41453,19 @@ And fill'd my bosom."
 
 —Cowper.
 
-[212.](#noteref_212)
+ 
 
 —Where Calydon. For a good sketch of the story of Meleager, too long to be inserted here, see Grote, vol. i. p. 195, sqq.; and for the authorities, see my notes to the prose translation, p. 166.
 
-[213.](#noteref_213)
+ 
 
 "Gifts can conquer"—It is well observed by Bishop Thirlwall, "Greece," vol. i. p, 180, that the law of honour among the Greeks did not compel them to treasure up in their memory the offensive language which might be addressed to them by a passionate adversary, nor to conceive that it left a stain which could only be washed away by blood. Even for real and deep injuries they were commonly willing to accept a pecuniary compensation."
 
-[214.](#noteref_214)
+ 
 
 "The boon of sleep."—Milton
 
-[215.](#noteref_215)
+ 
 
 "All else of nature's common gift partake:
 
@@ -41153,15 +41473,15 @@ Unhappy Dido was alone awake."
 
 —Dryden's Virgil, iv. 767.
 
-[216.](#noteref_216)
+ 
 
 —The king of Crete: Idomeneus.
 
-[217.](#noteref_217)
+ 
 
 —Soft wool within, i e. a kind of woollen stuffing, pressed in between the straps, to protect the head, and make the helmet fit close.
 
-[218.](#noteref_218)
+ 
 
 "All the circumstances of this action—the night, Rhesus buried in a profound sleep, and Diomede with the sword in his hand hanging over the head of that prince—furnished Homer with the idea of this fiction, which represents Rhesus lying fast asleep, and, as it were, beholding his enemy in a dream, plunging the sword into his bosom. This image is very natural; for a man in his condition awakes no farther than to see confusedly what environs him, and to think it not a reality but a dream."—Pope.
 
@@ -41171,7 +41491,7 @@ They wak'd each other."
 
 —Macbeth.
 
-[219.](#noteref_219)
+ 
 
 "Aurora now had left her saffron bed,
 
@@ -41179,7 +41499,7 @@ And beams of early light the heavens o'erspread."
 
 Dryden's Virgil, iv. 639
 
-[220.](#noteref_220)
+ 
 
 —Red drops of blood. "This phenomenon, if a mere fruit of the poet's imagination, might seem arbitrary or far-fetched. It is one, however, of ascertained reality, and of no uncommon occurrence in the climate of Greece."—Mure, i p. 493. Cf. Tasso, Gier. Lib. ix. 15:
 
@@ -41187,7 +41507,7 @@ Dryden's Virgil, iv. 639
 
 Bagnan rugiade tepide, e sanguigne."
 
-[221.](#noteref_221)
+ 
 
 "No thought of flight,
 
@@ -41197,11 +41517,11 @@ That argued fear."
 
 —"Paradise Lost," vi. 236.
 
-[222.](#noteref_222)
+ 
 
 —One of love. Although a bastard brother received only a small portion of the inheritance, he was commonly very well treated. Priam appears to be the only one of whom polygamy is directly asserted in the Iliad. Grote, vol. ii. p. 114, note.
 
-[223.](#noteref_223)
+ 
 
 "Circled with foes as when a packe of bloodie jackals cling
 
@@ -41221,7 +41541,7 @@ So they around Ulysses prest."
 
 —Chapman.
 
-[224.](#noteref_224)
+ 
 
 —Simois, railing, &c.
 
@@ -41233,7 +41553,7 @@ Of heroes."
 
 —Dryden's Virgil, i. 142.
 
-[225.](#noteref_225)
+ 
 
 "Where yon disorder'd heap of ruin lies,
 
@@ -41247,7 +41567,7 @@ And heaves the building from the solid base."
 
 Dryden's Virgil, ii. 825.
 
-[226.](#noteref_226)
+ 
 
 —Why boast we.
 
@@ -41267,7 +41587,7 @@ High honour'd sits."
 
 —"Paradise Lost," ii. 450.
 
-[227.](#noteref_227)
+ 
 
 —Each equal weight.
 
@@ -41277,7 +41597,7 @@ The battle hung."
 
 —"Paradise Lost," vi. 245.
 
-[228.](#noteref_228)
+ 
 
 "He on his impious foes right onward drove,
 
@@ -41285,11 +41605,11 @@ Gloomy as night."
 
 —"Paradise Lost," vi. 831
 
-[229.](#noteref_229)
+ 
 
 —Renown'd for justice and for length of days, Arrian. de Exp. Alex. iv. p. 239, also speaks of the independence of these people, which he regards as the result of their poverty and uprightness. Some authors have regarded the phrase "Hippomolgian," i.e. "milking their mares," as an epithet applicable to numerous tribes, since the oldest of the Samatian nomads made their mares' milk one of their chief articles of diet. The epithet abion or abion, in this passage, has occasioned much discussion. It may mean, according as we read it, either "long-lived," or "bowless," the latter epithet indicating that they did not depend upon archery for subsistence.
 
-[230.](#noteref_230)
+ 
 
 Compare Chapman's quaint, bold verses:—
 
@@ -41307,15 +41627,15 @@ And then (tho' never so impelled), it stirs not any way:—
 
 So Hector,—"
 
-[231.](#noteref_231)
+ 
 
 This book forms a most agreeable interruption to The continuous round of battles, which occupy the latter part of the Iliad. It is as well to observe, that the sameness of these scenes renders many notes unnecessary.
 
-[232.](#noteref_232)
+ 
 
 —Who to Tydeus owes, i.e. Diomed.
 
-[233.](#noteref_233)
+ 
 
 Compare Tasso:—
 
@@ -41329,11 +41649,11 @@ Di pianto, e sospir tronchi, e molli baci."
 
 Gier. Lib. xvi. 25
 
-[234.](#noteref_234)
+ 
 
 Compare the description of the dwelling of Sleep in Orlando Furioso, bk. vi.
 
-[235.](#noteref_235)
+ 
 
 "Twice seven, the charming daughters of the main—
 
@@ -41345,11 +41665,11 @@ The fairest, Deiopeia, shall be thine."
 
 Dryden's Virgil, Æn. i. 107, seq.
 
-[236.](#noteref_236)
+ 
 
 —And Minos. "By Homer, Minos is described as the son of Jupiter, and of the daughter of Phoenix, whom all succeeding authors name Europa; and he is thus carried back into the remotest period of Cretan antiquity known to the poet, apparently as a native hero, Illustrious enough for a divine parentage, and too ancient to allow his descent to be traced to any other source. But in a genealogy recorded by later writers, he is likewise the adopted son of Asterius, as descendant of Dorus, the son of Helen, and is thus connected with a colony said to have been led into Creta by Tentamus, or Tectamus, son of Dorus, who is related either to have crossed over from Thessaly, or to have embarked at Malea after having led his followers by land into Laconia."—Thirlwall, p. 136, seq.
 
-[237.](#noteref_237)
+ 
 
 Milton has emulated this passage, in describing the couch of our first parents:—
 
@@ -41361,7 +41681,7 @@ Crocus, and hyacinth with rich inlay,
 
 —"Paradise Lost," iv. 700.
 
-[238.](#noteref_238)
+ 
 
 —He lies protected,
 
@@ -41379,11 +41699,11 @@ Gnashing for anguish, and despite, and shame."
 
 "Paradise Lost," vi. 335, seq.
 
-[239.](#noteref_239)
+ 
 
 —The brazen dome. See the note on Bk. viii. Page 142.
 
-[240.](#noteref_240)
+ 
 
 —For, by the gods! who flies. Observe the bold ellipsis of "he cries," and the transition from the direct to the oblique construction. So in Milton:—
 
@@ -41401,7 +41721,7 @@ Maker omnipotent, and thou the day."
 
 Milton, "Paradise Lost," Book iv.
 
-[241.](#noteref_241)
+ 
 
 —So some tall rock.
 
@@ -41415,17 +41735,17 @@ Wash off the sea-weeds, and the sounding tides."
 
 Dryden's Virgil, vii. 809.
 
-[242.](#noteref_242)
+ 
 
 Protesilaus was the first Greek who fell, slain by Hector, as he leaped from the vessel to the Trojan shore. He was buried on the Chersonese, near the city of Plagusa. Hygin Fab. ciii. Tzetz. on Lycophr. 245, 528. There is a most elegant tribute to his memory in the Preface to the Heroica of Philostratus.
 
-[243.](#noteref_243)
+ 
 
 —His best beloved. The following elegant remarks of Thirlwall (Greece, vol. i, p. 176 seq.) well illustrate the character of the friendship subsisting between these two heroes—
 
 "One of the noblest and most amiable sides of the Greek character, is the readiness with which it lent itself to construct intimate and durable friendships, and this is a feature no less prominent in the earliest than in later times. It was indeed connected with the comparatively low estimation in which female society was held; but the devotedness and constancy with which these attachments were maintained, was not the less admirable and engaging. The heroic companions whom we find celebrated partly by Homer and partly in traditions which, if not of equal antiquity, were grounded on the same feeling, seem to have but one heart and soul, with scarcely a wish or object apart, and only to live as they are always ready to die for one another. It is true that the relation between them is not always one of perfect equality; but this is a circumstance which, while it often adds a peculiar charm to the poetical description, detracts little from the dignity of the idea which it presents. Such were the friendships of Hercules and Iolaus, of Theseus and Pirithous, of Orestes and Pylades; and though These may owe the greater part of their fame to the later epic or even dramatic poetry, the moral groundwork undoubtedly subsisted in the period to which the traditions are referred. The argument of the Iliad mainly turns on the affection of Achilles for Patroclus, whose love for the greater hero is only tempered by reverence for his higher birth and his unequalled prowess. But the mutual regard which united Idomeneus and Meriones, Diomedes and Sthenelus, though, as the persons themselves are less important, it is kept more in the back-ground, is manifestly viewed by the poet in the same light. The idea of a Greek hero seems not to have been thought complete, without such a brother in arms by his side."—Thirlwall, Greece, vol. i. p. 176, seq.
 
-[244.](#noteref_244)
+ 
 
 "As hungry wolves with raging appetite,
 
@@ -41439,19 +41759,19 @@ So rush'd we forth at once."
 
 —Dryden's Virgil, ii. 479.
 
-[245.](#noteref_245)
+ 
 
 —The destinies ordain.—"In the mythology, also, of the Iliad, purely Pagan as it is, we discover one important truth unconsciously involved, which was almost entirely lost from view amidst the nearly equal scepticism and credulity of subsequent ages. Zeus or Jupiter is popularly to be taken as omnipotent. No distinct empire is assigned to fate or fortune; the will of the father of gods and men is absolute and uncontrollable. This seems to be the true character of the Homeric deity, and it is very necessary that the student of Greek literature should bear it constantly in mind. A strong instance in the Iliad itself to illustrate this position, is the passage where Jupiter laments to Juno the approaching death of Sarpedon. 'Alas me!' says he 'since it is fated (moira) that Sarpedon, dearest to me of men, should be slain by Patroclus, the son of Menoetius! Indeed, my heart is divided within me while I ruminate it in my mind, whether having snatched him up from out of the lamentable battle, I should not at once place him alive in the fertile land of his own Lycia, or whether I should now destroy him by the hands of the son of Menoetius!' To which Juno answers—'Dost thou mean to rescue from death a mortal man, long since destined by fate (palai pepromenon)? You may do it—but we, the rest of the gods, do not sanction it.' Here it is clear from both speakers, that although Sarpedon is said to be fated to die, Jupiter might still, if he pleased, save him, and place him entirely out of the reach of any such event, and further, in the alternative, that Jupiter himself would destroy him by the hands of another."—Coleridge, p. 156. seq.
 
-[246.](#noteref_246)
+ 
 
 —Thrice at the battlements. "The art military of the Homeric age is upon a level with the state of navigation just described, personal prowess decided every thing; the night attack and the ambuscade, although much esteemed, were never upon a large scale. The chiefs fight in advance, and enact almost as much as the knights of romance. The siege of Troy was as little like a modern siege as a captain in the guards is like Achilles. There is no mention of a ditch or any other line or work round the town, and the wall itself was accessible without a ladder. It was probably a vast mound of earth with a declivity outwards. Patroclus thrice mounts it in armour. The Trojans are in no respects blockaded, and receive assistance from their allies to the very end."—Coleridge, p. 212.
 
-[247.](#noteref_247)
+ 
 
 —Ciconians.—A people of Thrace, near the Hebrus.
 
-[248.](#noteref_248)
+ 
 
 —They wept.
 
@@ -41485,7 +41805,7 @@ He walks, and the big tears run rolling down his face."
 
 Dryden's Virgil, bk. ii
 
-[249.](#noteref_249)
+ 
 
 —Some brawny bull.
 
@@ -41499,19 +41819,19 @@ Plunges on either side."
 
 —Carey's Dante: Hell, c. xii.
 
-[250.](#noteref_250)
+ 
 
 This is connected with the earlier part of last book, the regular narrative being interrupted by the message of Antilochus and the lamentations of Achilles.
 
-[251.](#noteref_251)
+ 
 
 —Far in the deep. So Oceanus hears the lamentations of Prometheus, in the play of Æschylus, and comes from the depths of the sea to comfort him.
 
-[252.](#noteref_252)
+ 
 
 Opuntia, a city of Locris.
 
-[253.](#noteref_253)
+ 
 
 Quintus Calaber, lib. v., has attempted to rival Homer in his description of the shield of the same hero. A few extracts from Mr. Dyce's version (Select Translations, p. 104, seq.) may here be introduced.
 
@@ -41543,11 +41863,11 @@ In azure mazes rolling o'er the earth,
 
 Seem'd to augment."
 
-[254.](#noteref_254)
+ 
 
 —On seats of stone. "Several of the old northern Sagas represent the old men assembled for the purpose of judging as sitting on great stones, in a circle called the Urtheilsring or gerichtsring"— Grote, ii. p. 100, note. On the independence of the judicial office in The heroic times, see Thirlwall's Greece, vol. i. p. 166.
 
-[255.](#noteref_255)
+ 
 
 —Another part, &c.
 
@@ -41581,7 +41901,7 @@ Such were the horrors of dire war."
 
 —Dyce's Calaber.
 
-[256.](#noteref_256)
+ 
 
 —A field deep furrowed.
 
@@ -41611,15 +41931,15 @@ As if endued with life."
 
 —Dyce's Calaber.
 
-[257.](#noteref_257)
+ 
 
 Coleridge (Greek Classic Poets, p. 182, seq.) has diligently compared this with the description of the shield of Hercules by Hesiod. He remarks that, "with two or three exceptions, the imagery differs in little more than the names and arrangements; and the difference of arrangement in the Shield of Hercules is altogether for the worse. The natural consecution of the Homeric images needs no exposition: it constitutes in itself one of the beauties of the work. The Hesiodic images are huddled together without connection or congruity: Mars and Pallas are awkwardly introduced among the Centaurs and Lapithae;— but the gap is wide indeed between them and Apollo with the Muses, waking the echoes of Olympus to celestial harmonies; whence however, we are hurried back to Perseus, the Gorgons, and other images of war, over an arm of the sea, in which the sporting dolphins, the fugitive fishes, and the fisherman on the shore with his casting net, are minutely represented. As to the Hesiodic images themselves, the leading remark is, that they catch at beauty by ornament, and at sublimity by exaggeration; and upon the untenable supposition of the genuineness of this poem, there is this curious peculiarity, that, in the description of scenes of rustic peace, the superiority of Homer is decisive—while in those of war and tumult it may be thought, perhaps, that the Hesiodic poet has more than once the advantage."
 
-[258.](#noteref_258)
+ 
 
 "This legend is one of the most pregnant and characteristic in the Grecian Mythology; it explains, according to the religious ideas familiar to the old epic poets, both the distinguishing attributes and the endless toil and endurances of Heracles, the most renowned subjugator of all the semi-divine personages worshipped by the Hellenes,—a being of irresistible force, and especially beloved by Zeus, yet condemned constantly to labour for others and to obey the commands of a worthless and cowardly persecutor. His recompense is reserved to the close of his career, when his afflicting trials are brought to a close: he is then admitted to the godhead, and receives in marriage Hebe."—Grote, vol. i. p. 128.
 
-[259.](#noteref_259)
+ 
 
 —Ambrosia.
 
@@ -41631,11 +41951,11 @@ Brings nectar temper'd with ambrosial dews."
 
 Merrick's Tryphiodorus, vi. 249.
 
-[260.](#noteref_260)
+ 
 
 "Hell is naked before him, and destruction hath no covering. He stretcheth out the north over the empty place, and hangeth the earth upon nothing. He bindeth up the waters in his thick clouds; and the cloud is not rent under them." Job xxvi. 6-8.
 
-[261.](#noteref_261)
+ 
 
 "Swift from his throne the infernal monarch ran,
 
@@ -41647,15 +41967,15 @@ Should fill (a countless throng!) his dark abode."
 
 Merrick's Tryphiodorus, vi. 769, sqq.
 
-[262.](#noteref_262)
+ 
 
 These words seem to imply the old belief, that the Fates might be delayed, but never wholly set aside.
 
-[263.](#noteref_263)
+ 
 
 It was anciently believed that it was dangerous, if not fatal, to behold a deity. See Exod. xxxiii. 20; Judg. xiii. 22.
 
-[264.](#noteref_264)
+ 
 
 "Ere Ilium and the Trojan tow'rs arose,
 
@@ -41663,7 +41983,7 @@ In humble vales they built their soft abodes."
 
 Dryden's Virgil, iii. 150.
 
-[265.](#noteref_265)
+ 
 
 —Along the level seas. Compare Virgil's description of Camilla, who
 
@@ -41677,11 +41997,11 @@ Her flying feet unbathed on billows hung."
 
 Dryden, vii. 1100.
 
-[266.](#noteref_266)
+ 
 
 —The future father. "Æneas and Antenor stand distinguished from the other Trojans by a dissatisfaction with Priam, and a sympathy with the Greeks, which is by Sophocles and others construed as treacherous collusion,—a suspicion indirectly glanced at, though emphatically repelled, in the Æneas of Virgil."—Grote, i. p. 427.
 
-[267.](#noteref_267)
+ 
 
 Neptune thus recounts his services to Æneas:
 
@@ -41699,23 +42019,23 @@ The vow'd destruction of ungrateful Troy."
 
 Dryden's Virgil, v. 1058.
 
-[268.](#noteref_268)
+ 
 
 —On Polydore. Euripides, Virgil, and others, relate that Polydore was sent into Thrace, to the house of Polymestor, for protection, being the youngest of Priam's sons, and that he was treacherously murdered by his host for the sake of the treasure sent with him.
 
-[269.](#noteref_269)
+ 
 
 "Perhaps the boldest excursion of Homer into this region of poetical fancy is the collision into which, in the twenty-first of the Iliad, he has brought the river god Scamander, first with Achilles, and afterwards with Vulcan, when summoned by Juno to the hero's aid. The overwhelming fury of the stream finds the natural interpretation in the character of the mountain torrents of Greece and Asia Minor. Their wide, shingly beds are in summer comparatively dry, so as to be easily forded by the foot passenger. But a thunder-shower in the mountains, unobserved perhaps by the traveller on the plain, may suddenly immerse him in the flood of a mighty river. The rescue of Achilles by the fiery arms of Vulcan scarcely admits of the same ready explanation from physical causes. Yet the subsiding of the flood at the critical moment when the hero's destruction appeared imminent, might, by a slight extension of the figurative parallel, be ascribed to a god symbolic of the influences opposed to all atmospheric moisture."—Mure, vol. i. p. 480, sq.
 
-[270.](#noteref_270)
+ 
 
 Wood has observed, that "the circumstance of a falling tree, which is described as reaching from one of its banks to the other, affords a very just idea of the breadth of the Scamander."
 
-[271.](#noteref_271)
+ 
 
 —Ignominious. Drowning, as compared with a death in the field of battle, was considered utterly disgraceful.
 
-[272.](#noteref_272)
+ 
 
 —Beneath a caldron.
 
@@ -41729,11 +42049,11 @@ Black vapours climb aloft, and cloud the day."
 
 Dryden's Virgil, vii. 644.
 
-[273.](#noteref_273)
+ 
 
 "This tale of the temporary servitude of particular gods, by order of Jove, as a punishment for misbehaviour, recurs not unfrequently among the incidents of the Mythical world."—Grote, vol. i. p. 156.
 
-[274.](#noteref_274)
+ 
 
 —Not half so dreadful.
 
@@ -41751,15 +42071,15 @@ Shakes pestilence and war."
 
 —Paradise Lost," xi. 708.
 
-[275.](#noteref_275)
+ 
 
 "And thus his own undaunted mind explores."—"Paradise Lost," vi. 113.
 
-[276.](#noteref_276)
+ 
 
 The example of Nausicaa, in the Odyssey, proves that the duties of the laundry were not thought derogatory, even from the dignity of a princess, in the heroic times.
 
-[277.](#noteref_277)
+ 
 
 —Hesper shines with keener light.
 
@@ -41769,27 +42089,27 @@ If better thou belong not to the dawn."
 
 "Paradise Lost," v. 166.
 
-[278.](#noteref_278)
+ 
 
 Such was his fate. After chasing the Trojans into the town, he was slain by an arrow from the quiver of Paris, directed under the unerring auspices of Apollo. The greatest efforts were made by the Trojans to possess themselves of the body, which was however rescued and borne off to the Grecian camp by the valour of Ajax and Ulysses. Thetis stole away the body, just as the Greeks were about to burn it with funeral honours, and conveyed it away to a renewed life of immortality in the isle of Leuke in the Euxine.
 
-[279.](#noteref_279)
+ 
 
 —Astyanax, i.e. the city-king or guardian. It is amusing that Plato, who often finds fault with Homer without reason, should have copied this twaddling etymology into his Cratylus.
 
-[280.](#noteref_280)
+ 
 
 This book has been closely imitated by Virgil in his fifth book, but it is almost useless to attempt a selection of passages for comparison.
 
-[281.](#noteref_281)
+ 
 
 —Thrice in order led. This was a frequent rite at funerals. The Romans had the same custom, which they called decursio. Plutarch states that Alexander, in after times, renewed these same honours to the memory of Achilles himself.
 
-[282.](#noteref_282)
+ 
 
 —And swore. Literally, and called Orcus, the god of oaths, to witness. See Buttmann, Lexilog, p. 436.
 
-[283.](#noteref_283)
+ 
 
 "O, long expected by thy friends! from whence
 
@@ -41809,7 +42129,7 @@ Deforms the manly features of thy face?"
 
 Dryden, xi. 369.
 
-[284.](#noteref_284)
+ 
 
 —Like a thin smoke. Virgil, Georg. iv. 72.
 
@@ -41823,7 +42143,7 @@ Retired, like subtle smoke dissolved in air."
 
 Dryden.
 
-[285.](#noteref_285)
+ 
 
 So Milton:—
 
@@ -41837,7 +42157,7 @@ And swims, or sinks, or wades, or creeps, or flies."
 
 "Paradise Lost," ii. 948.
 
-[286.](#noteref_286)
+ 
 
 "An ancient forest, for the work design'd
 
@@ -41857,19 +42177,19 @@ Of the bare mountains, roll with ruin down."
 
 Dryden's Virgil, vi. 261.
 
-[287.](#noteref_287)
+ 
 
 —He vowed. This was a very ancient custom.
 
-[288.](#noteref_288)
+ 
 
 The height of the tomb or pile was a great proof of the dignity of the deceased, and the honour in which he was held.
 
-[289.](#noteref_289)
+ 
 
 On the prevalence of this cruel custom amongst the northern nations, see Mallet, p. 213.
 
-[290.](#noteref_290)
+ 
 
 —And calls the spirit. Such was the custom anciently, even at the Roman funerals.
 
@@ -41879,7 +42199,7 @@ Paternal ashes, now revived in vain."
 
 Dryden's Virgil, v. 106.
 
-[291.](#noteref_291)
+ 
 
 Virgil, by making the boaster vanquished, has drawn a better moral from this episode than Homer. The following lines deserve comparison:—
 
@@ -41891,7 +42211,11 @@ His nervous arms the weighty gauntlet wield,
 
 And loud applauses echo through the field.
 
-\* \* \* \*
+
+ 
+ 
+ 
+
 
 Such Dares was, and such he strode along,
 
@@ -41911,7 +42235,11 @@ Presuming of his force, with sparkling eyes,
 
 Already he devours the promised prize.
 
-\* \* \* \*
+
+ 
+ 
+ 
+
 
 If none my matchless valour dares oppose,
 
@@ -41919,7 +42247,7 @@ How long shall Dares wait his dastard foes?"
 
 Dryden's Virgil, v. 486, seq.
 
-[292.](#noteref_292)
+ 
 
 "The gauntlet-fight thus ended, from the shore
 
@@ -41931,11 +42259,11 @@ And pounded teeth came rushing with his blood."
 
 Dryden's Virgil, v. 623.
 
-[293.](#noteref_293)
+ 
 
 "Troilus is only once named in the Iliad; he was mentioned also in the Cypriad but his youth, beauty, and untimely end made him an object of great interest with the subsequent poets."—Grote, i, p. 399.
 
-[294.](#noteref_294)
+ 
 
 Milton has rivalled this passage describing the descent of Gabriel, "Paradise Lost," bk. v. 266, seq.
 
@@ -41947,15 +42275,27 @@ Sails between worlds and worlds, with steady wing,
 
 Now on the polar winds, then with quick fan
 
-Winnows the buxom air. \* \* \* \*
+Winnows the buxom air. 
+ 
+ 
+ 
 
-\* \* \* \*
+
+
+ 
+ 
+ 
+
 
 At once on th' eastern cliff of Paradise
 
 He lights, and to his proper shape returns
 
-A seraph wing'd. \* \* \* \*
+A seraph wing'd. 
+ 
+ 
+ 
+
 
 Like Maia's son he stood,
 
@@ -41981,7 +42321,11 @@ With this he draws the ghost from hollow graves;
 
 With this he drives them from the Stygian waves:
 
-\* \* \* \*
+
+ 
+ 
+ 
+
 
 Thus arm'd, the god begins his airy race,
 
@@ -41989,17 +42333,17 @@ And drives the racking clouds along the liquid space."
 
 Dryden.
 
-[295.](#noteref_295)
+ 
 
 In reference to the whole scene that follows, the remarks of Coleridge are well worth reading:—
 
 "By a close study of life, and by a true and natural mode of expressing everything, Homer was enabled to venture upon the most peculiar and difficult situations, and to extricate himself from them with the completest success. The whole scene between Achilles and Priam, when the latter comes to the Greek camp for the purpose of redeeming the body of Hector, is at once the most profoundly skilful, and yet the simplest and most affecting passage in the Iliad. Quinctilian has taken notice of the following speech of Priam, the rhetorical artifice of which is so transcendent, that if genius did not often, especially in oratory, unconsciously fulfil the most subtle precepts of criticism, we might be induced, on this account alone, to consider the last book of the Iliad as what is called spurious, in other words, of later date than the rest of the poem. Observe the exquisite taste of Priam in occupying the mind of Achilles, from the outset, with the image of his father; in gradually introducing the parallel of his own situation; and, lastly, mentioning Hector's name when he perceives that the hero is softened, and then only in such a manner as to flatter the pride of the conqueror. The ego d'eleeinoteros per, and the apusato aecha geronta, are not exactly like the tone of the earlier parts of the Iliad. They are almost too fine and pathetic. The whole passage defies translation, for there is that about the Greek which has no name, but which is of so fine and ethereal a subtlety that it can only be felt in the original, and is lost in an attempt to transfuse it into another language."—Coleridge, p. 195.
 
-[296.](#noteref_296)
+ 
 
 "Achilles' ferocious treatment of the corpse of Hector cannot but offend as referred to the modern standard of humanity. The heroic age, however, must be judged by its own moral laws. Retributive vengeance on the dead, as well as the living, was a duty inculcated by the religion of those barbarous times which not only taught that evil inflicted on the author of evil was a solace to the injured man; but made the welfare of the soul after death dependent on the fate of the body from which it had separated. Hence a denial of the rites essential to the soul's admission into the more favoured regions of the lower world was a cruel punishment to the wanderer on the dreary shores of the infernal river. The complaint of the ghost of Patroclus to Achilles, of but a brief postponement of his own obsequies, shows how efficacious their refusal to the remains of his destroyer must have been in satiating the thirst of revenge, which, even after death, was supposed to torment the dwellers in Hades. Hence before yielding up the body of Hector to Priam, Achilles asks pardon of Patroclus for even this partial cession of his just rights of retribution."—Mure, vol. i. 289.
 
-[297.](#noteref_297)
+ 
 
 Such was the fate of Astyanax, when Troy was taken.
 
@@ -42009,230 +42353,28 @@ Andromache bewail'd her infant son."
 
 Merrick's Tryphiodorus, v. 675.
 
-[298.](#noteref_298)
+ 
 
 The following observations of Coleridge furnish a most gallant and interesting view of Helen's character—
 
 "Few things are more interesting than to observe how the same hand that has given us the fury and inconsistency of Achilles, gives us also the consummate elegance and tenderness of Helen. She is through the Iliad a genuine lady, graceful in motion and speech, noble in her associations, full of remorse for a fault for which higher powers seem responsible, yet grateful and affectionate towards those with whom that fault had committed her. I have always thought the following speech in which Helen laments Hector, and hints at her own invidious and unprotected situation in Troy, as almost the sweetest passage in the poem. It is another striking instance of that refinement of feeling and softness of tone which so generally distinguish the last book of the Iliad from the rest."—Classic Poets, p. 198, seq.
 
-[299.](#noteref_299)
+ 
 
 "And here we part with Achilles at the moment best calculated to exalt and purify our impression of his character. We had accompanied him through the effervescence, undulations, and final subsidence of his stormy passions. We now leave him in repose and under the full influence of the more amiable affections, while our admiration of his great qualities is chastened by the reflection that, within a few short days the mighty being in whom they were united was himself to be suddenly cut off in the full vigour of their exercise.
 
 The frequent and touching allusions, interspersed throughout the Iliad, to the speedy termination of its hero's course, and the moral on the vanity of human life which they indicate, are among the finest evidences of the spirit of ethic unity by which the whole framework of the poem is united."—Mure, vol. i. p 201.
 
-[300.](#noteref_300)
+ 
 
 Cowper says,—"I cannot take my leave of this noble poem without expressing how much I am struck with the plain conclusion of it. It is like the exit of a great man out of company, whom he has entertained magnificently; neither pompous nor familiar; not contemptuous, yet without much ceremony." Coleridge, p. 227, considers the termination of "Paradise Lost" somewhat similar.
 
-* * *
 
-\*\*\*END OF THE PROJECT GUTENBERG EBOOK THE ILIAD OF HOMER\*\*\*
 
-* * *
 
-Credits
-=======
 
-July 2004  
 
-Posted to Project Gutenberg
+---
 
-Anne Soulard,  
-Juliet Sutherland,  
-Charles Franks, and  
-The Online Distributed Proofreading Team  
 
-September 2006  
-
-Converted to PGTEI v.04
-
-Joshua Hutchinson  
-
-* * *
-
-A Word from Project Gutenberg
-=============================
-
-This file should be named 6130-h.html or 6130-h.zip.
-
-This and all associated files of various formats will be found in: [http://www.gutenberg.org/dirs/6/1/3/6130/](http://www.gutenberg.org/dirs/6/1/3/6130/)
-
-Updated editions will replace the previous one — the old editions will be renamed.
-
-Creating the works from public domain print editions means that no one owns a United States copyright in these works, so the Foundation (and you!) can copy and distribute it in the United States without permission and without paying copyright royalties. Special rules, set forth in the General Terms of Use part of this license, apply to copying and distributing Project Gutenberg™ electronic works to protect the Project Gutenberg™ concept and trademark. Project Gutenberg is a registered trademark, and may not be used if you charge for the eBooks, unless you receive specific permission. If you do not charge anything for copies of this eBook, complying with the rules is very easy. You may use this eBook for nearly any purpose such as creation of derivative works, reports, performances and research. They may be modified and printed and given away — you may do practically _anything_ with public domain eBooks. Redistribution is subject to the trademark license, especially commercial redistribution.
-
-* * *
-
-The Full Project Gutenberg License
-==================================
-
-_Please read this before you distribute or use this work._
-
-To protect the Project Gutenberg™ mission of promoting the free distribution of electronic works, by using or distributing this work (or any other work associated in any way with the phrase “Project Gutenberg”), you agree to comply with all the terms of the Full Project Gutenberg™ License ([available with this file](#pglicense) or online at [http://www.gutenberg.org/license](http://www.gutenberg.org/license)).
-
-Section 1.
-----------
-
-General Terms of Use & Redistributing Project Gutenberg™ electronic works
--------------------------------------------------------------------------
-
-### 1.A.
-
-By reading or using any part of this Project Gutenberg™ electronic work, you indicate that you have read, understand, agree to and accept all the terms of this license and intellectual property (trademark/copyright) agreement. If you do not agree to abide by all the terms of this agreement, you must cease using and return or destroy all copies of Project Gutenberg™ electronic works in your possession. If you paid a fee for obtaining a copy of or access to a Project Gutenberg™ electronic work and you do not agree to be bound by the terms of this agreement, you may obtain a refund from the person or entity to whom you paid the fee as set forth in paragraph [1.E.8.](#pglicense1E8)
-
-### 1.B.
-
-“Project Gutenberg” is a registered trademark. It may only be used on or associated in any way with an electronic work by people who agree to be bound by the terms of this agreement. There are a few things that you can do with most Project Gutenberg™ electronic works even without complying with the full terms of this agreement. See paragraph [1.C](#pglicense1C) below. There are a lot of things you can do with Project Gutenberg™ electronic works if you follow the terms of this agreement and help preserve free future access to Project Gutenberg™ electronic works. See paragraph [1.E](#pglicense1E) below.
-
-### 1.C.
-
-The Project Gutenberg Literary Archive Foundation (“the Foundation” or PGLAF), owns a compilation copyright in the collection of Project Gutenberg™ electronic works. Nearly all the individual works in the collection are in the public domain in the United States. If an individual work is in the public domain in the United States and you are located in the United States, we do not claim a right to prevent you from copying, distributing, performing, displaying or creating derivative works based on the work as long as all references to Project Gutenberg are removed. Of course, we hope that you will support the Project Gutenberg™ mission of promoting free access to electronic works by freely sharing Project Gutenberg™ works in compliance with the terms of this agreement for keeping the Project Gutenberg™ name associated with the work. You can easily comply with the terms of this agreement by keeping this work in the same format with its attached full Project Gutenberg™ License when you share it without charge with others.
-
-### 1.D.
-
-The copyright laws of the place where you are located also govern what you can do with this work. Copyright laws in most countries are in a constant state of change. If you are outside the United States, check the laws of your country in addition to the terms of this agreement before downloading, copying, displaying, performing, distributing or creating derivative works based on this work or any other Project Gutenberg™ work. The Foundation makes no representations concerning the copyright status of any work in any country outside the United States.
-
-### 1.E.
-
-Unless you have removed all references to Project Gutenberg:
-
-#### 1.E.1.
-
-The following sentence, with active links to, or other immediate access to, the full Project Gutenberg™ License must appear prominently whenever any copy of a Project Gutenberg™ work (any work on which the phrase “Project Gutenberg” appears, or with which the phrase “Project Gutenberg” is associated) is accessed, displayed, performed, viewed, copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at [http://www.gutenberg.org](http://www.gutenberg.org)
-
-#### 1.E.2.
-
-If an individual Project Gutenberg™ electronic work is derived from the public domain (does not contain a notice indicating that it is posted with permission of the copyright holder), the work can be copied and distributed to anyone in the United States without paying any fees or charges. If you are redistributing or providing access to a work with the phrase “Project Gutenberg” associated with or appearing on the work, you must comply either with the requirements of paragraphs [1.E.1](#pglicense1E1) through 1.E.7 or obtain permission for the use of the work and the Project Gutenberg™ trademark as set forth in paragraphs [1.E.8](#pglicense1E8) or 1.E.9.
-
-#### 1.E.3.
-
-If an individual Project Gutenberg™ electronic work is posted with the permission of the copyright holder, your use and distribution must comply with both paragraphs [1.E.1](#pglicense1E1) through 1.E.7 and any additional terms imposed by the copyright holder. Additional terms will be linked to the Project Gutenberg™ License for all works posted with the permission of the copyright holder found at the beginning of this work.
-
-#### 1.E.4.
-
-Do not unlink or detach or remove the full Project Gutenberg™ License terms from this work, or any files containing a part of this work or any other work associated with Project Gutenberg™.
-
-#### 1.E.5.
-
-Do not copy, display, perform, distribute or redistribute this electronic work, or any part of this electronic work, without prominently displaying the sentence set forth in paragraph [1.E.1](#pglicense1E1) with active links or immediate access to the full terms of the Project Gutenberg™ License.
-
-#### 1.E.6.
-
-You may convert to and distribute this work in any binary, compressed, marked up, nonproprietary or proprietary form, including any word processing or hypertext form. However, if you provide access to or distribute copies of a Project Gutenberg™ work in a format other than “Plain Vanilla ASCII” or other format used in the official version posted on the official Project Gutenberg™ web site (http://www.gutenberg.org), you must, at no additional cost, fee or expense to the user, provide a copy, a means of exporting a copy, or a means of obtaining a copy upon request, of the work in its original “Plain Vanilla ASCII” or other form. Any alternate format must include the full Project Gutenberg™ License as specified in paragraph [1.E.1.](#pglicense1E1)
-
-#### 1.E.7.
-
-Do not charge a fee for access to, viewing, displaying, performing, copying or distributing any Project Gutenberg™ works unless you comply with paragraph [1.E.8](#pglicense1E8) or 1.E.9.
-
-#### 1.E.8.
-
-You may charge a reasonable fee for copies of or providing access to or distributing Project Gutenberg™ electronic works provided that
-
-•  
-
-You pay a royalty fee of 20% of the gross profits you derive from the use of Project Gutenberg™ works calculated using the method you already use to calculate your applicable taxes. The fee is owed to the owner of the Project Gutenberg™ trademark, but he has agreed to donate royalties under this paragraph to the Project Gutenberg Literary Archive Foundation. Royalty payments must be paid within 60 days following each date on which you prepare (or are legally required to prepare) your periodic tax returns. Royalty payments should be clearly marked as such and sent to the Project Gutenberg Literary Archive Foundation at the address specified in [Section 4, “Information about donations to the Project Gutenberg Literary Archive Foundation.”](#pglicense4)
-
-•  
-
-You provide a full refund of any money paid by a user who notifies you in writing (or by e-mail) within 30 days of receipt that s/he does not agree to the terms of the full Project Gutenberg™ License. You must require such a user to return or destroy all copies of the works possessed in a physical medium and discontinue all use of and all access to other copies of Project Gutenberg™ works.
-
-•  
-
-You provide, in accordance with paragraph [1.F.3](#pglicense1F3), a full refund of any money paid for a work or a replacement copy, if a defect in the electronic work is discovered and reported to you within 90 days of receipt of the work.
-
-•  
-
-You comply with all other terms of this agreement for free distribution of Project Gutenberg™ works.
-
-#### 1.E.9.
-
-If you wish to charge a fee or distribute a Project Gutenberg™ electronic work or group of works on different terms than are set forth in this agreement, you must obtain permission in writing from both the Project Gutenberg Literary Archive Foundation and Michael Hart, the owner of the Project Gutenberg™ trademark. Contact the Foundation as set forth in [Section 3](#pglicense3) below.
-
-### 1.F.
-
-#### 1.F.1.
-
-Project Gutenberg volunteers and employees expend considerable effort to identify, do copyright research on, transcribe and proofread public domain works in creating the Project Gutenberg™ collection. Despite these efforts, Project Gutenberg™ electronic works, and the medium on which they may be stored, may contain “Defects,” such as, but not limited to, incomplete, inaccurate or corrupt data, transcription errors, a copyright or other intellectual property infringement, a defective or damaged disk or other medium, a computer virus, or computer codes that damage or cannot be read by your equipment.
-
-#### 1.F.2.
-
-LIMITED WARRANTY, DISCLAIMER OF DAMAGES — Except for the “Right of Replacement or Refund” described in [paragraph 1.F.3](#pglicense1F3), the Project Gutenberg Literary Archive Foundation, the owner of the Project Gutenberg™ trademark, and any other party distributing a Project Gutenberg™ electronic work under this agreement, disclaim all liability to you for damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3. YOU AGREE THAT THE FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH DAMAGE.
-
-#### 1.F.3.
-
-LIMITED RIGHT OF REPLACEMENT OR REFUND — If you discover a defect in this electronic work within 90 days of receiving it, you can receive a refund of the money (if any) you paid for it by sending a written explanation to the person you received the work from. If you received the work on a physical medium, you must return the medium with your written explanation. The person or entity that provided you with the defective work may elect to provide a replacement copy in lieu of a refund. If you received the work electronically, the person or entity providing it to you may choose to give you a second opportunity to receive the work electronically in lieu of a refund. If the second copy is also defective, you may demand a refund in writing without further opportunities to fix the problem.
-
-#### 1.F.4.
-
-Except for the limited right of replacement or refund set forth in [paragraph 1.F.3](#pglicense1F3), this work is provided to you 'AS-IS,' WITH NO OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-#### 1.F.5.
-
-Some states do not allow disclaimers of certain implied warranties or the exclusion or limitation of certain types of damages. If any disclaimer or limitation set forth in this agreement violates the law of the state applicable to this agreement, the agreement shall be interpreted to make the maximum disclaimer or limitation permitted by the applicable state law. The invalidity or unenforceability of any provision of this agreement shall not void the remaining provisions.
-
-#### 1.F.6.
-
-INDEMNITY — You agree to indemnify and hold the Foundation, the trademark owner, any agent or employee of the Foundation, anyone providing copies of Project Gutenberg™ electronic works in accordance with this agreement, and any volunteers associated with the production, promotion and distribution of Project Gutenberg™ electronic works, harmless from all liability, costs and expenses, including legal fees, that arise directly or indirectly from any of the following which you do or cause to occur: (a) distribution of this or any Project Gutenberg™ work, (b) alteration, modification, or additions or deletions to any Project Gutenberg™ work, and (c) any Defect you cause.
-
-Section 2.
-----------
-
-Information about the Mission of Project Gutenberg™
----------------------------------------------------
-
-Project Gutenberg™ is synonymous with the free distribution of electronic works in formats readable by the widest variety of computers including obsolete, old, middle-aged and new computers. It exists because of the efforts of hundreds of volunteers and donations from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the assistance they need, is critical to reaching Project Gutenberg™'s goals and ensuring that the Project Gutenberg™ collection will remain freely available for generations to come. In 2001, the Project Gutenberg Literary Archive Foundation was created to provide a secure and permanent future for Project Gutenberg™ and future generations. To learn more about the Project Gutenberg Literary Archive Foundation and how your efforts and donations can help, see Sections [3](#pglicense3) and [4](#pglicense4) and the Foundation web page at [http://www.pglaf.org](http://www.pglaf.org).
-
-Section 3.
-----------
-
-Information about the Project Gutenberg Literary Archive Foundation
--------------------------------------------------------------------
-
-The Project Gutenberg Literary Archive Foundation is a non profit 501(c)(3) educational corporation organized under the laws of the state of Mississippi and granted tax exempt status by the Internal Revenue Service. The Foundation's EIN or federal tax identification number is 64-6221541. Its 501(c)(3) letter is posted at [http://www.gutenberg.org/fundraising/pglaf](http://www.gutenberg.org/fundraising/pglaf). Contributions to the Project Gutenberg Literary Archive Foundation are tax deductible to the full extent permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S. Fairbanks, AK, 99712., but its volunteers and employees are scattered throughout numerous locations. Its business office is located at 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email business@pglaf.org. Email contact links and up to date contact information can be found at the Foundation's web site and official page at [http://www.pglaf.org](http://www.pglaf.org)
-
-For additional contact information:
-
-Dr. Gregory B. Newby  
-Chief Executive and Director  
-gbnewby@pglaf.org  
-
-Section 4.
-----------
-
-Information about Donations to the Project Gutenberg Literary Archive Foundation
---------------------------------------------------------------------------------
-
-Project Gutenberg™ depends upon and cannot survive without wide spread public support and donations to carry out its mission of increasing the number of public domain and licensed works that can be freely distributed in machine readable form accessible by the widest array of equipment including outdated equipment. Many small donations ($1 to $5,000) are particularly important to maintaining tax exempt status with the IRS.
-
-The Foundation is committed to complying with the laws regulating charities and charitable donations in all 50 states of the United States. Compliance requirements are not uniform and it takes a considerable effort, much paperwork and many fees to meet and keep up with these requirements. We do not solicit donations in locations where we have not received written confirmation of compliance. To SEND DONATIONS or determine the status of compliance for any particular state visit [http://www.gutenberg.org/fundraising/donate](http://www.gutenberg.org/fundraising/donate)
-
-While we cannot and do not solicit contributions from states where we have not met the solicitation requirements, we know of no prohibition against accepting unsolicited donations from donors in such states who approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make any statements concerning tax treatment of donations received from outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation methods and addresses. Donations are accepted in a number of other ways including checks, online payments and credit card donations. To donate, please visit: [http://www.gutenberg.org/fundraising/donate](http://www.gutenberg.org/fundraising/donate)
-
-Section 5.
-----------
-
-General Information About Project Gutenberg™ electronic works.
---------------------------------------------------------------
-
-Professor Michael S. Hart is the originator of the Project Gutenberg™ concept of a library of electronic works that could be freely shared with anyone. For thirty years, he produced and distributed Project Gutenberg™ eBooks with only a loose network of volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed editions, all of which are confirmed as Public Domain in the U.S. unless a copyright notice is included. Thus, we do not necessarily keep eBooks in compliance with any particular paper edition.
-
-Each eBook is in a subdirectory of the same number as the eBook's eBook number, often in several formats including plain vanilla ASCII, compressed (zipped), HTML and others.
-
-Corrected _editions_ of our eBooks replace the old file and take over the old filename and etext number. The replaced older file is renamed. _Versions_ based on separate sources are treated as new eBooks receiving new filenames and etext numbers.
-
-Most people start at our Web site which has the main PG search facility: [http://www.gutenberg.org](http://www.gutenberg.org)
-
-This Web site includes information about Project Gutenberg™, including how to make donations to the Project Gutenberg Literary Archive Foundation, how to help produce our new eBooks, and how to subscribe to our email newsletter to hear about new eBooks.
+### The End
